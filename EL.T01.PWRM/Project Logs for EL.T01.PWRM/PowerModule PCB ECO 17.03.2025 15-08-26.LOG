@@ -1,0 +1,181 @@
+Removed Pin From Net: NetName=Vcc Pin=C1_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C1_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=Vcc Pin=C1_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C1_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=Vcc Pin=C1_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C1_PowerModuleCell_M4-2
+Removed Pin From Net: NetName=Vcc_F Pin=C2_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C2_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=Vcc_F Pin=C2_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C2_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=Vcc_F Pin=C2_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C2_PowerModuleCell_M4-2
+Removed Pin From Net: NetName=Vcc_F Pin=L1_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Vcc Pin=L1_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=Vcc_F Pin=L1_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Vcc Pin=L1_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=Vcc_F Pin=L1_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Vcc Pin=L1_PowerModuleCell_M4-2
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M2-3
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M2-13
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M2-14
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M2-15
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M3-3
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M3-13
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M3-14
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M3-15
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M4-2
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M4-3
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M4-13
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M4-14
+Removed Pin From Net: NetName=Load Pin=Q1_PowerModuleCell_M4-15
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R4_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R4_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R4_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R12_ShuntAmp2-2
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R12_ShuntAmp3-2
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R12_ShuntAmp4-2
+Removed Pin From Net: NetName=SCL Pin=R13_Temp2-1
+Removed Pin From Net: NetName=Vcc Pin=R13_Temp2-2
+Removed Pin From Net: NetName=SCL Pin=R13_Temp3-1
+Removed Pin From Net: NetName=Vcc Pin=R13_Temp3-2
+Removed Pin From Net: NetName=SCL Pin=R13_Temp4-1
+Removed Pin From Net: NetName=Vcc Pin=R13_Temp4-2
+Removed Pin From Net: NetName=SDA Pin=R14_Temp2-1
+Removed Pin From Net: NetName=Vcc Pin=R14_Temp2-2
+Removed Pin From Net: NetName=SDA Pin=R14_Temp3-1
+Removed Pin From Net: NetName=Vcc Pin=R14_Temp3-2
+Removed Pin From Net: NetName=SDA Pin=R14_Temp4-1
+Removed Pin From Net: NetName=Vcc Pin=R14_Temp4-2
+Removed Pin From Net: NetName=Vcc Pin=R15_Temp2-2
+Removed Pin From Net: NetName=Vcc Pin=R15_Temp3-2
+Removed Pin From Net: NetName=Vcc Pin=R15_Temp4-2
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M1-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M1-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M2-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M2-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M3-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M3-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M4-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M4-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_ShuntAmp1-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp1-5
+Removed Pin From Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=U1_ShuntAmp1-10
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp1-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_ShuntAmp2-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp2-5
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp2-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_ShuntAmp3-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp3-5
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp3-11
+Removed Pin From Net: NetName=Vcc_F Pin=U1_ShuntAmp4-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp4-5
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_ShuntAmp4-11
+Removed Pin From Net: NetName=SDA Pin=U2_Temp2-A1
+Removed Pin From Net: NetName=SCL Pin=U2_Temp2-A2
+Removed Pin From Net: NetName=Vcc Pin=U2_Temp2-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U2_Temp2-B2
+Removed Pin From Net: NetName=SDA Pin=U2_Temp3-A1
+Removed Pin From Net: NetName=SCL Pin=U2_Temp3-A2
+Removed Pin From Net: NetName=Vcc Pin=U2_Temp3-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U2_Temp3-B2
+Removed Pin From Net: NetName=SDA Pin=U2_Temp4-A1
+Removed Pin From Net: NetName=SCL Pin=U2_Temp4-A2
+Removed Pin From Net: NetName=Vcc Pin=U2_Temp4-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U2_Temp4-B2
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=U1_PowerModuleCell_M1
+Removed Member From Class: ClassName=ShuntAmp1 Member=U1_ShuntAmp1
+Change Component Footprint: Designator=R4_PowerModuleCell_M1 Old Footprint=FP-CSS2H-5930K-1L00F-MFG New Footprint=FP-CSS2H-5930K-1L00F-MFG
+Change Component Footprint: Designator=L1_PowerModuleCell_M1 Old Footprint=WE-PD_7345 New Footprint=WE-PD_7345
+Change Component Designator: OldDesignator=C1_PowerModuleCell_M1 NewDesignator=C1
+Change Component Designator: OldDesignator=C2_PowerModuleCell_M1 NewDesignator=C2
+Change Component Designator: OldDesignator=L1_PowerModuleCell_M1 NewDesignator=L1
+Change Component Designator: OldDesignator=Q1_PowerModuleCell_M1 NewDesignator=Q1
+Change Component Designator: OldDesignator=R1_PowerModuleCell_M1 NewDesignator=R1
+Change Component Designator: OldDesignator=R2_PowerModuleCell_M1 NewDesignator=R2
+Change Component Designator: OldDesignator=R3_PowerModuleCell_M1 NewDesignator=R3
+Change Component Designator: OldDesignator=R4_PowerModuleCell_M1 NewDesignator=R4
+Change Component Designator: OldDesignator=R5_ShuntAmp1 NewDesignator=R5
+Change Component Designator: OldDesignator=R6_ShuntAmp1 NewDesignator=R6
+Change Component Designator: OldDesignator=R7_ShuntAmp1 NewDesignator=R7
+Change Component Designator: OldDesignator=R8_ShuntAmp1 NewDesignator=R8
+Change Component Designator: OldDesignator=R9_ShuntAmp1 NewDesignator=R9
+Change Component Designator: OldDesignator=R10_ShuntAmp1 NewDesignator=R10
+Change Component Designator: OldDesignator=R11_ShuntAmp1 NewDesignator=R11
+Change Component Designator: OldDesignator=R12_ShuntAmp1 NewDesignator=R12
+Change Component Designator: OldDesignator=R13_Temp1 NewDesignator=R13
+Change Component Designator: OldDesignator=R14_Temp1 NewDesignator=R14
+Change Component Designator: OldDesignator=R15_Temp1 NewDesignator=R15
+Change Component Designator: OldDesignator=U2_Temp1 NewDesignator=U2
+Added Component: Designator=U1(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc_F Pin=U1-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1-5
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=U1-10
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1-11
+Change Net Name : Old Net Name=NetQ1_PowerModuleCell_M1_12 New Net Name=NetQ1_12
+Change Net Name : Old Net Name=NetR15_Temp1_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetU2_Temp1_C1 New Net Name=NetU2_C1
+Change Net Name : Old Net Name=Shunt_H_PowerModuleCell_M1 New Net Name=Shunt_H
+Change Net Name : Old Net Name=Shunt_L_PowerModuleCell_M1 New Net Name=Shunt_L
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-13
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R7-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-7
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R9-1
+Added Pin To Net: NetName=NetR6_2 Pin=U1-14
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1-6
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R10-2
+Added Pin To Net: NetName=NetR8_1 Pin=U1-9
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=U1-8
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-1
+Added Pin To Net: NetName=NetR11_1 Pin=U1-12
+Added Net: Name=NetR11_1
+Change Class Name : Old Net Name=ShuntAmp1 New Net Name=ShuntAmp
+Change Class Name : Old Net Name=Temp1 New Net Name=Temp
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component U1 LM324DR2G

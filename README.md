@@ -30,3 +30,7 @@ Expandable load module support without requiring firmware modifications;
 Visualization of statistical data in graphical format (planned feature);
 Data transmission to a computer via wired connection (OTG/UART), with future wireless (Wi-Fi) support;
 Supported modes: constant power, resistance, voltage, and current.
+
+
+
+/------------------------------------------------------------------------------------------------------------------------------------------------------------
