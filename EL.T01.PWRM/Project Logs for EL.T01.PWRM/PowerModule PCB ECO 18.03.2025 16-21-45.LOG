@@ -1,0 +1,245 @@
+Added Component: Designator=U1_PowerModuleCell_M1(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U1_PowerModuleCell_M2(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U1_PowerModuleCell_M3(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U1_PowerModuleCell_M4(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U5_PowerModuleCell_M1(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U5_PowerModuleCell_M2(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U5_PowerModuleCell_M3(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=U5_PowerModuleCell_M4(ONSC-SOIC-14-751A-03_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/LM324-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.com/pub_link/Collateral/751A-03.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Small Outline Integrated Circuit, Body 8.65 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-14-751A-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. K, 05/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM324DR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Max (V)"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC Min (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M1_1 Pin=U1_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-3
+Added Pin To Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M1-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M1-11
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-3
+Added Pin To Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M2-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M2-11
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-3
+Added Pin To Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M3-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M3-11
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-3
+Added Pin To Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M4-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M4-11
+Added Pin To Net: NetName=Vcc_F Pin=U5_PowerModuleCell_M1-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M1-5
+Added Pin To Net: NetName=NetR16_PowerModuleCell_M1_1 Pin=U5_PowerModuleCell_M1-6
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M1_2 Pin=U5_PowerModuleCell_M1-7
+Added Pin To Net: NetName=NetR19_PowerModuleCell_M1_1 Pin=U5_PowerModuleCell_M1-8
+Added Pin To Net: NetName=NetR17_PowerModuleCell_M1_1 Pin=U5_PowerModuleCell_M1-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M1-10
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M1-11
+Added Pin To Net: NetName=NetR20_PowerModuleCell_M1_1 Pin=U5_PowerModuleCell_M1-12
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M1_1 Pin=U5_PowerModuleCell_M1-13
+Added Pin To Net: NetName=NetR15_PowerModuleCell_M1_2 Pin=U5_PowerModuleCell_M1-14
+Added Pin To Net: NetName=Vcc_F Pin=U5_PowerModuleCell_M2-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M2-5
+Added Pin To Net: NetName=NetR16_PowerModuleCell_M2_1 Pin=U5_PowerModuleCell_M2-6
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M2_2 Pin=U5_PowerModuleCell_M2-7
+Added Pin To Net: NetName=NetR19_PowerModuleCell_M2_1 Pin=U5_PowerModuleCell_M2-8
+Added Pin To Net: NetName=NetR17_PowerModuleCell_M2_1 Pin=U5_PowerModuleCell_M2-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=U5_PowerModuleCell_M2-10
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M2-11
+Added Pin To Net: NetName=NetR20_PowerModuleCell_M2_1 Pin=U5_PowerModuleCell_M2-12
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M2_1 Pin=U5_PowerModuleCell_M2-13
+Added Pin To Net: NetName=NetR15_PowerModuleCell_M2_2 Pin=U5_PowerModuleCell_M2-14
+Added Pin To Net: NetName=Vcc_F Pin=U5_PowerModuleCell_M3-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M3-5
+Added Pin To Net: NetName=NetR16_PowerModuleCell_M3_1 Pin=U5_PowerModuleCell_M3-6
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M3_2 Pin=U5_PowerModuleCell_M3-7
+Added Pin To Net: NetName=NetR19_PowerModuleCell_M3_1 Pin=U5_PowerModuleCell_M3-8
+Added Pin To Net: NetName=NetR17_PowerModuleCell_M3_1 Pin=U5_PowerModuleCell_M3-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=U5_PowerModuleCell_M3-10
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M3-11
+Added Pin To Net: NetName=NetR20_PowerModuleCell_M3_1 Pin=U5_PowerModuleCell_M3-12
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M3_1 Pin=U5_PowerModuleCell_M3-13
+Added Pin To Net: NetName=NetR15_PowerModuleCell_M3_2 Pin=U5_PowerModuleCell_M3-14
+Added Pin To Net: NetName=Vcc_F Pin=U5_PowerModuleCell_M4-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M4-5
+Added Pin To Net: NetName=NetR16_PowerModuleCell_M4_1 Pin=U5_PowerModuleCell_M4-6
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M4_2 Pin=U5_PowerModuleCell_M4-7
+Added Pin To Net: NetName=NetR19_PowerModuleCell_M4_1 Pin=U5_PowerModuleCell_M4-8
+Added Pin To Net: NetName=NetR17_PowerModuleCell_M4_1 Pin=U5_PowerModuleCell_M4-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=U5_PowerModuleCell_M4-10
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U5_PowerModuleCell_M4-11
+Added Pin To Net: NetName=NetR20_PowerModuleCell_M4_1 Pin=U5_PowerModuleCell_M4-12
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M4_1 Pin=U5_PowerModuleCell_M4-13
+Added Pin To Net: NetName=NetR15_PowerModuleCell_M4_2 Pin=U5_PowerModuleCell_M4-14
+Added Member To Class: ClassName=PowerModule Member=Component C4 1uF, 25V, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C5 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C7 220nF 25V, X7R, 0603
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R10_PowerModuleCell_M1 (R10) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R10_PowerModuleCell_M3 (R10) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R10_PowerModuleCell_M4 (R10) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R11_PowerModuleCell_M1 (R11) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R11_PowerModuleCell_M2 (R11) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R11_PowerModuleCell_M3 (R11) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R11_PowerModuleCell_M4 (R11) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R12_PowerModuleCell_M2 (R12) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R12_PowerModuleCell_M3 (R12) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R12_PowerModuleCell_M4 (R12) 1K 1%, 0402
+Added Member To Class: ClassName=Temp2 Member=Component R22_Temp2 (R22) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp3 Member=Component R22_Temp3 (R22) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp1 Member=Component R23_Temp1 (R23) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp2 Member=Component R23_Temp2 (R23) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp3 Member=Component R23_Temp3 (R23) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp4 Member=Component R23_Temp4 (R23) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component U1_PowerModuleCell_M1 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component U1_PowerModuleCell_M2 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component U1_PowerModuleCell_M3 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component U1_PowerModuleCell_M4 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModule Member=Component U4 LM4132AMF-2.5/NOPB
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component U5_PowerModuleCell_M1 (U5A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component U5_PowerModuleCell_M2 (U5A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component U5_PowerModuleCell_M3 (U5A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component U5_PowerModuleCell_M4 (U5A) LM324DR2G
+Added Room: Name=PowerModule
+Added Room: Name=PowerModuleCell_M1
+Added Room: Name=PowerModuleCell_M2
+Added Room: Name=PowerModuleCell_M3
+Added Room: Name=PowerModuleCell_M4
+Added Room: Name=Temp1
+Added Room: Name=Temp2
+Added Room: Name=Temp3
+Added Room: Name=Temp4

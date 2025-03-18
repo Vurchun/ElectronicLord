@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetR11_PowerModuleCell_M1_1 Pin=U1_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=NetR10_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-2
+Removed Pin From Net: NetName=NetR12_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-3
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M1-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M1-11
+Removed Pin From Net: NetName=NetR11_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=NetR10_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=NetR12_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-3
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M2-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M2-11
+Removed Pin From Net: NetName=NetR11_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=NetR10_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=NetR12_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-3
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M3-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M3-11
+Removed Pin From Net: NetName=NetR11_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=NetR10_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-2
+Removed Pin From Net: NetName=NetR12_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-3
+Removed Pin From Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M4-4
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M4-11
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=U5_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=U5_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=U5_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=U5_PowerModuleCell_M4
+Change Component Designator: OldDesignator=U5_PowerModuleCell_M1 NewDesignator=U1_PowerModuleCell_M1
+Change Component Designator: OldDesignator=U5_PowerModuleCell_M2 NewDesignator=U1_PowerModuleCell_M2
+Change Component Designator: OldDesignator=U5_PowerModuleCell_M3 NewDesignator=U1_PowerModuleCell_M3
+Change Component Designator: OldDesignator=U5_PowerModuleCell_M4 NewDesignator=U1_PowerModuleCell_M4
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M1_1 Pin=U1_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-3
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-3
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-3
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-3
