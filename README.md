@@ -34,3 +34,7 @@ Supported modes: constant power, resistance, voltage, and current.
 
 
 /------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EL.T01.MBRD 	- main board module
+EL.T01.PWRM 	- load module
+EL.T01.UIM 		- User interfacer module
