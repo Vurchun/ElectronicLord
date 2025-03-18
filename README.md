@@ -33,8 +33,12 @@ Supported modes: constant power, resistance, voltage, and current.
 
 
 
-/------------------------------------------------------------------------------------------------------------------------------------------------------------
+/------------------------------------------------------------------------------------------------------------------------------
 
 EL.T01.MBRD 	- main board module
 EL.T01.PWRM 	- load module
 EL.T01.UIM 		- User interfacer module
+
+/------------------------------------------------------------------------------------------------------------------------------
+Feature
+In addition to setting the maximum power to the load module, the life of the MOSFET transistors should be checked. The voltage required to open the transistors to a given level should also be assessed. It is important to recognise that a transistor showing signs of thermal damage (‘burnt’) will have an increased resistance, necessitating a higher voltage to fully open to the same level.
