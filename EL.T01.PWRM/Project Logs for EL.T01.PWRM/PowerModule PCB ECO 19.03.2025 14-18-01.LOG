@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=SCL Pin=R22_Temp1-1
+Removed Pin From Net: NetName=Vcc Pin=R22_Temp1-2
+Removed Pin From Net: NetName=SCL Pin=R22_Temp2-1
+Removed Pin From Net: NetName=Vcc Pin=R22_Temp2-2
+Removed Pin From Net: NetName=SCL Pin=R22_Temp3-1
+Removed Pin From Net: NetName=Vcc Pin=R22_Temp3-2
+Removed Pin From Net: NetName=SCL Pin=R22_Temp4-1
+Removed Pin From Net: NetName=Vcc Pin=R22_Temp4-2
+Removed Pin From Net: NetName=SDA Pin=R23_Temp1-1
+Removed Pin From Net: NetName=Vcc Pin=R23_Temp1-2
+Removed Pin From Net: NetName=SDA Pin=R23_Temp2-1
+Removed Pin From Net: NetName=Vcc Pin=R23_Temp2-2
+Removed Pin From Net: NetName=SDA Pin=R23_Temp3-1
+Removed Pin From Net: NetName=Vcc Pin=R23_Temp3-2
+Removed Pin From Net: NetName=SDA Pin=R23_Temp4-1
+Removed Pin From Net: NetName=Vcc Pin=R23_Temp4-2
+Removed Pin From Net: NetName=Alert_M1 Pin=R24_Temp1-1
+Removed Pin From Net: NetName=Vcc Pin=R24_Temp1-2
+Removed Pin From Net: NetName=Alert_M2 Pin=R24_Temp2-1
+Removed Pin From Net: NetName=Vcc Pin=R24_Temp2-2
+Removed Pin From Net: NetName=Alert_M3 Pin=R24_Temp3-1
+Removed Pin From Net: NetName=Vcc Pin=R24_Temp3-2
+Removed Pin From Net: NetName=Alert_M4 Pin=R24_Temp4-1
+Removed Pin From Net: NetName=Vcc Pin=R24_Temp4-2
+Removed Pin From Net: NetName=SDA Pin=U6_Temp1-A1
+Removed Pin From Net: NetName=SCL Pin=U6_Temp1-A2
+Removed Pin From Net: NetName=Vcc Pin=U6_Temp1-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp1-B2
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp1-C1
+Removed Pin From Net: NetName=Alert_M1 Pin=U6_Temp1-C2
+Removed Pin From Net: NetName=SDA Pin=U6_Temp2-A1
+Removed Pin From Net: NetName=SCL Pin=U6_Temp2-A2
+Removed Pin From Net: NetName=Vcc Pin=U6_Temp2-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp2-B2
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp2-C1
+Removed Pin From Net: NetName=Alert_M2 Pin=U6_Temp2-C2
+Removed Pin From Net: NetName=SDA Pin=U6_Temp3-A1
+Removed Pin From Net: NetName=SCL Pin=U6_Temp3-A2
+Removed Pin From Net: NetName=Vcc Pin=U6_Temp3-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp3-B2
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp3-C1
+Removed Pin From Net: NetName=Alert_M3 Pin=U6_Temp3-C2
+Removed Pin From Net: NetName=SDA Pin=U6_Temp4-A1
+Removed Pin From Net: NetName=SCL Pin=U6_Temp4-A2
+Removed Pin From Net: NetName=Vcc Pin=U6_Temp4-B1
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp4-B2
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp4-C1
+Removed Pin From Net: NetName=Alert_M4 Pin=U6_Temp4-C2
+Added Component: Designator=R?_PowerModuleCell_M1(RESC1005X40X25LL05T05)
+Added Component: Designator=R?_PowerModuleCell_M2(RESC1005X40X25LL05T05)
+Added Component: Designator=R?_PowerModuleCell_M3(RESC1005X40X25LL05T05)
+Added Component: Designator=R?_PowerModuleCell_M4(RESC1005X40X25LL05T05)
+Added Component: Designator=U?_PowerModuleCell_M1(FP-YBG0006-MFG)
+Added Component: Designator=U?_PowerModuleCell_M2(FP-YBG0006-MFG)
+Added Component: Designator=U?_PowerModuleCell_M3(FP-YBG0006-MFG)
+Added Component: Designator=U?_PowerModuleCell_M4(FP-YBG0006-MFG)
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M1-1
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M1-2
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R?_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M1-A1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M1-A2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M1-B1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M1-B2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M1-C1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M1-C2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M2-A1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M2-A2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M2-B1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M2-B2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M2-C1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M2-C2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M3-A1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M3-A2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M3-B1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M3-B2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M3-C1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M3-C2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M4-A1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M4-A2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M4-B1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M4-B2
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M4-C1
+Add Pin To Net: Unknown Pin: Pin U?_PowerModuleCell_M4-C2
+Add Class Member: Failed to add class member : Component R?_PowerModuleCell_M1 (R?) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component R?_PowerModuleCell_M2 (R?) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component R?_PowerModuleCell_M3 (R?) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component R?_PowerModuleCell_M4 (R?) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component U?_PowerModuleCell_M1 (U?) TMP117MAIYBGR
+Add Class Member: Failed to add class member : Component U?_PowerModuleCell_M2 (U?) TMP117MAIYBGR
+Add Class Member: Failed to add class member : Component U?_PowerModuleCell_M3 (U?) TMP117MAIYBGR
+Add Class Member: Failed to add class member : Component U?_PowerModuleCell_M4 (U?) TMP117MAIYBGR
+Change Room Scope: Old Scope=InComponentClass('PowerModuleCell_M1') and InComponentClass('Temp1') New Scope=InComponentClass('PowerModuleCell_M1')

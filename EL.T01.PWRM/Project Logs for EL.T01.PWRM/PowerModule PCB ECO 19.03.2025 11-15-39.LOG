@@ -1,0 +1,332 @@
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M2-5
+Removed Pin From Net: NetName=NetR16_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-6
+Removed Pin From Net: NetName=NetR14_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-7
+Removed Pin From Net: NetName=NetR19_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-8
+Removed Pin From Net: NetName=NetR17_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-9
+Removed Pin From Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=U1_PowerModuleCell_M2-10
+Removed Pin From Net: NetName=NetR20_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-12
+Removed Pin From Net: NetName=NetR14_PowerModuleCell_M2_1 Pin=U1_PowerModuleCell_M2-13
+Removed Pin From Net: NetName=NetR15_PowerModuleCell_M2_2 Pin=U1_PowerModuleCell_M2-14
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M3-5
+Removed Pin From Net: NetName=NetR16_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-6
+Removed Pin From Net: NetName=NetR14_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-7
+Removed Pin From Net: NetName=NetR19_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-8
+Removed Pin From Net: NetName=NetR17_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-9
+Removed Pin From Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=U1_PowerModuleCell_M3-10
+Removed Pin From Net: NetName=NetR20_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-12
+Removed Pin From Net: NetName=NetR14_PowerModuleCell_M3_1 Pin=U1_PowerModuleCell_M3-13
+Removed Pin From Net: NetName=NetR15_PowerModuleCell_M3_2 Pin=U1_PowerModuleCell_M3-14
+Removed Pin From Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M4-5
+Removed Pin From Net: NetName=NetR16_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-6
+Removed Pin From Net: NetName=NetR14_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-7
+Removed Pin From Net: NetName=NetR19_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-8
+Removed Pin From Net: NetName=NetR17_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-9
+Removed Pin From Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=U1_PowerModuleCell_M4-10
+Removed Pin From Net: NetName=NetR20_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-12
+Removed Pin From Net: NetName=NetR14_PowerModuleCell_M4_1 Pin=U1_PowerModuleCell_M4-13
+Removed Pin From Net: NetName=NetR15_PowerModuleCell_M4_2 Pin=U1_PowerModuleCell_M4-14
+Change Component Footprint: Designator=R13_PowerModuleCell_M1 Old Footprint=FP-CSS2H-5930K-1L00F-MFG New Footprint=WSHP28181L000FEB
+Change Component Footprint: Designator=R13_PowerModuleCell_M2 Old Footprint=FP-CSS2H-5930K-1L00F-MFG New Footprint=WSHP28181L000FEB
+Change Component Footprint: Designator=R13_PowerModuleCell_M3 Old Footprint=FP-CSS2H-5930K-1L00F-MFG New Footprint=WSHP28181L000FEB
+Change Component Footprint: Designator=R13_PowerModuleCell_M4 Old Footprint=FP-CSS2H-5930K-1L00F-MFG New Footprint=WSHP28181L000FEB
+Change Component Comment : Designator=R13_PowerModuleCell_M1 Old Comment=1m, 1%, 5930 New Comment=10m 1%, 2818
+Change Component Comment : Designator=R13_PowerModuleCell_M2 Old Comment=1m, 1%, 5930 New Comment=10m 1%, 2818
+Change Component Comment : Designator=R13_PowerModuleCell_M3 Old Comment=1m, 1%, 5930 New Comment=10m 1%, 2818
+Change Component Comment : Designator=R13_PowerModuleCell_M4 Old Comment=1m, 1%, 5930 New Comment=10m 1%, 2818
+Change Managed Component Library Link : Designator=R13_PowerModuleCell_M1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B89C2AB3-450E-4FF5-ADF7-CCC558A8D448 New ItemGUID= Old RevisionGUID=7A65DEED-2065-45FD-B1DC-1C880FC1C1C3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13_PowerModuleCell_M2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B89C2AB3-450E-4FF5-ADF7-CCC558A8D448 New ItemGUID= Old RevisionGUID=7A65DEED-2065-45FD-B1DC-1C880FC1C1C3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13_PowerModuleCell_M3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B89C2AB3-450E-4FF5-ADF7-CCC558A8D448 New ItemGUID= Old RevisionGUID=7A65DEED-2065-45FD-B1DC-1C880FC1C1C3 New RevisionGUID=
+Change Managed Component Library Link : Designator=R13_PowerModuleCell_M4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=B89C2AB3-450E-4FF5-ADF7-CCC558A8D448 New ItemGUID= Old RevisionGUID=7A65DEED-2065-45FD-B1DC-1C880FC1C1C3 New RevisionGUID=
+Change component parameters: Designator = "R13_PowerModuleCell_M1" ("R13"); Footprint = "FP-CSS2H-5930K-1L00F-MFG"; UniqueID = "\SBVCEXEM\QBXEVGMK" ("\SBVCEXEM\QBXEVGMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_PowerModuleCell_M2" ("R13"); Footprint = "FP-CSS2H-5930K-1L00F-MFG"; UniqueID = "\HLKPTOVM\QBXEVGMK" ("\HLKPTOVM\QBXEVGMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_PowerModuleCell_M3" ("R13"); Footprint = "FP-CSS2H-5930K-1L00F-MFG"; UniqueID = "\RXGTYWUX\QBXEVGMK" ("\RXGTYWUX\QBXEVGMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13_PowerModuleCell_M4" ("R13"); Footprint = "FP-CSS2H-5930K-1L00F-MFG"; UniqueID = "\JBEDTDUD\QBXEVGMK" ("\JBEDTDUD\QBXEVGMK")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U5_PowerModuleCell_M1(ONSC-SOIC-14-751A-03_V)
+Added Component: Designator=U5_PowerModuleCell_M2(ONSC-SOIC-14-751A-03_V)
+Added Component: Designator=U5_PowerModuleCell_M3(ONSC-SOIC-14-751A-03_V)
+Added Component: Designator=U5_PowerModuleCell_M4(ONSC-SOIC-14-751A-03_V)
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C1-1
+Added Pin To Net: NetName=Vbus Pin=C1-2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C2-1
+Added Pin To Net: NetName=Vbus Pin=C2-2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C3-1
+Added Pin To Net: NetName=Vcc Pin=C3-2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C4-1
+Added Pin To Net: NetName=Vcc Pin=C4-2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C5-1
+Added Pin To Net: NetName=NRST Pin=C5-2
+Added Pin To Net: NetName=Vcc Pin=C8_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C8_PowerModuleCell_M1-2
+Added Pin To Net: NetName=Vcc_F Pin=C9_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=C9_PowerModuleCell_M1-2
+Added Pin To Net: NetName=Vcc_F Pin=L2_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Vcc Pin=L2_PowerModuleCell_M1-2
+Added Pin To Net: NetName=Load Pin=Load+1_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=Load-1_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M1-2
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M1-3
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-4
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-5
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-6
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-7
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-8
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-10
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=Q1_PowerModuleCell_M1-11
+Added Pin To Net: NetName=NetQ1_PowerModuleCell_M1_12 Pin=Q1_PowerModuleCell_M1-12
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M1-13
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M1-14
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M1-15
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M2-1
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M2-2
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M2-3
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-4
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-5
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-6
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-7
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-8
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-10
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=Q1_PowerModuleCell_M2-11
+Added Pin To Net: NetName=NetQ1_PowerModuleCell_M2_12 Pin=Q1_PowerModuleCell_M2-12
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M2-13
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M2-14
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M2-15
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M3-1
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M3-2
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M3-3
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-4
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-5
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-6
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-7
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-8
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-10
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=Q1_PowerModuleCell_M3-11
+Added Pin To Net: NetName=NetQ1_PowerModuleCell_M3_12 Pin=Q1_PowerModuleCell_M3-12
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M3-13
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M3-14
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M3-15
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M4-1
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M4-2
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M4-3
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-4
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-5
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-6
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-7
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-8
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-9
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-10
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=Q1_PowerModuleCell_M4-11
+Added Pin To Net: NetName=NetQ1_PowerModuleCell_M4_12 Pin=Q1_PowerModuleCell_M4-12
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M4-13
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M4-14
+Added Pin To Net: NetName=Load Pin=Q1_PowerModuleCell_M4-15
+Added Pin To Net: NetName=Vcc Pin=R9-1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=ProcessedParam_M1 Pin=R10_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M1_2 Pin=R10_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M1_1 Pin=R11_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetQ1_PowerModuleCell_M1_12 Pin=R11_PowerModuleCell_M1-2
+Added Pin To Net: NetName=RefParam_M1 Pin=R12_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M1_2 Pin=R12_PowerModuleCell_M1-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M1 Pin=R13_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R13_PowerModuleCell_M1-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=R13_PowerModuleCell_M2-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R13_PowerModuleCell_M2-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=R13_PowerModuleCell_M3-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R13_PowerModuleCell_M3-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=R13_PowerModuleCell_M4-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R13_PowerModuleCell_M4-2
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M1_1 Pin=R14_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M1_2 Pin=R14_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M1_1 Pin=R15_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR15_PowerModuleCell_M1_2 Pin=R15_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR16_PowerModuleCell_M1_1 Pin=R16_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR14_PowerModuleCell_M1_2 Pin=R16_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR17_PowerModuleCell_M1_1 Pin=R17_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR16_PowerModuleCell_M1_1 Pin=R17_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR15_PowerModuleCell_M1_2 Pin=R18_PowerModuleCell_M1-1
+Added Pin To Net: NetName=CurrentSignal_M1 Pin=R18_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR19_PowerModuleCell_M1_1 Pin=R19_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR17_PowerModuleCell_M1_1 Pin=R19_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR20_PowerModuleCell_M1_1 Pin=R20_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR19_PowerModuleCell_M1_1 Pin=R20_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR20_PowerModuleCell_M1_1 Pin=R21_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=R21_PowerModuleCell_M1-2
+Added Pin To Net: NetName=SCL Pin=R22_Temp1-1
+Added Pin To Net: NetName=Vcc Pin=R22_Temp1-2
+Added Pin To Net: NetName=SDA Pin=R23_Temp1-1
+Added Pin To Net: NetName=Vcc Pin=R23_Temp1-2
+Added Pin To Net: NetName=Alert_M1 Pin=R24_Temp1-1
+Added Pin To Net: NetName=Vcc Pin=R24_Temp1-2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=SW1-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=SW1-2
+Added Pin To Net: NetName=NetR9_2 Pin=SW1-3
+Added Pin To Net: NetName=NRST Pin=SW1-4
+Added Pin To Net: NetName=NetR11_PowerModuleCell_M1_1 Pin=U1_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NetR10_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-2
+Added Pin To Net: NetName=NetR12_PowerModuleCell_M1_2 Pin=U1_PowerModuleCell_M1-3
+Added Pin To Net: NetName=Vcc_F Pin=U1_PowerModuleCell_M1-4
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U1_PowerModuleCell_M1-11
+Added Pin To Net: NetName=Vbus Pin=U2-1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U2-2
+Added Pin To Net: NetName=Vcc Pin=U2-3
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U2-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-5
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-6
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-7
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-8
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-9
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-10
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-12
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-13
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M1-14
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-5
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-6
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-7
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-8
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-9
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-10
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-12
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-13
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M2-14
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-5
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-6
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-7
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-8
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-9
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-10
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-12
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-13
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M3-14
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-4
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-5
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-6
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-7
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-8
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-9
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-10
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-11
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-12
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-13
+Add Pin To Net: Unknown Pin: Pin U5_PowerModuleCell_M4-14
+Added Pin To Net: NetName=SDA Pin=U6_Temp1-A1
+Added Pin To Net: NetName=SCL Pin=U6_Temp1-A2
+Added Pin To Net: NetName=Vcc Pin=U6_Temp1-B1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp1-B2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp1-C1
+Added Pin To Net: NetName=Alert_M1 Pin=U6_Temp1-C2
+Added Pin To Net: NetName=SDA Pin=U6_Temp2-A1
+Added Pin To Net: NetName=SCL Pin=U6_Temp2-A2
+Added Pin To Net: NetName=Vcc Pin=U6_Temp2-B1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp2-B2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp2-C1
+Added Pin To Net: NetName=Alert_M2 Pin=U6_Temp2-C2
+Added Pin To Net: NetName=SDA Pin=U6_Temp3-A1
+Added Pin To Net: NetName=SCL Pin=U6_Temp3-A2
+Added Pin To Net: NetName=Vcc Pin=U6_Temp3-B1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp3-B2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp3-C1
+Added Pin To Net: NetName=Alert_M3 Pin=U6_Temp3-C2
+Added Pin To Net: NetName=SDA Pin=U6_Temp4-A1
+Added Pin To Net: NetName=SCL Pin=U6_Temp4-A2
+Added Pin To Net: NetName=Vcc Pin=U6_Temp4-B1
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp4-B2
+Added Pin To Net: NetName=Shunt_L_PowerModuleCell_M1 Pin=U6_Temp4-C1
+Added Pin To Net: NetName=Alert_M4 Pin=U6_Temp4-C2
+Added Member To Class: ClassName=PowerModule Member=Component C1 1uF, 25V, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C2 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C3 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C4 1uF, 25V, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C5 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C8_PowerModuleCell_M1 (C8) 2.2uF, 25V, X5R, 0603
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C9_PowerModuleCell_M1 (C9) 220nF 25V, X7R, 0603
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component L2_PowerModuleCell_M1 (L2) 39 µH, 1A
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component Load+1_PowerModuleCell_M1 (Load+1) 5001
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component Load-1_PowerModuleCell_M1 (Load-1) 5001
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component Q1_PowerModuleCell_M1 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component Q1_PowerModuleCell_M2 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component Q1_PowerModuleCell_M3 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component Q1_PowerModuleCell_M4 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModule Member=Component R9 10K 5%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R10_PowerModuleCell_M1 (R10) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R11_PowerModuleCell_M1 (R11) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R12_PowerModuleCell_M1 (R12) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R13_PowerModuleCell_M1 (R13) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R13_PowerModuleCell_M2 (R13) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R13_PowerModuleCell_M3 (R13) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R13_PowerModuleCell_M4 (R13) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R14_PowerModuleCell_M1 (R14) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R15_PowerModuleCell_M1 (R15) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R16_PowerModuleCell_M1 (R16) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R17_PowerModuleCell_M1 (R17) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R18_PowerModuleCell_M1 (R18) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R19_PowerModuleCell_M1 (R19) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R20_PowerModuleCell_M1 (R20) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R21_PowerModuleCell_M1 (R21) 1K 1%, 0402
+Added Member To Class: ClassName=Temp1 Member=Component R22_Temp1 (R22) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp1 Member=Component R23_Temp1 (R23) 4K7 1%, 0402
+Added Member To Class: ClassName=Temp1 Member=Component R24_Temp1 (R24) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModule Member=Component SW1 PTS645SM43SMTR92LFS
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component U1_PowerModuleCell_M1 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component U1_PowerModuleCell_M2 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component U1_PowerModuleCell_M3 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component U1_PowerModuleCell_M4 (U1A) LM324DR2G
+Added Member To Class: ClassName=PowerModule Member=Component U2 TC1262-3.3VDBTR
+Added Member To Class: ClassName=PowerModule Member=Component U3 STM32G431KBU6
+Add Class Member: Failed to add class member : Component U5_PowerModuleCell_M1 (U5A) LM324DR2G
+Add Class Member: Failed to add class member : Component U5_PowerModuleCell_M2 (U5A) LM324DR2G
+Add Class Member: Failed to add class member : Component U5_PowerModuleCell_M3 (U5A) LM324DR2G
+Add Class Member: Failed to add class member : Component U5_PowerModuleCell_M4 (U5A) LM324DR2G
+Added Member To Class: ClassName=Temp1 Member=Component U6_Temp1 (U6) TMP117MAIYBGR
+Added Member To Class: ClassName=Temp2 Member=Component U6_Temp2 (U6) TMP117MAIYBGR
+Added Member To Class: ClassName=Temp3 Member=Component U6_Temp3 (U6) TMP117MAIYBGR
+Added Member To Class: ClassName=Temp4 Member=Component U6_Temp4 (U6) TMP117MAIYBGR

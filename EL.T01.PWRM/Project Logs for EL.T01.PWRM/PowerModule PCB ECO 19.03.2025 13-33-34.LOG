@@ -1,0 +1,3 @@
+Change Room Name: Old Name=PowerModuleCell_M_1 New Name=Temp2
+Change Room Scope: Old Scope=InComponentClass('PowerModuleCell_M1') New Scope=InComponentClass('Temp2')
+Added Room: Name=Temp1
