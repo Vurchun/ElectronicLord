@@ -4,4 +4,3 @@ Record=SheetSymbol|SourceDocument=PowerModule.SchDoc|Designator=PowerModuleCell_
 Record=SheetSymbol|SourceDocument=PowerModule.SchDoc|Designator=PowerModuleCell_M3|SchDesignator=PowerModuleCell_M3|FileName=PowerModuleCell.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PowerModuleCell.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=PowerModule.SchDoc|Designator=PowerModuleCell_M4|SchDesignator=PowerModuleCell_M4|FileName=PowerModuleCell.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=PowerModuleCell.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=NoMainPathDocument|SourceDocument=PowerModule.SchDoc|FileName=DiffAmp_K-10.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=PowerModule.SchDoc|FileName=TempSensor.SchDoc|SheetNumber=4
