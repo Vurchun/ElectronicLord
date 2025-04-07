@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P18_PowerModuleCell_M1 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P19_PowerModuleCell_M1 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P20_PowerModuleCell_M1 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P21_PowerModuleCell_M1 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P30 Old Footprint=61301021121 New Footprint=61301021121
+Change Component Footprint: Designator=P31 Old Footprint=61301021121 New Footprint=61301021121
+Added Member To Class: ClassName=PowerModule Member=Component J1 43045-0400
