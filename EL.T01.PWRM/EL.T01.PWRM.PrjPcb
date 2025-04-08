@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PKKFVJEP
 
 [Document2]
-DocumentPath=DiffAmp_K-10.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TYGCXOGB
-
-[Document3]
 DocumentPath=PowerModule.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFTXRDSW
 
-[Document4]
+[Document3]
 DocumentPath=PowerModuleCell.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDVSKNFX
 
-[Document5]
+[Document4]
 DocumentPath=RWM_Filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
