@@ -1,0 +1,228 @@
+Removed Member From Class: ClassName=PowerModule Member=J35
+Removed Member From Class: ClassName=PowerModule Member=P30
+Removed Member From Class: ClassName=PowerModule Member=P31
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=R22_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=R22_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=R22_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=R22_PowerModuleCell_M4
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=R27_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=R27_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=R27_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=R27_PowerModuleCell_M4
+Removed Member From Class: ClassName=PowerModule Member=R30
+Change Component Designator: OldDesignator=C10_PowerModuleCell_M1 NewDesignator=C9_PowerModuleCell_M1
+Change Component Designator: OldDesignator=C10_PowerModuleCell_M2 NewDesignator=C9_PowerModuleCell_M2
+Change Component Designator: OldDesignator=C10_PowerModuleCell_M3 NewDesignator=C9_PowerModuleCell_M3
+Change Component Designator: OldDesignator=C10_PowerModuleCell_M4 NewDesignator=C9_PowerModuleCell_M4
+Change Component Designator: OldDesignator=C11_PowerModuleCell_M1 NewDesignator=C10_PowerModuleCell_M1
+Change Component Designator: OldDesignator=C11_PowerModuleCell_M2 NewDesignator=C10_PowerModuleCell_M2
+Change Component Designator: OldDesignator=C11_PowerModuleCell_M3 NewDesignator=C10_PowerModuleCell_M3
+Change Component Designator: OldDesignator=C11_PowerModuleCell_M4 NewDesignator=C10_PowerModuleCell_M4
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M1 NewDesignator=C8_PowerModuleCell_M1
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M1 NewDesignator=C11_PowerModuleCell_M1
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M2 NewDesignator=C8_PowerModuleCell_M2
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M2 NewDesignator=C11_PowerModuleCell_M2
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M3 NewDesignator=C8_PowerModuleCell_M3
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M3 NewDesignator=C11_PowerModuleCell_M3
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M4 NewDesignator=C8_PowerModuleCell_M4
+Change Component Designator: OldDesignator=C?_PowerModuleCell_M4 NewDesignator=C11_PowerModuleCell_M4
+Change Component Designator: OldDesignator=D1_PowerModuleCell_M1 NewDesignator=D3_PowerModuleCell_M1
+Change Component Designator: OldDesignator=D1_PowerModuleCell_M2 NewDesignator=D3_PowerModuleCell_M2
+Change Component Designator: OldDesignator=D1_PowerModuleCell_M3 NewDesignator=D3_PowerModuleCell_M3
+Change Component Designator: OldDesignator=D1_PowerModuleCell_M4 NewDesignator=D3_PowerModuleCell_M4
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J35 NewDesignator=J1
+Change Component Designator: OldDesignator=J36 NewDesignator=J2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P8
+Change Component Designator: OldDesignator=P7 NewDesignator=P9
+Change Component Designator: OldDesignator=P8 NewDesignator=P10
+Change Component Designator: OldDesignator=P9 NewDesignator=P11
+Change Component Designator: OldDesignator=P10 NewDesignator=P12
+Change Component Designator: OldDesignator=P11 NewDesignator=P13
+Change Component Designator: OldDesignator=P12 NewDesignator=P14
+Change Component Designator: OldDesignator=P13 NewDesignator=P15
+Change Component Designator: OldDesignator=P14 NewDesignator=P16
+Change Component Designator: OldDesignator=P15 NewDesignator=P17
+Change Component Designator: OldDesignator=P16 NewDesignator=P18
+Change Component Designator: OldDesignator=P17 NewDesignator=P19
+Change Component Designator: OldDesignator=P18_PowerModuleCell_M1 NewDesignator=P28_PowerModuleCell_M1
+Change Component Designator: OldDesignator=P18_PowerModuleCell_M2 NewDesignator=P28_PowerModuleCell_M2
+Change Component Designator: OldDesignator=P18_PowerModuleCell_M3 NewDesignator=P28_PowerModuleCell_M3
+Change Component Designator: OldDesignator=P18_PowerModuleCell_M4 NewDesignator=P28_PowerModuleCell_M4
+Change Component Designator: OldDesignator=P19_PowerModuleCell_M1 NewDesignator=P29_PowerModuleCell_M1
+Change Component Designator: OldDesignator=P19_PowerModuleCell_M2 NewDesignator=P29_PowerModuleCell_M2
+Change Component Designator: OldDesignator=P19_PowerModuleCell_M3 NewDesignator=P29_PowerModuleCell_M3
+Change Component Designator: OldDesignator=P19_PowerModuleCell_M4 NewDesignator=P29_PowerModuleCell_M4
+Change Component Designator: OldDesignator=P20_PowerModuleCell_M1 NewDesignator=P30_PowerModuleCell_M1
+Change Component Designator: OldDesignator=P20_PowerModuleCell_M2 NewDesignator=P30_PowerModuleCell_M2
+Change Component Designator: OldDesignator=P20_PowerModuleCell_M3 NewDesignator=P30_PowerModuleCell_M3
+Change Component Designator: OldDesignator=P20_PowerModuleCell_M4 NewDesignator=P30_PowerModuleCell_M4
+Change Component Designator: OldDesignator=P21_PowerModuleCell_M1 NewDesignator=P31_PowerModuleCell_M1
+Change Component Designator: OldDesignator=P21_PowerModuleCell_M2 NewDesignator=P31_PowerModuleCell_M2
+Change Component Designator: OldDesignator=P21_PowerModuleCell_M3 NewDesignator=P31_PowerModuleCell_M3
+Change Component Designator: OldDesignator=P21_PowerModuleCell_M4 NewDesignator=P31_PowerModuleCell_M4
+Change Component Designator: OldDesignator=P22 NewDesignator=P20
+Change Component Designator: OldDesignator=P23 NewDesignator=P21
+Change Component Designator: OldDesignator=P24 NewDesignator=P22
+Change Component Designator: OldDesignator=P25 NewDesignator=P23
+Change Component Designator: OldDesignator=P26 NewDesignator=P24
+Change Component Designator: OldDesignator=P27 NewDesignator=P25
+Change Component Designator: OldDesignator=P28 NewDesignator=P26
+Change Component Designator: OldDesignator=P29 NewDesignator=P27
+Change Component Designator: OldDesignator=P30 NewDesignator=P2
+Change Component Designator: OldDesignator=P31 NewDesignator=P7
+Change Component Designator: OldDesignator=R9 NewDesignator=R12
+Change Component Designator: OldDesignator=R10_PowerModuleCell_M1 NewDesignator=R19_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R10_PowerModuleCell_M2 NewDesignator=R19_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R10_PowerModuleCell_M3 NewDesignator=R19_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R10_PowerModuleCell_M4 NewDesignator=R19_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R11_PowerModuleCell_M1 NewDesignator=R21_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R11_PowerModuleCell_M2 NewDesignator=R21_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R11_PowerModuleCell_M3 NewDesignator=R21_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R11_PowerModuleCell_M4 NewDesignator=R21_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R12_PowerModuleCell_M1 NewDesignator=R22_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R12_PowerModuleCell_M2 NewDesignator=R22_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R12_PowerModuleCell_M3 NewDesignator=R22_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R12_PowerModuleCell_M4 NewDesignator=R22_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M1 NewDesignator=R23_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M2 NewDesignator=R23_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M3 NewDesignator=R23_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M4 NewDesignator=R23_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M1 NewDesignator=R26_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M2 NewDesignator=R26_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M3 NewDesignator=R26_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M4 NewDesignator=R26_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M1 NewDesignator=R27_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M2 NewDesignator=R27_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M3 NewDesignator=R27_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M4 NewDesignator=R27_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M1 NewDesignator=R28_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M2 NewDesignator=R28_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M3 NewDesignator=R28_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M4 NewDesignator=R28_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M1 NewDesignator=R29_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M2 NewDesignator=R29_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M3 NewDesignator=R29_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M4 NewDesignator=R29_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M1 NewDesignator=R30_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M2 NewDesignator=R30_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M3 NewDesignator=R30_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M4 NewDesignator=R30_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M1 NewDesignator=R33_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M2 NewDesignator=R33_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M3 NewDesignator=R33_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M4 NewDesignator=R33_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M1 NewDesignator=R34_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M2 NewDesignator=R34_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M3 NewDesignator=R34_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M4 NewDesignator=R34_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M1 NewDesignator=R35_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M2 NewDesignator=R35_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M3 NewDesignator=R35_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M4 NewDesignator=R35_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M1 NewDesignator=R20_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M2 NewDesignator=R20_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M3 NewDesignator=R20_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M4 NewDesignator=R20_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R23 NewDesignator=R11
+Change Component Designator: OldDesignator=R24 NewDesignator=R13
+Change Component Designator: OldDesignator=R25 NewDesignator=R14
+Change Component Designator: OldDesignator=R26 NewDesignator=R15
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M1 NewDesignator=R18_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M2 NewDesignator=R18_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M3 NewDesignator=R18_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M4 NewDesignator=R18_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R28 NewDesignator=R16
+Change Component Designator: OldDesignator=R29 NewDesignator=R17
+Change Component Designator: OldDesignator=R30 NewDesignator=R9
+Change Component Designator: OldDesignator=R31 NewDesignator=R10
+Change Component Designator: OldDesignator=R33_PowerModuleCell_M1 NewDesignator=R24_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R33_PowerModuleCell_M2 NewDesignator=R24_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R33_PowerModuleCell_M3 NewDesignator=R24_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R33_PowerModuleCell_M4 NewDesignator=R24_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R35_PowerModuleCell_M1 NewDesignator=R25_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R35_PowerModuleCell_M2 NewDesignator=R25_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R35_PowerModuleCell_M3 NewDesignator=R25_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R35_PowerModuleCell_M4 NewDesignator=R25_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R36_PowerModuleCell_M1 NewDesignator=R31_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R36_PowerModuleCell_M2 NewDesignator=R31_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R36_PowerModuleCell_M3 NewDesignator=R31_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R36_PowerModuleCell_M4 NewDesignator=R31_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R37_PowerModuleCell_M1 NewDesignator=R32_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R37_PowerModuleCell_M2 NewDesignator=R32_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R37_PowerModuleCell_M3 NewDesignator=R32_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R37_PowerModuleCell_M4 NewDesignator=R32_PowerModuleCell_M4
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3_PowerModuleCell_M1 NewDesignator=U5_PowerModuleCell_M1
+Change Component Designator: OldDesignator=U3_PowerModuleCell_M2 NewDesignator=U5_PowerModuleCell_M2
+Change Component Designator: OldDesignator=U3_PowerModuleCell_M3 NewDesignator=U5_PowerModuleCell_M3
+Change Component Designator: OldDesignator=U3_PowerModuleCell_M4 NewDesignator=U5_PowerModuleCell_M4
+Change Net Name : Old Net Name=NetC11_PowerModuleCell_M1_1 New Net Name=NetC10_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetC11_PowerModuleCell_M2_1 New Net Name=NetC10_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetC11_PowerModuleCell_M3_1 New Net Name=NetC10_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetC11_PowerModuleCell_M4_1 New Net Name=NetC10_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetD1_PowerModuleCell_M1_2 New Net Name=NetD3_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetD1_PowerModuleCell_M2_2 New Net Name=NetD3_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetD1_PowerModuleCell_M3_2 New Net Name=NetD3_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetD1_PowerModuleCell_M4_2 New Net Name=NetD3_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR10_PowerModuleCell_M1_2 New Net Name=NetR19_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR10_PowerModuleCell_M2_2 New Net Name=NetR19_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR10_PowerModuleCell_M3_2 New Net Name=NetR19_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR10_PowerModuleCell_M4_2 New Net Name=NetR19_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR12_PowerModuleCell_M1_2 New Net Name=NetR22_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR12_PowerModuleCell_M2_2 New Net Name=NetR22_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR12_PowerModuleCell_M3_2 New Net Name=NetR22_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR12_PowerModuleCell_M4_2 New Net Name=NetR22_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M1_1 New Net Name=NetR26_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M1_2 New Net Name=NetR26_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M2_1 New Net Name=NetR26_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M2_2 New Net Name=NetR26_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M3_1 New Net Name=NetR26_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M3_2 New Net Name=NetR26_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M4_1 New Net Name=NetR26_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR14_PowerModuleCell_M4_2 New Net Name=NetR26_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR15_PowerModuleCell_M1_2 New Net Name=NetR27_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR15_PowerModuleCell_M2_2 New Net Name=NetR27_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR15_PowerModuleCell_M3_2 New Net Name=NetR27_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR15_PowerModuleCell_M4_2 New Net Name=NetR27_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR16_PowerModuleCell_M1_1 New Net Name=NetR28_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR16_PowerModuleCell_M2_1 New Net Name=NetR28_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR16_PowerModuleCell_M3_1 New Net Name=NetR28_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR16_PowerModuleCell_M4_1 New Net Name=NetR28_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR17_PowerModuleCell_M1_1 New Net Name=NetR29_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR17_PowerModuleCell_M2_1 New Net Name=NetR29_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR17_PowerModuleCell_M3_1 New Net Name=NetR29_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR17_PowerModuleCell_M4_1 New Net Name=NetR29_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR19_PowerModuleCell_M1_1 New Net Name=NetR33_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR19_PowerModuleCell_M2_1 New Net Name=NetR33_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR19_PowerModuleCell_M3_1 New Net Name=NetR33_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR19_PowerModuleCell_M4_1 New Net Name=NetR33_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M1_1 New Net Name=NetR34_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M2_1 New Net Name=NetR34_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M3_1 New Net Name=NetR34_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M4_1 New Net Name=NetR34_PowerModuleCell_M4_1
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C8_PowerModuleCell_M3 (C8) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C11_PowerModuleCell_M1 (C11) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component C11_PowerModuleCell_M2 (C11) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C11_PowerModuleCell_M4 (C11) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component J5 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component P18 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P19 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component R12 10K 5%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R30_PowerModuleCell_M1 (R30) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R30_PowerModuleCell_M2 (R30) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R30_PowerModuleCell_M3 (R30) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R30_PowerModuleCell_M4 (R30) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R34_PowerModuleCell_M1 (R34) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R34_PowerModuleCell_M2 (R34) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R34_PowerModuleCell_M3 (R34) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R34_PowerModuleCell_M4 (R34) 300 1%, 0402

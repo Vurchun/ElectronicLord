@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=InvAmp_PowerModuleCell_M1 Pin=P28_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=InvAmp_PowerModuleCell_M2 Pin=P28_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=InvAmp_PowerModuleCell_M3 Pin=P28_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=InvAmp_PowerModuleCell_M4 Pin=P28_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Gate_PowerModuleCell_M1 Pin=P29_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=Gate_PowerModuleCell_M2 Pin=P29_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Gate_PowerModuleCell_M3 Pin=P29_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Gate_PowerModuleCell_M4 Pin=P29_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=NonInvAmp_PowerModuleCell_M1 Pin=P30_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=NonInvAmp_PowerModuleCell_M2 Pin=P30_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=NonInvAmp_PowerModuleCell_M3 Pin=P30_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=NonInvAmp_PowerModuleCell_M4 Pin=P30_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=CurrentSignal_M1 Pin=P31_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=CurrentSignal_M2 Pin=P31_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=CurrentSignal_M3 Pin=P31_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=CurrentSignal_M4 Pin=P31_PowerModuleCell_M4-1
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=P29_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=P29_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=P29_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=P29_PowerModuleCell_M4
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=P30_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=P30_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=P30_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=P30_PowerModuleCell_M4
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=P31_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=P31_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=P31_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=P31_PowerModuleCell_M4
+Change Component Footprint: Designator=P28_PowerModuleCell_M1 Old Footprint=61300111121 New Footprint=61300411121
+Change Component Footprint: Designator=P28_PowerModuleCell_M2 Old Footprint=61300111121 New Footprint=61300411121
+Change Component Footprint: Designator=P28_PowerModuleCell_M3 Old Footprint=61300111121 New Footprint=61300411121
+Change Component Footprint: Designator=P28_PowerModuleCell_M4 Old Footprint=61300111121 New Footprint=61300411121
+Change Component Comment : Designator=P28_PowerModuleCell_M1 Old Comment=61300111121 New Comment=61300411121
+Change Component Comment : Designator=P28_PowerModuleCell_M2 Old Comment=61300111121 New Comment=61300411121
+Change Component Comment : Designator=P28_PowerModuleCell_M3 Old Comment=61300111121 New Comment=61300411121
+Change Component Comment : Designator=P28_PowerModuleCell_M4 Old Comment=61300111121 New Comment=61300411121
+Change Component Kind : Designator=P28_PowerModuleCell_M3 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=P28_PowerModuleCell_M4 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=P28_PowerModuleCell_M1 Old Kind=Net Tie New Kind=Standard
+Change Component Kind : Designator=P28_PowerModuleCell_M2 Old Kind=Net Tie New Kind=Standard
+Change Managed Component Library Link : Designator=P28_PowerModuleCell_M1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2009FDDC-A3A7-4D90-98B6-8853ED899228 New ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C Old RevisionGUID=35DE0538-3E8C-4582-B036-57768E650F0D New RevisionGUID=C6D43FC7-CDCA-407E-97C0-23478C5E6237
+Change Managed Component Library Link : Designator=P28_PowerModuleCell_M2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2009FDDC-A3A7-4D90-98B6-8853ED899228 New ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C Old RevisionGUID=35DE0538-3E8C-4582-B036-57768E650F0D New RevisionGUID=C6D43FC7-CDCA-407E-97C0-23478C5E6237
+Change Managed Component Library Link : Designator=P28_PowerModuleCell_M3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2009FDDC-A3A7-4D90-98B6-8853ED899228 New ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C Old RevisionGUID=35DE0538-3E8C-4582-B036-57768E650F0D New RevisionGUID=C6D43FC7-CDCA-407E-97C0-23478C5E6237
+Change Managed Component Library Link : Designator=P28_PowerModuleCell_M4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2009FDDC-A3A7-4D90-98B6-8853ED899228 New ItemGUID=6366F00F-2F5E-49CA-A393-A6C3EB69613C Old RevisionGUID=35DE0538-3E8C-4582-B036-57768E650F0D New RevisionGUID=C6D43FC7-CDCA-407E-97C0-23478C5E6237
+Change component parameters: Designator = "P28_PowerModuleCell_M1" ("P28"); Footprint = "61300111121"; UniqueID = "\SBVCEXEM\OCJVXEZZ" ("\SBVCEXEM\OCJVXEZZ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "32855522"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P28_PowerModuleCell_M2" ("P28"); Footprint = "61300111121"; UniqueID = "\HLKPTOVM\OCJVXEZZ" ("\HLKPTOVM\OCJVXEZZ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "32855522"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P28_PowerModuleCell_M3" ("P28"); Footprint = "61300111121"; UniqueID = "\RXGTYWUX\OCJVXEZZ" ("\RXGTYWUX\OCJVXEZZ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "32855522"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P28_PowerModuleCell_M4" ("P28"); Footprint = "61300111121"; UniqueID = "\JBEDTDUD\OCJVXEZZ" ("\JBEDTDUD\OCJVXEZZ")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20m?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "32855522"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CurrentSignal_M1 Pin=P28_PowerModuleCell_M1-1
+Added Pin To Net: NetName=NonInvAmp_PowerModuleCell_M1 Pin=P28_PowerModuleCell_M1-2
+Added Pin To Net: NetName=InvAmp_PowerModuleCell_M1 Pin=P28_PowerModuleCell_M1-3
+Added Pin To Net: NetName=Gate_PowerModuleCell_M1 Pin=P28_PowerModuleCell_M1-4
+Added Pin To Net: NetName=CurrentSignal_M2 Pin=P28_PowerModuleCell_M2-1
+Added Pin To Net: NetName=NonInvAmp_PowerModuleCell_M2 Pin=P28_PowerModuleCell_M2-2
+Added Pin To Net: NetName=InvAmp_PowerModuleCell_M2 Pin=P28_PowerModuleCell_M2-3
+Added Pin To Net: NetName=Gate_PowerModuleCell_M2 Pin=P28_PowerModuleCell_M2-4
+Added Pin To Net: NetName=CurrentSignal_M3 Pin=P28_PowerModuleCell_M3-1
+Added Pin To Net: NetName=NonInvAmp_PowerModuleCell_M3 Pin=P28_PowerModuleCell_M3-2
+Added Pin To Net: NetName=InvAmp_PowerModuleCell_M3 Pin=P28_PowerModuleCell_M3-3
+Added Pin To Net: NetName=Gate_PowerModuleCell_M3 Pin=P28_PowerModuleCell_M3-4
+Added Pin To Net: NetName=CurrentSignal_M4 Pin=P28_PowerModuleCell_M4-1
+Added Pin To Net: NetName=NonInvAmp_PowerModuleCell_M4 Pin=P28_PowerModuleCell_M4-2
+Added Pin To Net: NetName=InvAmp_PowerModuleCell_M4 Pin=P28_PowerModuleCell_M4-3
+Added Pin To Net: NetName=Gate_PowerModuleCell_M4 Pin=P28_PowerModuleCell_M4-4
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C8_PowerModuleCell_M1 (C8) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C8_PowerModuleCell_M4 (C8) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C10_PowerModuleCell_M1 (C10) 220nF 25V, X7R, 0603
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C10_PowerModuleCell_M3 (C10) 220nF 25V, X7R, 0603
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component C11_PowerModuleCell_M2 (C11) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C11_PowerModuleCell_M3 (C11) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C11_PowerModuleCell_M4 (C11) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component J1 3-794679-6
+Added Member To Class: ClassName=PowerModule Member=Component J5 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component P2 61301021121
+Added Member To Class: ClassName=PowerModule Member=Component P4 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P6 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P7 61301021121
+Added Member To Class: ClassName=PowerModule Member=Component P8 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P9 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P10 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P11 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P12 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P13 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P14 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P15 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P16 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component P17 61300111121
+Added Member To Class: ClassName=PowerModule Member=Component R9 10K 5%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R18_PowerModuleCell_M1 (R18) 47 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R18_PowerModuleCell_M2 (R18) 47 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R18_PowerModuleCell_M4 (R18) 47 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R19_PowerModuleCell_M1 (R19) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R19_PowerModuleCell_M2 (R19) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R19_PowerModuleCell_M3 (R19) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R19_PowerModuleCell_M4 (R19) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R20_PowerModuleCell_M1 (R20) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R20_PowerModuleCell_M4 (R20) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R21_PowerModuleCell_M2 (R21) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R21_PowerModuleCell_M3 (R21) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R21_PowerModuleCell_M4 (R21) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R22_PowerModuleCell_M2 (R22) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R22_PowerModuleCell_M3 (R22) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R27_PowerModuleCell_M1 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R27_PowerModuleCell_M2 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R27_PowerModuleCell_M3 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R35_PowerModuleCell_M1 (R35) 1K 1%, 0402
