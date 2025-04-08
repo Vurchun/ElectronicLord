@@ -1,0 +1,10 @@
+kalichak.yurii@lll.kpi.ua
+Fkmn!evD3sign&r
+C:\Users\kalichak.y\Downloads
+C:\Users\kalichak.y\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\kalichak.y\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
