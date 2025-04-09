@@ -1,0 +1,26 @@
+Change Component Comment : Designator=C12 Old Comment=10nF, 50V, X7R, 06023 New Comment=10nF, 50V, X7R, 0603
+Change Component Comment : Designator=C7 Old Comment=GRM21BR61H475ME51L New Comment=4.7uF, 50V, X5R, 0805
+Change Component Designator: OldDesignator=Q2_Opto1 NewDesignator=Q2_Opto2
+Change Component Designator: OldDesignator=Q2_Opto2 NewDesignator=Q2_Opto1
+Change Component Designator: OldDesignator=R35_Opto1 NewDesignator=R35_Opto2
+Change Component Designator: OldDesignator=R35_Opto2 NewDesignator=R35_Opto1
+Change Component Designator: OldDesignator=R36_Opto1 NewDesignator=R36_Opto2
+Change Component Designator: OldDesignator=R36_Opto2 NewDesignator=R36_Opto1
+Added Pin To Net: NetName=GND_2 Pin=C6-1
+Added Pin To Net: NetName=Vcc_2 Pin=C6-2
+Added Pin To Net: NetName=GND_2 Pin=C7-1
+Added Pin To Net: NetName=Vcc_2 Pin=C7-2
+Added Pin To Net: NetName=GND_2 Pin=C8-1
+Added Pin To Net: NetName=Vcc_2 Pin=C8-2
+Added Pin To Net: NetName=GND_2 Pin=C9-1
+Added Pin To Net: NetName=Vcc_2 Pin=C9-2
+Added Pin To Net: NetName=GND_2 Pin=C10-1
+Added Pin To Net: NetName=GND_2 Pin=C11-1
+Added Pin To Net: NetName=GND_2 Pin=IC1-A6
+Added Pin To Net: NetName=Vcc Pin=IC1-A7
+Added Pin To Net: NetName=Vcc Pin=IC1-G1
+Added Pin To Net: NetName=GND_2 Pin=IC1-G2
+Added Pin To Net: NetName=Vcc Pin=IC1-G3
+Added Pin To Net: NetName=GND_2 Pin=IC1-G4
+Change Net Name : Old Net Name=NetQ2_Opto1_1 New Net Name=NetQ2_Opto2_1
+Change Net Name : Old Net Name=NetQ2_Opto2_1 New Net Name=NetQ2_Opto1_1

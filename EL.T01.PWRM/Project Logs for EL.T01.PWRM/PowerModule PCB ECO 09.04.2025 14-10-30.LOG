@@ -1,0 +1,58 @@
+Removed Member From Class: ClassName=ISO_Signals Member=IC2
+Added Component: Designator=J2(61300411821)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "61924712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=J2-1
+Added Pin To Net: NetName=USART_RX Pin=J2-2
+Added Pin To Net: NetName=Vcc_1 Pin=J2-3
+Added Pin To Net: NetName=USART_TX Pin=J2-4
+Change Class Name : Old Net Name=ISO_Signals New Net Name=LDO_3V3
+Added Class: Name=ISO_Signals
+Added Member To Class: ClassName=PowerModule Member=Component C8 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C9 4.7uF, 50V, X5R, 0805
+Added Member To Class: ClassName=PowerModule Member=Component C10 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C11 GRM21BR61H475ME51L
+Added Member To Class: ClassName=PowerModule Member=Component C12 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C13 1uF, 50V, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component J2 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J3 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J4 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J6 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J8 43045-0802
+Added Member To Class: ClassName=PowerModule Member=Component J12 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J14 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J16 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J18 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J20 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J22 43045-0400
+Added Member To Class: ClassName=PowerModule Member=Component J24 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J25 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J26 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J29 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J30 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J31 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J33 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J35 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J36 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J38 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J39 TestPad
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component J41_PowerModuleCell_M1 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J41_PowerModuleCell_M2 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J41_PowerModuleCell_M3 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J41_PowerModuleCell_M4 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component J42_PowerModuleCell_M1 (J42) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J42_PowerModuleCell_M2 (J42) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J42_PowerModuleCell_M3 (J42) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J42_PowerModuleCell_M4 (J42) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component J43_PowerModuleCell_M1 (J43) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J43_PowerModuleCell_M2 (J43) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J43_PowerModuleCell_M3 (J43) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J43_PowerModuleCell_M4 (J43) TestPad
+Added Member To Class: ClassName=LDO_3V3 Member=Component U4 TC1262-3.3VDBTR

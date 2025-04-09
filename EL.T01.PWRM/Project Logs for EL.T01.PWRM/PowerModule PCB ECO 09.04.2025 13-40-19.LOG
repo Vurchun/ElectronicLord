@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Opto1 Member=Q2_Opto2
+Removed Member From Class: ClassName=Opto2 Member=R35_Opto1
+Removed Member From Class: ClassName=Opto2 Member=R36_Opto1
+Added Member To Class: ClassName=Opto1 Member=Component Q2_Opto1 (Q2) TLP291_Y,SE_T
+Added Member To Class: ClassName=Opto2 Member=Component R35_Opto2 (R35) 4K7 1%, 0402
+Added Member To Class: ClassName=Opto2 Member=Component R36_Opto2 (R36) 68 1%, 0402
