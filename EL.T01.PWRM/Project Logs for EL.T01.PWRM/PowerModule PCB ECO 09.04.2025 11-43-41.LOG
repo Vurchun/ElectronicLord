@@ -1,0 +1,274 @@
+Change Component Designator: OldDesignator=J8 NewDesignator=J1
+Change Component Designator: OldDesignator=J9 NewDesignator=J2
+Change Component Designator: OldDesignator=J10 NewDesignator=J3
+Change Component Designator: OldDesignator=J15 NewDesignator=J8
+Change Component Designator: OldDesignator=J16 NewDesignator=J9
+Change Component Designator: OldDesignator=J17 NewDesignator=J10
+Change Component Designator: OldDesignator=J18 NewDesignator=J11
+Change Component Designator: OldDesignator=J27 NewDesignator=J20
+Change Component Designator: OldDesignator=J28 NewDesignator=J21
+Change Component Designator: OldDesignator=J37 NewDesignator=J30
+Change Component Designator: OldDesignator=J42 NewDesignator=J35
+Change Component Designator: OldDesignator=J43 NewDesignator=J36
+Change Component Designator: OldDesignator=J44 NewDesignator=J37
+Change Component Designator: OldDesignator=J46 NewDesignator=J39
+Change Component Designator: OldDesignator=J47_PowerModuleCell_M1 NewDesignator=J40_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J47_PowerModuleCell_M2 NewDesignator=J40_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J47_PowerModuleCell_M3 NewDesignator=J40_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J47_PowerModuleCell_M4 NewDesignator=J40_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J48_PowerModuleCell_M1 NewDesignator=J41_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J48_PowerModuleCell_M2 NewDesignator=J41_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J48_PowerModuleCell_M3 NewDesignator=J41_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J48_PowerModuleCell_M4 NewDesignator=J41_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J49_PowerModuleCell_M1 NewDesignator=J42_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J49_PowerModuleCell_M2 NewDesignator=J42_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J49_PowerModuleCell_M3 NewDesignator=J42_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J49_PowerModuleCell_M4 NewDesignator=J42_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J50_PowerModuleCell_M1 NewDesignator=J43_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J50_PowerModuleCell_M2 NewDesignator=J43_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J50_PowerModuleCell_M3 NewDesignator=J43_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J50_PowerModuleCell_M4 NewDesignator=J43_PowerModuleCell_M4
+Added Component: Designator=J12(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J13(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J14(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J15(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J16(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J17(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J18(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J19(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J22(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J23(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J24(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J25(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J26(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J27(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J28(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J29(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J31(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J32(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J33(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J34(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J38(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI2-SCK Pin=J4-1
+Added Pin To Net: NetName=SPI2-MOSI Pin=J6-1
+Added Pin To Net: NetName=SPI2-MISO Pin=J7-1
+Added Pin To Net: NetName=I2C1_SDA Pin=J12-1
+Added Pin To Net: NetName=I2C2_SDA Pin=J13-1
+Added Pin To Net: NetName=I2C1_SCL Pin=J14-1
+Added Pin To Net: NetName=I2C2_SCL Pin=J15-1
+Added Pin To Net: NetName=PC11 Pin=J16-1
+Added Pin To Net: NetName=PF1 Pin=J17-1
+Added Pin To Net: NetName=PC13 Pin=J18-1
+Added Pin To Net: NetName=PB12 Pin=J19-1
+Added Pin To Net: NetName=PC15 Pin=J22-1
+Added Pin To Net: NetName=PA4 Pin=J23-1
+Added Pin To Net: NetName=20V Pin=J24-1
+Added Pin To Net: NetName=20V_F Pin=J25-1
+Added Pin To Net: NetName=Vcc_2 Pin=J26-1
+Added Pin To Net: NetName=Vcc_2 Pin=J27-1
+Added Pin To Net: NetName=Vcc_2 Pin=J28-1
+Added Pin To Net: NetName=Vcc_2 Pin=J29-1
+Added Pin To Net: NetName=3V3_F Pin=J31-1
+Added Pin To Net: NetName=GND_2 Pin=J32-1
+Added Pin To Net: NetName=GND_2 Pin=J33-1
+Added Pin To Net: NetName=GND_2 Pin=J34-1
+Added Pin To Net: NetName=GND_2 Pin=J38-1
+Added Member To Class: ClassName=PowerModule Member=Component J2 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J3 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J4 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J5 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J6 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J7 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J8 43045-0802
+Added Member To Class: ClassName=PowerModule Member=Component J11 43045-0400
+Added Member To Class: ClassName=PowerModule Member=Component J12 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J13 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J14 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J15 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J16 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J17 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J18 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J19 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J20 43045-0400
+Added Member To Class: ClassName=PowerModule Member=Component J22 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J23 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J24 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J25 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J26 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J27 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J28 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J29 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J30 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J31 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J32 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J33 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J34 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J38 TestPad

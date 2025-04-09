@@ -1,0 +1,32 @@
+84103C
+CreateFootprintInLib, 84103C, 
+CreateRectangularSMD, -1.600, 0.000, 3.500, 2.000, 0, 1, 0, 90.000
+CreateRectangularSMD, 1.600, 0.000, 3.500, 2.000, 0, 2, 0, 90.000
+CreateAssemblyLine, -2.250, 1.650, 2.250, 1.650, 0.1
+CreateAssemblyLine, 2.250, 1.650, 2.250, -1.650, 0.1
+CreateAssemblyLine, 2.250, -1.650, -2.250, -1.650, 0.1
+CreateAssemblyLine, -2.250, -1.650, -2.250, 1.650, 0.1
+CreateCourtyardLine, -3.600, 2.750, 3.600, 2.750, 0.1
+CreateCourtyardLine, 3.600, 2.750, 3.600, -2.750, 0.1
+CreateCourtyardLine, 3.600, -2.750, -3.600, -2.750, 0.1
+CreateCourtyardLine, -3.600, -2.750, -3.600, 2.750, 0.1
+CreateSilkscreenLine, -0.200, 1.650, 0.200, 1.650, 0.2
+CreateSilkscreenLine, -0.200, -1.650, 0.200, -1.650, 0.2
+AssignSTEPmodel, 84103C.stp, 0, 0, 0, 62.91999816894531, -1.9800000190734863, 1.3300000429153442
+CreateComponentInLib, 84103C, Inductor, L?
+CreateLeftPin, 200, 0, 1, 1, 200, 4, 0
+CreateRightPin, 600, 0, 2, 2, 200, 4, 0
+DrawArc2, 250, -2, 2.3, 177.7, 50, 0.1
+DrawArc2, 350, -2, 2.3, 177.7, 50, 0.1
+DrawArc2, 450, -2, 2.3, 177.7, 50, 0.1
+DrawArc2, 550, -2, 2.3, 177.7, 50, 0.1
+AddParameter, Description, Murata 8400 Series Wire-wound SMD Inductor 10 uH 0.95A Idc
+AddParameter, Datasheet Link, https://www.murata.com/en-global/products/productdetail?partno=84103C
+AddParameter, Height, 2.9mm
+AddParameter, Manufacturer_Name, Murata Electronics
+AddParameter, Manufacturer_Part_Number, 84103C
+AddParameter, Mouser Part Number, 580-84103C
+AddParameter, Mouser Price/Stock, https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/84103C?qs=94qWIstW55XVlj2bXBswCg%3D%3D
+AddParameter, Arrow Part Number, 84103C
+AddParameter, Arrow Price/Stock, https://www.arrow.com/en/products/84103c/murata-power-solutions?region=nac
+AssignFootprint, 84103C, (1:1),(2:2)

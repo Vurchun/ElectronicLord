@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=20V Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-9
+Removed Pin From Net: NetName=GND Pin=P1-10
+Removed Pin From Net: NetName=20V Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-9
+Removed Pin From Net: NetName=GND Pin=P2-10
+Added Component: Designator=C?(CAPC5750X420N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2220Y0630105KXT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2220y0630105kxt/syfer-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/2220y0630105kxt/syfer-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2220Y0630105KXT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "843-2220Y0630105KX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Knowles-Syfer/2220Y0630105KXT?qs=yIvl1B2wDi4MJafAlAFXPQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(T491D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "T491D106K050AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/t491d106k050at/kemet-corporation?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://content.kemet.com/datasheets/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "T491D106K050AT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-T491D106K050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/T491D106K050AT?qs=ohfon0hxEDckuN%2F%252ByCig%2FQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM21BC71E475KE11L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm21bc71e475ke11l/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC71E475KE11-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM21BC71E475KE11L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM21BC71E475KE1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BC71E475KE11L?qs=hNud%2FORuBR02yf5e5nzFMA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP64P600X175-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADUM1440ARQZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adum1440arqz/analog-devices?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/ADUM1440ARQZ.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADUM1440ARQZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADUM1440ARQZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADUM1440ARQZ?qs=613q%2FuFLIwR2r1IGUGbFKA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L?(BOUR-CM322522_V)
+Add component (AddParameter): Name = "Colour"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/cm322522.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "1.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 3.2 x 2.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "11.15 mm"; VariantName = "[No Variations]"
+Added Component: Designator=PS?(MGJ2D122005BSC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/products/productdata/8822318989342/KDC-MGJ2B.pdf?1690255813000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MGJ2D122005BSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P2-1
+Added Net: Name=12V
+Added Pin To Net: NetName=ISO_GND Pin=P1-9
+Added Pin To Net: NetName=ISO_GND Pin=P1-10
+Added Pin To Net: NetName=ISO_GND Pin=P2-9
+Added Pin To Net: NetName=ISO_GND Pin=P2-10
+Added Net: Name=ISO_GND
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=L?-1
+Added Net: Name=NetC?_2
+Added Class: Name=20V_Isolator
+Added Member To Class: ClassName=PowerModule Member=Component IC? ADUM1440ARQZ
