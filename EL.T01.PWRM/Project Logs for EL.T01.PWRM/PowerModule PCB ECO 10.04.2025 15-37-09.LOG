@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Vcc_2 Pin=C27-1
+Removed Pin From Net: NetName=GND_2 Pin=C27-2
+Removed Member From Class: ClassName=LDO_3V3 Member=C27
+Added Component: Designator=C17(GRM15x)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM155R61H105KE05J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm155r61h105ke05j/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R61H105KE05-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM155R61H105KE05J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM155R61H105KE5J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM155R61H105KE05J?qs=d0WKAl%252BL4KZilUxqJ3m7lA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_2 Pin=C17-1
+Added Pin To Net: NetName=Vcc_2 Pin=C17-2
+Added Member To Class: ClassName=LDO_3V3 Member=Component C17 1uF, 50V, X5R, 0402

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vcc Pin=IC1-G3
+Change Component Footprint: Designator=R32_Opto1 Old Footprint=FP-ERJ2RK-MFG New Footprint=FP-ERJ2RK-MFG
+Change Component Footprint: Designator=R32_Opto2 Old Footprint=FP-ERJ2RK-MFG New Footprint=FP-ERJ2RK-MFG
+Change Component Footprint: Designator=D2 Old Footprint=WL-SMCW_0603_150060xx75000 New Footprint=WL-SMCW_0603_150060xx75000
+Added Pin To Net: NetName=3V3_F Pin=IC1-G3
