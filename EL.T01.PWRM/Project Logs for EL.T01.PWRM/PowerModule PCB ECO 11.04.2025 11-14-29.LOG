@@ -1,0 +1,80 @@
+Change Component Designator: OldDesignator=C27_Amplifier_K-51 NewDesignator=C28_Amplifier_K-51
+Change Component Designator: OldDesignator=C27_Amplifier_K-52 NewDesignator=C28_Amplifier_K-52
+Change Component Designator: OldDesignator=C28_Amplifier_K-51 NewDesignator=C29_Amplifier_K-51
+Change Component Designator: OldDesignator=C28_Amplifier_K-52 NewDesignator=C29_Amplifier_K-52
+Change Component Designator: OldDesignator=C29_Amplifier_K-51 NewDesignator=C30_Amplifier_K-51
+Change Component Designator: OldDesignator=C29_Amplifier_K-52 NewDesignator=C30_Amplifier_K-52
+Change Component Designator: OldDesignator=C30_Amplifier_K-51 NewDesignator=C31_Amplifier_K-51
+Change Component Designator: OldDesignator=C30_Amplifier_K-52 NewDesignator=C31_Amplifier_K-52
+Change Component Designator: OldDesignator=C31_Amplifier_K-51 NewDesignator=C32_Amplifier_K-51
+Change Component Designator: OldDesignator=C31_Amplifier_K-52 NewDesignator=C32_Amplifier_K-52
+Change Component Designator: OldDesignator=C32_Amplifier_K-51 NewDesignator=C33_Amplifier_K-51
+Change Component Designator: OldDesignator=C32_Amplifier_K-52 NewDesignator=C33_Amplifier_K-52
+Change Component Designator: OldDesignator=C33_Amplifier_K-51 NewDesignator=C34_Amplifier_K-51
+Change Component Designator: OldDesignator=C33_Amplifier_K-52 NewDesignator=C34_Amplifier_K-52
+Change Component Designator: OldDesignator=C34_Amplifier_K-51 NewDesignator=C35_Amplifier_K-51
+Change Component Designator: OldDesignator=C34_Amplifier_K-52 NewDesignator=C35_Amplifier_K-52
+Added Component: Designator=C27_Amplifier_K-51(FP-GRM155-0_05-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000212oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Component: Designator=C27_Amplifier_K-52(FP-GRM155-0_05-IPC_C)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000212oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.02inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=20V_F Pin=C27_Amplifier_K-51-1
+Added Pin To Net: NetName=GND_2 Pin=C27_Amplifier_K-51-2
+Added Pin To Net: NetName=20V_F Pin=C27_Amplifier_K-52-1
+Added Pin To Net: NetName=GND_2 Pin=C27_Amplifier_K-52-2
+Change Net Name : Old Net Name=NetC28_Amplifier_K-51_1 New Net Name=NetC29_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetC28_Amplifier_K-52_1 New Net Name=NetC29_Amplifier_K-52_1
+Change Net Name : Old Net Name=NetC30_Amplifier_K-51_1 New Net Name=NetC31_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetC30_Amplifier_K-52_1 New Net Name=NetC31_Amplifier_K-52_1
+Change Net Name : Old Net Name=NetC32_Amplifier_K-51_1 New Net Name=NetC33_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetC32_Amplifier_K-52_1 New Net Name=NetC33_Amplifier_K-52_1
+Change Net Name : Old Net Name=NetC34_Amplifier_K-51_1 New Net Name=NetC35_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetC34_Amplifier_K-52_1 New Net Name=NetC35_Amplifier_K-52_1
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component C35_Amplifier_K-51 (C35) 220nF 50V, X5R, 0402
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component C35_Amplifier_K-52 (C35) 220nF 50V, X5R, 0402

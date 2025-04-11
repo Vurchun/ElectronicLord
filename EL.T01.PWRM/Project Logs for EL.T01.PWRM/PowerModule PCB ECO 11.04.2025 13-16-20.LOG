@@ -1,0 +1,102 @@
+Change Component Designator: OldDesignator=J45_Amplifier_K-51 NewDesignator=J46_Amplifier_K-51
+Change Component Designator: OldDesignator=J45_Amplifier_K-52 NewDesignator=J46_Amplifier_K-52
+Change Component Designator: OldDesignator=J46_Amplifier_K-51 NewDesignator=J47_Amplifier_K-51
+Change Component Designator: OldDesignator=J46_Amplifier_K-52 NewDesignator=J47_Amplifier_K-52
+Change Component Designator: OldDesignator=J47_Amplifier_K-51 NewDesignator=J49_Amplifier_K-51
+Change Component Designator: OldDesignator=J47_Amplifier_K-52 NewDesignator=J49_Amplifier_K-52
+Change Component Designator: OldDesignator=J48_Amplifier_K-51 NewDesignator=J50_Amplifier_K-51
+Change Component Designator: OldDesignator=J48_Amplifier_K-52 NewDesignator=J50_Amplifier_K-52
+Change Component Designator: OldDesignator=J49_Amplifier_K-51 NewDesignator=J53_Amplifier_K-51
+Change Component Designator: OldDesignator=J49_Amplifier_K-52 NewDesignator=J53_Amplifier_K-52
+Change Component Designator: OldDesignator=J50_Amplifier_K-51 NewDesignator=J54_Amplifier_K-51
+Change Component Designator: OldDesignator=J50_Amplifier_K-52 NewDesignator=J54_Amplifier_K-52
+Added Component: Designator=J45_Amplifier_K-51(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J45_Amplifier_K-52(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J48_Amplifier_K-51(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J48_Amplifier_K-52(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J51_Amplifier_K-51(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J51_Amplifier_K-52(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J52_Amplifier_K-51(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J52_Amplifier_K-52(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Amp-RefParam_M3 Pin=J45_Amplifier_K-51-1
+Added Pin To Net: NetName=Amp-RefParam_M1 Pin=J45_Amplifier_K-52-1
+Added Pin To Net: NetName=Amp-RefParam_M4 Pin=J48_Amplifier_K-51-1
+Added Pin To Net: NetName=Amp-RefParam_M2 Pin=J48_Amplifier_K-52-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M3 Pin=J51_Amplifier_K-51-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M1 Pin=J51_Amplifier_K-52-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M4 Pin=J52_Amplifier_K-51-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M2 Pin=J52_Amplifier_K-52-1
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J51_Amplifier_K-51 (J51) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J51_Amplifier_K-52 (J51) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J52_Amplifier_K-51 (J52) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J52_Amplifier_K-52 (J52) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J53_Amplifier_K-51 (J53) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J53_Amplifier_K-52 (J53) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J54_Amplifier_K-51 (J54) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J54_Amplifier_K-52 (J54) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component R39_Amplifier_K-51 (R39) 4K02 1%, 0402
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component R39_Amplifier_K-52 (R39) 4K02 1%, 0402

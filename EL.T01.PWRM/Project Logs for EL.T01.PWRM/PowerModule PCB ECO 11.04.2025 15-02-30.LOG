@@ -1,0 +1,488 @@
+Removed Pin From Net: NetName=GND_2 Pin=D1-1
+Removed Pin From Net: NetName=GND_1 Pin=D2-1
+Removed Pin From Net: NetName=GND_2 Pin=D3-1
+Removed Pin From Net: NetName=Vcc_2 Pin=J28-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R5-1
+Removed Pin From Net: NetName=20V Pin=R5-2
+Removed Pin From Net: NetName=NetD2_2 Pin=R9-1
+Change Component Footprint: Designator=J1 Old Footprint=61300411821 New Footprint=61300411821
+Change Component Footprint: Designator=J2 Old Footprint=61300411821 New Footprint=61300411821
+Change Component Footprint: Designator=J3 Old Footprint=61300411821 New Footprint=61300411821
+Change Component Footprint: Designator=J4 Old Footprint=61300411821 New Footprint=61300411821
+Change Component Footprint: Designator=C5 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Comment : Designator=C5 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=D2 Old Comment=150060RS75000 New Comment=150060AS75000
+Change Component Comment : Designator=D1 Old Comment=150060RS75000 New Comment=150060YS75000
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6_PowerModuleCell_M1 NewDesignator=D10_PowerModuleCell_M1
+Change Component Designator: OldDesignator=D6_PowerModuleCell_M2 NewDesignator=D10_PowerModuleCell_M2
+Change Component Designator: OldDesignator=D6_PowerModuleCell_M3 NewDesignator=D10_PowerModuleCell_M3
+Change Component Designator: OldDesignator=D6_PowerModuleCell_M4 NewDesignator=D10_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J25 NewDesignator=J21
+Change Component Designator: OldDesignator=J27 NewDesignator=J25
+Change Component Designator: OldDesignator=J29 NewDesignator=J27
+Change Component Designator: OldDesignator=J30 NewDesignator=J28
+Change Component Designator: OldDesignator=J31 NewDesignator=J29
+Change Component Designator: OldDesignator=J32 NewDesignator=J30
+Change Component Designator: OldDesignator=J33_PowerModuleCell_M1 NewDesignator=J31_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J33_PowerModuleCell_M2 NewDesignator=J31_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J33_PowerModuleCell_M3 NewDesignator=J31_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J33_PowerModuleCell_M4 NewDesignator=J31_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J34_PowerModuleCell_M1 NewDesignator=J32_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J34_PowerModuleCell_M2 NewDesignator=J32_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J34_PowerModuleCell_M3 NewDesignator=J32_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J34_PowerModuleCell_M4 NewDesignator=J32_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J35_Amplifier_K-51 NewDesignator=J33_Amplifier_K-51
+Change Component Designator: OldDesignator=J35_Amplifier_K-52 NewDesignator=J33_Amplifier_K-52
+Change Component Designator: OldDesignator=J36_Amplifier_K-51 NewDesignator=J34_Amplifier_K-51
+Change Component Designator: OldDesignator=J36_Amplifier_K-52 NewDesignator=J34_Amplifier_K-52
+Change Component Designator: OldDesignator=J37_Amplifier_K-51 NewDesignator=J35_Amplifier_K-51
+Change Component Designator: OldDesignator=J37_Amplifier_K-52 NewDesignator=J35_Amplifier_K-52
+Change Component Designator: OldDesignator=J38_Amplifier_K-51 NewDesignator=J36_Amplifier_K-51
+Change Component Designator: OldDesignator=J38_Amplifier_K-52 NewDesignator=J36_Amplifier_K-52
+Change Component Designator: OldDesignator=J39_Amplifier_K-51 NewDesignator=J37_Amplifier_K-51
+Change Component Designator: OldDesignator=J39_Amplifier_K-52 NewDesignator=J37_Amplifier_K-52
+Change Component Designator: OldDesignator=J40_Amplifier_K-51 NewDesignator=J38_Amplifier_K-51
+Change Component Designator: OldDesignator=J40_Amplifier_K-52 NewDesignator=J38_Amplifier_K-52
+Change Component Designator: OldDesignator=J41_Amplifier_K-51 NewDesignator=J39_Amplifier_K-51
+Change Component Designator: OldDesignator=J41_Amplifier_K-52 NewDesignator=J39_Amplifier_K-52
+Change Component Designator: OldDesignator=J42_Amplifier_K-51 NewDesignator=J40_Amplifier_K-51
+Change Component Designator: OldDesignator=J42_Amplifier_K-52 NewDesignator=J40_Amplifier_K-52
+Change Component Designator: OldDesignator=J43_Amplifier_K-51 NewDesignator=J41_Amplifier_K-51
+Change Component Designator: OldDesignator=J43_Amplifier_K-52 NewDesignator=J41_Amplifier_K-52
+Change Component Designator: OldDesignator=J44_Amplifier_K-51 NewDesignator=J42_Amplifier_K-51
+Change Component Designator: OldDesignator=J44_Amplifier_K-52 NewDesignator=J42_Amplifier_K-52
+Change Component Designator: OldDesignator=J45_Amplifier_K-51 NewDesignator=J43_Amplifier_K-51
+Change Component Designator: OldDesignator=J45_Amplifier_K-52 NewDesignator=J43_Amplifier_K-52
+Change Component Designator: OldDesignator=J46_Amplifier_K-51 NewDesignator=J44_Amplifier_K-51
+Change Component Designator: OldDesignator=J46_Amplifier_K-52 NewDesignator=J44_Amplifier_K-52
+Change Component Designator: OldDesignator=R4 NewDesignator=R16
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R13
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R12 NewDesignator=R15
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M1 NewDesignator=R17_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M2 NewDesignator=R17_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M3 NewDesignator=R17_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R13_PowerModuleCell_M4 NewDesignator=R17_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M1 NewDesignator=R18_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M2 NewDesignator=R18_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M3 NewDesignator=R18_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R14_PowerModuleCell_M4 NewDesignator=R18_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M1 NewDesignator=R19_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M2 NewDesignator=R19_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M3 NewDesignator=R19_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R15_PowerModuleCell_M4 NewDesignator=R19_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M1 NewDesignator=R20_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M2 NewDesignator=R20_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M3 NewDesignator=R20_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R16_PowerModuleCell_M4 NewDesignator=R20_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M1 NewDesignator=R21_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M2 NewDesignator=R21_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M3 NewDesignator=R21_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R17_PowerModuleCell_M4 NewDesignator=R21_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M1 NewDesignator=R22_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M2 NewDesignator=R22_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M3 NewDesignator=R22_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R18_PowerModuleCell_M4 NewDesignator=R22_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M1 NewDesignator=R23_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M2 NewDesignator=R23_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M3 NewDesignator=R23_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R19_PowerModuleCell_M4 NewDesignator=R23_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M1 NewDesignator=R24_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M2 NewDesignator=R24_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M3 NewDesignator=R24_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R20_PowerModuleCell_M4 NewDesignator=R24_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M1 NewDesignator=R25_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M2 NewDesignator=R25_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M3 NewDesignator=R25_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R21_PowerModuleCell_M4 NewDesignator=R25_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M1 NewDesignator=R26_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M2 NewDesignator=R26_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M3 NewDesignator=R26_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R22_PowerModuleCell_M4 NewDesignator=R26_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R23_PowerModuleCell_M1 NewDesignator=R27_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R23_PowerModuleCell_M2 NewDesignator=R27_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R23_PowerModuleCell_M3 NewDesignator=R27_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R23_PowerModuleCell_M4 NewDesignator=R27_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R24_PowerModuleCell_M1 NewDesignator=R28_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R24_PowerModuleCell_M2 NewDesignator=R28_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R24_PowerModuleCell_M3 NewDesignator=R28_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R24_PowerModuleCell_M4 NewDesignator=R28_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R25_PowerModuleCell_M1 NewDesignator=R29_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R25_PowerModuleCell_M2 NewDesignator=R29_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R25_PowerModuleCell_M3 NewDesignator=R29_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R25_PowerModuleCell_M4 NewDesignator=R29_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R26_PowerModuleCell_M1 NewDesignator=R30_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R26_PowerModuleCell_M2 NewDesignator=R30_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R26_PowerModuleCell_M3 NewDesignator=R30_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R26_PowerModuleCell_M4 NewDesignator=R30_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M1 NewDesignator=R31_PowerModuleCell_M1
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M2 NewDesignator=R31_PowerModuleCell_M2
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M3 NewDesignator=R31_PowerModuleCell_M3
+Change Component Designator: OldDesignator=R27_PowerModuleCell_M4 NewDesignator=R31_PowerModuleCell_M4
+Change Component Designator: OldDesignator=R28_Opto1 NewDesignator=R32_Opto1
+Change Component Designator: OldDesignator=R28_Opto2 NewDesignator=R32_Opto2
+Change Component Designator: OldDesignator=R29_Opto1 NewDesignator=R33_Opto1
+Change Component Designator: OldDesignator=R29_Opto2 NewDesignator=R33_Opto2
+Change Component Designator: OldDesignator=R30_Amplifier_K-51 NewDesignator=R34_Amplifier_K-51
+Change Component Designator: OldDesignator=R30_Amplifier_K-52 NewDesignator=R34_Amplifier_K-52
+Change Component Designator: OldDesignator=R31_Amplifier_K-51 NewDesignator=R35_Amplifier_K-51
+Change Component Designator: OldDesignator=R31_Amplifier_K-52 NewDesignator=R35_Amplifier_K-52
+Change Component Designator: OldDesignator=R32_Amplifier_K-51 NewDesignator=R36_Amplifier_K-51
+Change Component Designator: OldDesignator=R32_Amplifier_K-52 NewDesignator=R36_Amplifier_K-52
+Change Component Designator: OldDesignator=R33_Amplifier_K-51 NewDesignator=R37_Amplifier_K-51
+Change Component Designator: OldDesignator=R33_Amplifier_K-52 NewDesignator=R37_Amplifier_K-52
+Change Component Designator: OldDesignator=R34_Amplifier_K-51 NewDesignator=R38_Amplifier_K-51
+Change Component Designator: OldDesignator=R34_Amplifier_K-52 NewDesignator=R38_Amplifier_K-52
+Change Component Designator: OldDesignator=R35_Amplifier_K-51 NewDesignator=R39_Amplifier_K-51
+Change Component Designator: OldDesignator=R35_Amplifier_K-52 NewDesignator=R39_Amplifier_K-52
+Change Component Designator: OldDesignator=R36_Amplifier_K-51 NewDesignator=R40_Amplifier_K-51
+Change Component Designator: OldDesignator=R36_Amplifier_K-52 NewDesignator=R40_Amplifier_K-52
+Change Component Designator: OldDesignator=R37_Amplifier_K-51 NewDesignator=R41_Amplifier_K-51
+Change Component Designator: OldDesignator=R37_Amplifier_K-52 NewDesignator=R41_Amplifier_K-52
+Change Component Designator: OldDesignator=R38_Amplifier_K-51 NewDesignator=R42_Amplifier_K-51
+Change Component Designator: OldDesignator=R38_Amplifier_K-52 NewDesignator=R42_Amplifier_K-52
+Change Component Designator: OldDesignator=R39_Amplifier_K-51 NewDesignator=R43_Amplifier_K-51
+Change Component Designator: OldDesignator=R39_Amplifier_K-52 NewDesignator=R43_Amplifier_K-52
+Change Component Designator: OldDesignator=R40_Amplifier_K-51 NewDesignator=R44_Amplifier_K-51
+Change Component Designator: OldDesignator=R40_Amplifier_K-52 NewDesignator=R44_Amplifier_K-52
+Change Component Designator: OldDesignator=R41_Amplifier_K-51 NewDesignator=R45_Amplifier_K-51
+Change Component Designator: OldDesignator=R41_Amplifier_K-52 NewDesignator=R45_Amplifier_K-52
+Change Component Designator: OldDesignator=R42_Amplifier_K-51 NewDesignator=R46_Amplifier_K-51
+Change Component Designator: OldDesignator=R42_Amplifier_K-52 NewDesignator=R46_Amplifier_K-52
+Change Component Designator: OldDesignator=R43_Amplifier_K-51 NewDesignator=R47_Amplifier_K-51
+Change Component Designator: OldDesignator=R43_Amplifier_K-52 NewDesignator=R47_Amplifier_K-52
+Change Component Designator: OldDesignator=R44_Amplifier_K-51 NewDesignator=R48_Amplifier_K-51
+Change Component Designator: OldDesignator=R44_Amplifier_K-52 NewDesignator=R48_Amplifier_K-52
+Change Component Designator: OldDesignator=R45_Amplifier_K-51 NewDesignator=R49_Amplifier_K-51
+Change Component Designator: OldDesignator=R45_Amplifier_K-52 NewDesignator=R49_Amplifier_K-52
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=263C58D6-E11B-4035-9856-8F8CB6BCCFF3 New ItemGUID=E2CF81E3-62D3-4027-8F07-A5AFA46D637E Old RevisionGUID=390BA3ED-0204-4229-8773-D358241E3FDF New RevisionGUID=201A731C-16F7-49B9-8411-E90F0E76E375
+Change Managed Component Library Link : Designator=D2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=263C58D6-E11B-4035-9856-8F8CB6BCCFF3 New ItemGUID=EF5D30DB-6D9F-42DA-BA04-4BB781F08455 Old RevisionGUID=390BA3ED-0204-4229-8773-D358241E3FDF New RevisionGUID=1955D282-BB02-479D-A7CA-65F148240F5E
+Change Managed Component Library Link : Designator=C5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change component parameters: Designator = "C5" ("C5"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\XHXMGPYX" ("\XHXMGPYX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "WL-SMCW_0603_150060XX75000"; UniqueID = "\EFZOOMNJ" ("\EFZOOMNJ")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dominant Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "120mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Wavelength"; Value = "595nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "590nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "WL-SMCW_0603_150060XX75000"; UniqueID = "\AUYPTXUZ" ("\AUYPTXUZ")
+Change component parameters (AddParameter): Name = "Dominant Wavelength"; Value = "605nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Luminous Intensity"; Value = "130mcd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Wavelength"; Value = "610nm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wavelength"; Value = "605nm"; VariantName = "[No Variations]"
+Added Component: Designator=D5(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "430mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "10µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "515nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "105mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D6(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "430mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "10µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "515nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "105mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D7(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "145mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "465nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "105mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D8(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "430mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "10µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "515nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "105mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "525nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D9(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "145mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "465nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "105mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1005X40X25NL10T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA-2AED182X"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ2RKF1800X"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ2RKF1800X"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ2RKF1800X"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1005X40X25NL05T05)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ2RKF1800X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=D1-1
+Added Pin To Net: NetName=GND_2 Pin=D2-1
+Added Pin To Net: NetName=GND_2 Pin=D5-1
+Added Pin To Net: NetName=GND_2 Pin=D6-1
+Added Pin To Net: NetName=GND_2 Pin=D7-1
+Added Pin To Net: NetName=GND_2 Pin=D8-1
+Added Pin To Net: NetName=GND_2 Pin=D9-1
+Added Pin To Net: NetName=NetD2_2 Pin=R4-1
+Added Pin To Net: NetName=20V Pin=R7-2
+Added Pin To Net: NetName=NetD1_2 Pin=R8-1
+Added Pin To Net: NetName=I2C1_SDA Pin=R9-1
+Added Pin To Net: NetName=I2C1_SCL Pin=R10-1
+Added Pin To Net: NetName=USART2_TX Pin=R11-1
+Added Pin To Net: NetName=USART2_RX Pin=R12-1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD6_PowerModuleCell_M1_2 New Net Name=NetD10_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetD6_PowerModuleCell_M2_2 New Net Name=NetD10_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetD6_PowerModuleCell_M3_2 New Net Name=NetD10_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetD6_PowerModuleCell_M4_2 New Net Name=NetD10_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M1_1 New Net Name=NetR17_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M1_2 New Net Name=NetR17_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M2_1 New Net Name=NetR17_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M2_2 New Net Name=NetR17_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M3_1 New Net Name=NetR17_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M3_2 New Net Name=NetR17_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M4_1 New Net Name=NetR17_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR13_PowerModuleCell_M4_2 New Net Name=NetR17_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR18_PowerModuleCell_M1_2 New Net Name=NetR22_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR18_PowerModuleCell_M2_2 New Net Name=NetR22_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR18_PowerModuleCell_M3_2 New Net Name=NetR22_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR18_PowerModuleCell_M4_2 New Net Name=NetR22_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M1_1 New Net Name=NetR24_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M1_2 New Net Name=NetR24_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M2_1 New Net Name=NetR24_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M2_2 New Net Name=NetR24_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M3_1 New Net Name=NetR24_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M3_2 New Net Name=NetR24_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M4_1 New Net Name=NetR24_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR20_PowerModuleCell_M4_2 New Net Name=NetR24_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR21_PowerModuleCell_M1_2 New Net Name=NetR25_PowerModuleCell_M1_2
+Change Net Name : Old Net Name=NetR21_PowerModuleCell_M2_2 New Net Name=NetR25_PowerModuleCell_M2_2
+Change Net Name : Old Net Name=NetR21_PowerModuleCell_M3_2 New Net Name=NetR25_PowerModuleCell_M3_2
+Change Net Name : Old Net Name=NetR21_PowerModuleCell_M4_2 New Net Name=NetR25_PowerModuleCell_M4_2
+Change Net Name : Old Net Name=NetR22_PowerModuleCell_M1_1 New Net Name=NetR26_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR22_PowerModuleCell_M2_1 New Net Name=NetR26_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR22_PowerModuleCell_M3_1 New Net Name=NetR26_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR22_PowerModuleCell_M4_1 New Net Name=NetR26_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR23_PowerModuleCell_M1_1 New Net Name=NetR27_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR23_PowerModuleCell_M2_1 New Net Name=NetR27_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR23_PowerModuleCell_M3_1 New Net Name=NetR27_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR23_PowerModuleCell_M4_1 New Net Name=NetR27_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR25_PowerModuleCell_M1_1 New Net Name=NetR29_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR25_PowerModuleCell_M2_1 New Net Name=NetR29_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR25_PowerModuleCell_M3_1 New Net Name=NetR29_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR25_PowerModuleCell_M4_1 New Net Name=NetR29_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR26_PowerModuleCell_M1_1 New Net Name=NetR30_PowerModuleCell_M1_1
+Change Net Name : Old Net Name=NetR26_PowerModuleCell_M2_1 New Net Name=NetR30_PowerModuleCell_M2_1
+Change Net Name : Old Net Name=NetR26_PowerModuleCell_M3_1 New Net Name=NetR30_PowerModuleCell_M3_1
+Change Net Name : Old Net Name=NetR26_PowerModuleCell_M4_1 New Net Name=NetR30_PowerModuleCell_M4_1
+Change Net Name : Old Net Name=NetR32_Amplifier_K-51_1 New Net Name=NetR36_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetR32_Amplifier_K-52_1 New Net Name=NetR36_Amplifier_K-52_1
+Change Net Name : Old Net Name=NetR33_Amplifier_K-51_1 New Net Name=NetR37_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetR33_Amplifier_K-52_1 New Net Name=NetR37_Amplifier_K-52_1
+Change Net Name : Old Net Name=NetR38_Amplifier_K-51_1 New Net Name=NetR42_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetR38_Amplifier_K-52_1 New Net Name=NetR42_Amplifier_K-52_1
+Change Net Name : Old Net Name=NetR39_Amplifier_K-51_1 New Net Name=NetR43_Amplifier_K-51_1
+Change Net Name : Old Net Name=NetR39_Amplifier_K-52_1 New Net Name=NetR43_Amplifier_K-52_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R7-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R9-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R10-2
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R11-2
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R12-2
+Added Net: Name=NetD9_2
+Added Member To Class: ClassName=PowerModule Member=Component D6 150060GS75000
+Added Member To Class: ClassName=PowerModule Member=Component D7 150060BS75000
+Added Member To Class: ClassName=PowerModule Member=Component D8 150060GS75000
+Added Member To Class: ClassName=PowerModule Member=Component D9 150060BS75000
+Added Member To Class: ClassName=PowerModule Member=Component J1 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J2 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J3 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J4 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J5 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J12 61300411821
+Added Member To Class: ClassName=PowerModule Member=Component J14 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J15 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J16 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J17 43045-0400
+Added Member To Class: ClassName=PowerModule Member=Component J18 43045-0400
+Added Member To Class: ClassName=PowerModule Member=Component J19 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J20 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J23 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J25 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J27 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J28 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J29 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J30 TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J41_Amplifier_K-51 (J41) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J41_Amplifier_K-52 (J41) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J42_Amplifier_K-51 (J42) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J43_Amplifier_K-51 (J43) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J43_Amplifier_K-52 (J43) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J44_Amplifier_K-51 (J44) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J44_Amplifier_K-52 (J44) TestPad
+Added Member To Class: ClassName=PowerModule Member=Component R13 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModule Member=Component R14 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModule Member=Component R15 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModule Member=Component R16 10K 5%, 0402

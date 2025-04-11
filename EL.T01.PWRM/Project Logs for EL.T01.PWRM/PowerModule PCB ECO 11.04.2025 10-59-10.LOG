@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=Amp-ProcessedParam_M1 Pin=J41_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=Amp-ProcessedParam_M2 Pin=J41_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Amp-ProcessedParam_M3 Pin=J41_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Amp-ProcessedParam_M4 Pin=J41_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Amp-RefParam_M1 Pin=J44_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=Amp-RefParam_M2 Pin=J44_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=RefParam_M3 Pin=J44_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Amp-RefParam_M4 Pin=J44_PowerModuleCell_M4-1
+Removed Member From Class: ClassName=ISO_Signals Member=C19
+Removed Member From Class: ClassName=ISO_Signals Member=C20
+Removed Member From Class: ClassName=20V_Isolator Member=C22
+Removed Member From Class: ClassName=PowerModuleCell_M1 Member=J44_PowerModuleCell_M1
+Removed Member From Class: ClassName=PowerModuleCell_M2 Member=J44_PowerModuleCell_M2
+Removed Member From Class: ClassName=PowerModuleCell_M3 Member=J44_PowerModuleCell_M3
+Removed Member From Class: ClassName=PowerModuleCell_M4 Member=J44_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J42_PowerModuleCell_M1 NewDesignator=J41_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J42_PowerModuleCell_M2 NewDesignator=J41_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J42_PowerModuleCell_M3 NewDesignator=J41_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J42_PowerModuleCell_M4 NewDesignator=J41_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J43_PowerModuleCell_M1 NewDesignator=J42_PowerModuleCell_M1
+Change Component Designator: OldDesignator=J43_PowerModuleCell_M2 NewDesignator=J42_PowerModuleCell_M2
+Change Component Designator: OldDesignator=J43_PowerModuleCell_M3 NewDesignator=J42_PowerModuleCell_M3
+Change Component Designator: OldDesignator=J43_PowerModuleCell_M4 NewDesignator=J42_PowerModuleCell_M4
+Change Component Designator: OldDesignator=J45_Amplifier_K-51 NewDesignator=J43_Amplifier_K-51
+Change Component Designator: OldDesignator=J45_Amplifier_K-52 NewDesignator=J43_Amplifier_K-52
+Change Component Designator: OldDesignator=J46_Amplifier_K-51 NewDesignator=J44_Amplifier_K-51
+Change Component Designator: OldDesignator=J46_Amplifier_K-52 NewDesignator=J44_Amplifier_K-52
+Change Component Designator: OldDesignator=J47_Amplifier_K-51 NewDesignator=J45_Amplifier_K-51
+Change Component Designator: OldDesignator=J47_Amplifier_K-52 NewDesignator=J45_Amplifier_K-52
+Change Component Designator: OldDesignator=J48_Amplifier_K-51 NewDesignator=J46_Amplifier_K-51
+Change Component Designator: OldDesignator=J48_Amplifier_K-52 NewDesignator=J46_Amplifier_K-52
+Change Component Designator: OldDesignator=J49_Amplifier_K-51 NewDesignator=J47_Amplifier_K-51
+Change Component Designator: OldDesignator=J49_Amplifier_K-52 NewDesignator=J47_Amplifier_K-52
+Change Component Designator: OldDesignator=J50_Amplifier_K-51 NewDesignator=J48_Amplifier_K-51
+Change Component Designator: OldDesignator=J50_Amplifier_K-52 NewDesignator=J48_Amplifier_K-52
+Change Component Designator: OldDesignator=J51_Amplifier_K-51 NewDesignator=J49_Amplifier_K-51
+Change Component Designator: OldDesignator=J51_Amplifier_K-52 NewDesignator=J49_Amplifier_K-52
+Change Component Designator: OldDesignator=J52_Amplifier_K-51 NewDesignator=J50_Amplifier_K-51
+Change Component Designator: OldDesignator=J52_Amplifier_K-52 NewDesignator=J50_Amplifier_K-52
+Change Component Designator: OldDesignator=Q2_PowerModuleCell_M1 NewDesignator=Q1_PowerModuleCell_M1
+Change Component Designator: OldDesignator=Q2_PowerModuleCell_M2 NewDesignator=Q1_PowerModuleCell_M2
+Change Component Designator: OldDesignator=Q2_PowerModuleCell_M3 NewDesignator=Q1_PowerModuleCell_M3
+Change Component Designator: OldDesignator=Q2_PowerModuleCell_M4 NewDesignator=Q1_PowerModuleCell_M4
+Change Component Designator: OldDesignator=Q3_Opto1 NewDesignator=Q2_Opto1
+Change Component Designator: OldDesignator=Q3_Opto2 NewDesignator=Q2_Opto2
+Change Net Name : Old Net Name=NetQ3_Opto1_1 New Net Name=NetQ2_Opto1_1
+Change Net Name : Old Net Name=NetQ3_Opto2_1 New Net Name=NetQ2_Opto2_1
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C15_PowerModuleCell_M1 (C15) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component C15_PowerModuleCell_M2 (C15) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C15_PowerModuleCell_M3 (C15) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C15_PowerModuleCell_M4 (C15) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=20V_Isolator Member=Component C17 10uF, 50V, 10%, 2917
+Added Member To Class: ClassName=ISO_Signals Member=Component C24 10nF, 50V, X7R, 06023
+Added Member To Class: ClassName=ISO_Signals Member=Component C25 10nF, 50V, X7R, 06023
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R13_PowerModuleCell_M1 (R13) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R13_PowerModuleCell_M2 (R13) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R13_PowerModuleCell_M3 (R13) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R13_PowerModuleCell_M4 (R13) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R14_PowerModuleCell_M1 (R14) 47 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R14_PowerModuleCell_M4 (R14) 47 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R15_PowerModuleCell_M2 (R15) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R15_PowerModuleCell_M3 (R15) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R15_PowerModuleCell_M4 (R15) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R16_PowerModuleCell_M1 (R16) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R16_PowerModuleCell_M2 (R16) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R16_PowerModuleCell_M3 (R16) 4K7 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R17_PowerModuleCell_M1 (R17) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R17_PowerModuleCell_M3 (R17) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R17_PowerModuleCell_M4 (R17) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R18_PowerModuleCell_M1 (R18) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R18_PowerModuleCell_M2 (R18) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R18_PowerModuleCell_M3 (R18) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R18_PowerModuleCell_M4 (R18) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R19_PowerModuleCell_M1 (R19) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R19_PowerModuleCell_M2 (R19) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R19_PowerModuleCell_M3 (R19) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R19_PowerModuleCell_M4 (R19) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R20_PowerModuleCell_M1 (R20) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R20_PowerModuleCell_M2 (R20) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R20_PowerModuleCell_M3 (R20) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R20_PowerModuleCell_M4 (R20) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R22_PowerModuleCell_M3 (R22) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R22_PowerModuleCell_M4 (R22) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R24_PowerModuleCell_M1 (R24) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R25_PowerModuleCell_M1 (R25) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R25_PowerModuleCell_M2 (R25) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R25_PowerModuleCell_M3 (R25) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R25_PowerModuleCell_M4 (R25) 100 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R26_PowerModuleCell_M1 (R26) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R26_PowerModuleCell_M2 (R26) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R26_PowerModuleCell_M3 (R26) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R26_PowerModuleCell_M4 (R26) 300 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component R27_PowerModuleCell_M1 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R27_PowerModuleCell_M2 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R27_PowerModuleCell_M3 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R27_PowerModuleCell_M4 (R27) 1K 1%, 0402
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component U?_Amplifier_K-51 (U?A) LM324DR2G
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component U?_Amplifier_K-51 (U?A) LM324DR2G
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component U?_Amplifier_K-51 (U?A) LM324DR2G
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component U?_Amplifier_K-52 (U?A) LM324DR2G
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component U?_Amplifier_K-52 (U?A) LM324DR2G
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component U?_Amplifier_K-52 (U?A) LM324DR2G

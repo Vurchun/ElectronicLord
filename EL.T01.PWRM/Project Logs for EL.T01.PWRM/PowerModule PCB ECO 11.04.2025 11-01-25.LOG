@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=Amp-RefParam_M3 Pin=U?_Amplifier_K-51-1
+Removed Pin From Net: NetName=NetR32_Amplifier_K-51_1 Pin=U?_Amplifier_K-51-2
+Removed Pin From Net: NetName=A_Amplifier_K-51 Pin=U?_Amplifier_K-51-3
+Removed Pin From Net: NetName=20V_F Pin=U?_Amplifier_K-51-4
+Removed Pin From Net: NetName=20V_F Pin=U?_Amplifier_K-51-4
+Removed Pin From Net: NetName=20V_F Pin=U?_Amplifier_K-51-4
+Removed Pin From Net: NetName=B_Amplifier_K-51 Pin=U?_Amplifier_K-51-5
+Removed Pin From Net: NetName=NetR39_Amplifier_K-51_1 Pin=U?_Amplifier_K-51-6
+Removed Pin From Net: NetName=Amp-ProcessedParam_M3 Pin=U?_Amplifier_K-51-7
+Removed Pin From Net: NetName=Amp-RefParam_M4 Pin=U?_Amplifier_K-51-8
+Removed Pin From Net: NetName=NetR33_Amplifier_K-51_1 Pin=U?_Amplifier_K-51-9
+Removed Pin From Net: NetName=C_Amplifier_K-51 Pin=U?_Amplifier_K-51-10
+Removed Pin From Net: NetName=GND_2 Pin=U?_Amplifier_K-51-11
+Removed Pin From Net: NetName=GND_2 Pin=U?_Amplifier_K-51-11
+Removed Pin From Net: NetName=Amp-RefParam_M1 Pin=U?_Amplifier_K-52-1
+Removed Pin From Net: NetName=NetR32_Amplifier_K-52_1 Pin=U?_Amplifier_K-52-2
+Removed Pin From Net: NetName=A_Amplifier_K-52 Pin=U?_Amplifier_K-52-3
+Removed Pin From Net: NetName=20V_F Pin=U?_Amplifier_K-52-4
+Removed Pin From Net: NetName=20V_F Pin=U?_Amplifier_K-52-4
+Removed Pin From Net: NetName=20V_F Pin=U?_Amplifier_K-52-4
+Removed Pin From Net: NetName=B_Amplifier_K-52 Pin=U?_Amplifier_K-52-5
+Removed Pin From Net: NetName=NetR39_Amplifier_K-52_1 Pin=U?_Amplifier_K-52-6
+Removed Pin From Net: NetName=Amp-ProcessedParam_M1 Pin=U?_Amplifier_K-52-7
+Removed Pin From Net: NetName=Amp-RefParam_M2 Pin=U?_Amplifier_K-52-8
+Removed Pin From Net: NetName=NetR33_Amplifier_K-52_1 Pin=U?_Amplifier_K-52-9
+Removed Pin From Net: NetName=C_Amplifier_K-52 Pin=U?_Amplifier_K-52-10
+Removed Pin From Net: NetName=GND_2 Pin=U?_Amplifier_K-52-11
+Removed Pin From Net: NetName=GND_2 Pin=U?_Amplifier_K-52-11
+Removed Member From Class: ClassName=Amplifier_K-52 Member=U?_Amplifier_K-52
+Change Component Designator: OldDesignator=U?_Amplifier_K-51 NewDesignator=U5_Amplifier_K-51
+Change Component Designator: OldDesignator=U?_Amplifier_K-52 NewDesignator=U5_Amplifier_K-52
+Added Pin To Net: NetName=Amp-RefParam_M3 Pin=U5_Amplifier_K-51-1
+Added Pin To Net: NetName=NetR32_Amplifier_K-51_1 Pin=U5_Amplifier_K-51-2
+Added Pin To Net: NetName=A_Amplifier_K-51 Pin=U5_Amplifier_K-51-3
+Added Pin To Net: NetName=B_Amplifier_K-51 Pin=U5_Amplifier_K-51-5
+Added Pin To Net: NetName=NetR39_Amplifier_K-51_1 Pin=U5_Amplifier_K-51-6
+Added Pin To Net: NetName=Amp-ProcessedParam_M3 Pin=U5_Amplifier_K-51-7
+Added Pin To Net: NetName=Amp-RefParam_M4 Pin=U5_Amplifier_K-51-8
+Added Pin To Net: NetName=NetR33_Amplifier_K-51_1 Pin=U5_Amplifier_K-51-9
+Added Pin To Net: NetName=C_Amplifier_K-51 Pin=U5_Amplifier_K-51-10
+Added Pin To Net: NetName=Amp-RefParam_M1 Pin=U5_Amplifier_K-52-1
+Added Pin To Net: NetName=NetR32_Amplifier_K-52_1 Pin=U5_Amplifier_K-52-2
+Added Pin To Net: NetName=A_Amplifier_K-52 Pin=U5_Amplifier_K-52-3
+Added Pin To Net: NetName=B_Amplifier_K-52 Pin=U5_Amplifier_K-52-5
+Added Pin To Net: NetName=NetR39_Amplifier_K-52_1 Pin=U5_Amplifier_K-52-6
+Added Pin To Net: NetName=Amp-ProcessedParam_M1 Pin=U5_Amplifier_K-52-7
+Added Pin To Net: NetName=Amp-RefParam_M2 Pin=U5_Amplifier_K-52-8
+Added Pin To Net: NetName=NetR33_Amplifier_K-52_1 Pin=U5_Amplifier_K-52-9
+Added Pin To Net: NetName=C_Amplifier_K-52 Pin=U5_Amplifier_K-52-10
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component J41_PowerModuleCell_M1 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J41_PowerModuleCell_M2 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J41_PowerModuleCell_M3 (J41) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J41_PowerModuleCell_M4 (J41) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J45_Amplifier_K-52 (J45) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J46_Amplifier_K-51 (J46) TestPad
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component J47_Amplifier_K-51 (J47) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J49_Amplifier_K-52 (J49) TestPad
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component J50_Amplifier_K-52 (J50) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component Q1_PowerModuleCell_M1 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component Q1_PowerModuleCell_M2 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component Q1_PowerModuleCell_M3 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component Q1_PowerModuleCell_M4 (Q1) IRF7779L2TRPBF
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component U5_Amplifier_K-52 (U5A) LM324DR2G
