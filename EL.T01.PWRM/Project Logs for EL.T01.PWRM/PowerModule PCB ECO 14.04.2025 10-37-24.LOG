@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=3V3_F Pin=C4-1
+Removed Pin From Net: NetName=GND_2 Pin=C4-2
+Removed Pin From Net: NetName=GND_2 Pin=C5-1
+Removed Pin From Net: NetName=2V048 Pin=C5-2
+Removed Pin From Net: NetName=GND_2 Pin=U2-2
+Removed Pin From Net: NetName=3V3_F Pin=U2-3
+Removed Pin From Net: NetName=3V3_F Pin=U2-4
+Removed Pin From Net: NetName=2V048 Pin=U2-5
+Removed Pin From Net: NetName=Vcc Pin=U3_PowerModuleCell_M2-C1
+Removed Member From Class: ClassName=PowerModule Member=C4
+Removed Member From Class: ClassName=PowerModule Member=C5
+Removed Member From Class: ClassName=PowerModule Member=U2
+Added Component: Designator=C?(CAPC2012X145N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM21BR61H475ME51L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm21br61h475me51l/murata-manufacturing?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61H475ME51-01A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM21BR61H475ME51L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM21BR61H475M51L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR61H475ME51L?qs=eeBpzGFlv%252B%2Fg0wAeHy0eJw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-CL32-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Soft Termination"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=U?(FP-DBV0005A-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "175mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.02mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.92mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "60uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "100uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "100uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Type"; Value = "Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "60uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "20ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.05%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_F Pin=C?-1
+Added Pin To Net: NetName=GND_2 Pin=C?-1
+Added Pin To Net: NetName=2V048 Pin=C?-2
+Added Pin To Net: NetName=GND_2 Pin=C?-2
+Added Pin To Net: NetName=Vcc_2 Pin=U3_PowerModuleCell_M2-C1
+Added Pin To Net: NetName=GND_2 Pin=U?-2
+Added Pin To Net: NetName=3V3_F Pin=U?-3
+Added Pin To Net: NetName=3V3_F Pin=U?-4
+Added Pin To Net: NetName=2V048 Pin=U?-5
+Change Net Name : Old Net Name=2V048 New Net Name=2V5
+Added Class: Name=Vref-2v5
+Added Room: Name=PowerModule
+Added Room: Name=Vref-2v5

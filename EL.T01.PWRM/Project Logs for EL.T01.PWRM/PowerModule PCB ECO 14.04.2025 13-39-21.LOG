@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=RefParam_M3 Pin=IC1-C4
+Removed Pin From Net: NetName=ProcessedParam_M3 Pin=IC1-E3
+Removed Pin From Net: NetName=RefParam_M4 Pin=IC1-E4
+Removed Pin From Net: NetName=ProcessedParam_M4 Pin=IC1-F2
+Removed Pin From Net: NetName=Amp-ProcessedParam_M1 Pin=R19_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=Amp-ProcessedParam_M2 Pin=R19_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Amp-ProcessedParam_M3 Pin=R19_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Amp-ProcessedParam_M4 Pin=R19_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=Amp-RefParam_M1 Pin=R22_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=Amp-RefParam_M2 Pin=R22_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=Amp-RefParam_M3 Pin=R22_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=Amp-RefParam_M4 Pin=R22_PowerModuleCell_M4-1
+Added Pin To Net: NetName=ProcessedParam_M4 Pin=IC1-C4
+Added Pin To Net: NetName=RefParam_M4 Pin=IC1-E3
+Added Pin To Net: NetName=RefParam_M3 Pin=IC1-E4
+Added Pin To Net: NetName=ProcessedParam_M3 Pin=IC1-F2
+Added Pin To Net: NetName=Amp-ProcessedParam_M2 Pin=R19_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Amp-RefParam_M1 Pin=R19_PowerModuleCell_M2-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M4 Pin=R19_PowerModuleCell_M3-1
+Added Pin To Net: NetName=Amp-RefParam_M3 Pin=R19_PowerModuleCell_M4-1
+Added Pin To Net: NetName=Amp-RefParam_M2 Pin=R22_PowerModuleCell_M1-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M1 Pin=R22_PowerModuleCell_M2-1
+Added Pin To Net: NetName=Amp-RefParam_M4 Pin=R22_PowerModuleCell_M3-1
+Added Pin To Net: NetName=Amp-ProcessedParam_M3 Pin=R22_PowerModuleCell_M4-1
+Change Net Name : Old Net Name=Amp-ProcessedParam_M1 New Net Name=Amp-RefParam_M2
+Change Net Name : Old Net Name=Amp-ProcessedParam_M2 New Net Name=Amp-ProcessedParam_M1
+Change Net Name : Old Net Name=Amp-ProcessedParam_M3 New Net Name=Amp-RefParam_M4
+Change Net Name : Old Net Name=Amp-ProcessedParam_M4 New Net Name=Amp-ProcessedParam_M3
+Change Net Name : Old Net Name=Amp-RefParam_M1 New Net Name=Amp-ProcessedParam_M2
+Change Net Name : Old Net Name=Amp-RefParam_M2 New Net Name=Amp-RefParam_M1
+Change Net Name : Old Net Name=Amp-RefParam_M3 New Net Name=Amp-ProcessedParam_M4
+Change Net Name : Old Net Name=Amp-RefParam_M4 New Net Name=Amp-RefParam_M3
+Change Net Name : Old Net Name=ProcessedParam_M3 New Net Name=ProcessedParam_M4
+Change Net Name : Old Net Name=ProcessedParam_M4 New Net Name=RefParam_M3
+Change Net Name : Old Net Name=RefParam_M3 New Net Name=RefParam_M4
+Change Net Name : Old Net Name=RefParam_M4 New Net Name=ProcessedParam_M3

@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=20V_F Pin=C15_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=GND_2 Pin=C15_PowerModuleCell_M1-2
+Removed Pin From Net: NetName=20V_F Pin=C15_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=GND_2 Pin=C15_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=20V_F Pin=C15_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=GND_2 Pin=C15_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=20V_F Pin=C15_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=GND_2 Pin=C15_PowerModuleCell_M4-2
+Removed Pin From Net: NetName=CurrentSignal_M1 Pin=C16_PowerModuleCell_M1-1
+Removed Pin From Net: NetName=GND_2 Pin=C16_PowerModuleCell_M1-2
+Removed Pin From Net: NetName=CurrentSignal_M2 Pin=C16_PowerModuleCell_M2-1
+Removed Pin From Net: NetName=GND_2 Pin=C16_PowerModuleCell_M2-2
+Removed Pin From Net: NetName=CurrentSignal_M3 Pin=C16_PowerModuleCell_M3-1
+Removed Pin From Net: NetName=GND_2 Pin=C16_PowerModuleCell_M3-2
+Removed Pin From Net: NetName=CurrentSignal_M4 Pin=C16_PowerModuleCell_M4-1
+Removed Pin From Net: NetName=GND_2 Pin=C16_PowerModuleCell_M4-2
+Change Component Footprint: Designator=C15_PowerModuleCell_M1 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C15_PowerModuleCell_M2 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C15_PowerModuleCell_M3 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C15_PowerModuleCell_M4 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C16_PowerModuleCell_M1 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C16_PowerModuleCell_M2 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C16_PowerModuleCell_M3 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C16_PowerModuleCell_M4 Old Footprint=FP-GRM155-0_05-IPC_C New Footprint=CAPC2012X88N
+Change Component Comment : Designator=C15_PowerModuleCell_M1 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C15_PowerModuleCell_M2 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C15_PowerModuleCell_M3 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C15_PowerModuleCell_M4 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C16_PowerModuleCell_M1 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C16_PowerModuleCell_M2 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C16_PowerModuleCell_M3 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Component Comment : Designator=C16_PowerModuleCell_M4 Old Comment=100nF, 25v, X5R, 0402 New Comment=100nF, 50v, X7R, 0402
+Change Managed Component Library Link : Designator=C15_PowerModuleCell_M1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C15_PowerModuleCell_M2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C15_PowerModuleCell_M3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C15_PowerModuleCell_M4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C16_PowerModuleCell_M1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C16_PowerModuleCell_M2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C16_PowerModuleCell_M3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change Managed Component Library Link : Designator=C16_PowerModuleCell_M4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D04C14BD-DED1-43E5-A793-17318AC047AE New ItemGUID= Old RevisionGUID=D83F5658-6B82-4C78-8990-9A4AA979F660 New RevisionGUID=
+Change component parameters: Designator = "C15_PowerModuleCell_M1" ("C15"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\SBVCEXEM\SLNTSTZN" ("\SBVCEXEM\SLNTSTZN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15_PowerModuleCell_M2" ("C15"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\HLKPTOVM\SLNTSTZN" ("\HLKPTOVM\SLNTSTZN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15_PowerModuleCell_M3" ("C15"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\RXGTYWUX\SLNTSTZN" ("\RXGTYWUX\SLNTSTZN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15_PowerModuleCell_M4" ("C15"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\JBEDTDUD\SLNTSTZN" ("\JBEDTDUD\SLNTSTZN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16_PowerModuleCell_M1" ("C16"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\SBVCEXEM\HJYJAWJJ" ("\SBVCEXEM\HJYJAWJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16_PowerModuleCell_M2" ("C16"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\HLKPTOVM\HJYJAWJJ" ("\HLKPTOVM\HJYJAWJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16_PowerModuleCell_M3" ("C16"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\RXGTYWUX\HJYJAWJJ" ("\RXGTYWUX\HJYJAWJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16_PowerModuleCell_M4" ("C16"); Footprint = "FP-GRM155-0_05-IPC_C"; UniqueID = "\JBEDTDUD\HJYJAWJJ" ("\JBEDTDUD\HJYJAWJJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_2 Pin=C15_PowerModuleCell_M1-1
+Added Pin To Net: NetName=20V_F Pin=C15_PowerModuleCell_M1-2
+Added Pin To Net: NetName=GND_2 Pin=C15_PowerModuleCell_M2-1
+Added Pin To Net: NetName=20V_F Pin=C15_PowerModuleCell_M2-2
+Added Pin To Net: NetName=GND_2 Pin=C15_PowerModuleCell_M3-1
+Added Pin To Net: NetName=20V_F Pin=C15_PowerModuleCell_M3-2
+Added Pin To Net: NetName=GND_2 Pin=C15_PowerModuleCell_M4-1
+Added Pin To Net: NetName=20V_F Pin=C15_PowerModuleCell_M4-2
+Added Pin To Net: NetName=GND_2 Pin=C16_PowerModuleCell_M1-1
+Added Pin To Net: NetName=CurrentSignal_M1 Pin=C16_PowerModuleCell_M1-2
+Added Pin To Net: NetName=GND_2 Pin=C16_PowerModuleCell_M2-1
+Added Pin To Net: NetName=CurrentSignal_M2 Pin=C16_PowerModuleCell_M2-2
+Added Pin To Net: NetName=GND_2 Pin=C16_PowerModuleCell_M3-1
+Added Pin To Net: NetName=CurrentSignal_M3 Pin=C16_PowerModuleCell_M3-2
+Added Pin To Net: NetName=GND_2 Pin=C16_PowerModuleCell_M4-1
+Added Pin To Net: NetName=CurrentSignal_M4 Pin=C16_PowerModuleCell_M4-2

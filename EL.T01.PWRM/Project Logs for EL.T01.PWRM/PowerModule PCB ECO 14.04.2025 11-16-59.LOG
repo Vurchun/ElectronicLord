@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=LDO_3V3 Member=C18
+Removed Member From Class: ClassName=LDO_3V3 Member=C19
+Removed Member From Class: ClassName=ISO_Signals Member=C22
+Removed Member From Class: ClassName=ISO_Signals Member=C23
+Added Member To Class: ClassName=PowerModule Member=Component C4 220nF 25V, X7R, 0603
+Added Member To Class: ClassName=PowerModule Member=Component C5 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C7 1uF, 50V, X5R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C12 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModule Member=Component C13 1uF, 50V, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C16_PowerModuleCell_M1 (C16) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component C16_PowerModuleCell_M2 (C16) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C16_PowerModuleCell_M3 (C16) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C16_PowerModuleCell_M4 (C16) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=20V_Isolator Member=Component C19 1uF, 50V, X5R, 0402
+Added Member To Class: ClassName=LDO_3V3 Member=Component C22 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=LDO_3V3 Member=Component C23 1uF, 50V, X5R, 0402
+Added Member To Class: ClassName=ISO_Signals Member=Component C24 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=ISO_Signals Member=Component C26 10nF, 50V, X7R, 06023
+Added Member To Class: ClassName=ISO_Signals Member=Component C27 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component C35_Amplifier_K-51 (C35) 470nF, 50v, X7R, 0603
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component C35_Amplifier_K-52 (C35) 470nF, 50v, X7R, 0603
+Added Member To Class: ClassName=Amplifier_K-51 Member=Component C36_Amplifier_K-51 (C36) 470nF, 50v, X7R, 0603
+Added Member To Class: ClassName=Amplifier_K-52 Member=Component C36_Amplifier_K-52 (C36) 470nF, 50v, X7R, 0603
+Added Member To Class: ClassName=PowerModule Member=Component J27 TestPad
+Added Member To Class: ClassName=PowerModule Member=Component J30 TestPad
