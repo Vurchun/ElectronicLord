@@ -1,0 +1,621 @@
+Added Component: Designator=C16_PowerModuleCell_M2(FP-GRM155-0_05-IPC_C)
+Added Component: Designator=C16_PowerModuleCell_M3(FP-GRM155-0_05-IPC_C)
+Added Component: Designator=C16_PowerModuleCell_M4(FP-GRM155-0_05-IPC_C)
+Added Component: Designator=C17_PowerModuleCell_M2(FP-GRM155-0_05-IPC_C)
+Added Component: Designator=C17_PowerModuleCell_M3(FP-GRM155-0_05-IPC_C)
+Added Component: Designator=C17_PowerModuleCell_M4(FP-GRM155-0_05-IPC_C)
+Added Component: Designator=C18_PowerModuleCell_M2(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C18_PowerModuleCell_M3(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C18_PowerModuleCell_M4(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C19_PowerModuleCell_M2(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C19_PowerModuleCell_M3(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C19_PowerModuleCell_M4(CAPC2012X88N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c104m5rac/kemet-corporation?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C104M5RAC%7bBULK%7d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C104M5RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C104M5RAC?qs=VOOUd%252Bza08rWzt4y8eXMuQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C20_PowerModuleCell_M2(FP-C1608-080-0_1-IPC_C)
+Added Component: Designator=C20_PowerModuleCell_M3(FP-C1608-080-0_1-IPC_C)
+Added Component: Designator=C20_PowerModuleCell_M4(FP-C1608-080-0_1-IPC_C)
+Added Component: Designator=C21_PowerModuleCell_M2(FP-C1608-080-0_1-IPC_C)
+Added Component: Designator=C21_PowerModuleCell_M3(FP-C1608-080-0_1-IPC_C)
+Added Component: Designator=C21_PowerModuleCell_M4(FP-C1608-080-0_1-IPC_C)
+Added Component: Designator=D10_PowerModuleCell_M2(WL-SMCW_0603_150060xx75000)
+Added Component: Designator=D10_PowerModuleCell_M3(WL-SMCW_0603_150060xx75000)
+Added Component: Designator=D10_PowerModuleCell_M4(WL-SMCW_0603_150060xx75000)
+Added Component: Designator=J32_PowerModuleCell_M2(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J32_PowerModuleCell_M3(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J32_PowerModuleCell_M4(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J33_PowerModuleCell_M2(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J33_PowerModuleCell_M3(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J33_PowerModuleCell_M4(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J34_PowerModuleCell_M2(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J34_PowerModuleCell_M3(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J34_PowerModuleCell_M4(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J35_PowerModuleCell_M2(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J35_PowerModuleCell_M3(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J35_PowerModuleCell_M4(TestPad)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-61300111121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61300111121?qs=PhR8RmCirEaRH5Ck%252B2lRLQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_PowerModuleCell_M2(FP-MG-WDSON-11-MFG)
+Added Component: Designator=Q1_PowerModuleCell_M3(FP-MG-WDSON-11-MFG)
+Added Component: Designator=Q1_PowerModuleCell_M4(FP-MG-WDSON-11-MFG)
+Added Component: Designator=R17_PowerModuleCell_M2(FP-ERA2A-MFG)
+Added Component: Designator=R17_PowerModuleCell_M3(FP-ERA2A-MFG)
+Added Component: Designator=R17_PowerModuleCell_M4(FP-ERA2A-MFG)
+Added Component: Designator=R18_PowerModuleCell_M2(FP-ERJ2RK-IPC_C)
+Added Component: Designator=R18_PowerModuleCell_M3(FP-ERJ2RK-IPC_C)
+Added Component: Designator=R18_PowerModuleCell_M4(FP-ERJ2RK-IPC_C)
+Added Component: Designator=R19_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R19_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R19_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=R20_PowerModuleCell_M2(RESC1005X40X25LL05T05)
+Added Component: Designator=R20_PowerModuleCell_M3(RESC1005X40X25LL05T05)
+Added Component: Designator=R20_PowerModuleCell_M4(RESC1005X40X25LL05T05)
+Added Component: Designator=R21_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R21_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R21_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=R22_PowerModuleCell_M2(WSHP28181L000FEB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R22_PowerModuleCell_M3(WSHP28181L000FEB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R22_PowerModuleCell_M4(WSHP28181L000FEB)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/wshp2818r0100fea/vishay?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/30347/wshp2818.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-WSHP2818R0100FEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP2818R0100FEA?qs=WY0B%252Bpw29jNppYK03UGNJA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R23_PowerModuleCell_M2(FP-ERJ2RK-IPC_A)
+Added Component: Designator=R23_PowerModuleCell_M3(FP-ERJ2RK-IPC_A)
+Added Component: Designator=R23_PowerModuleCell_M4(FP-ERJ2RK-IPC_A)
+Added Component: Designator=R24_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R24_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R24_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=R25_PowerModuleCell_M2(RESC1005X40X25LL05T05)
+Added Component: Designator=R25_PowerModuleCell_M3(RESC1005X40X25LL05T05)
+Added Component: Designator=R25_PowerModuleCell_M4(RESC1005X40X25LL05T05)
+Added Component: Designator=R26_PowerModuleCell_M2(RESC1005X40X25LL05T05)
+Added Component: Designator=R26_PowerModuleCell_M3(RESC1005X40X25LL05T05)
+Added Component: Designator=R26_PowerModuleCell_M4(RESC1005X40X25LL05T05)
+Added Component: Designator=R27_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R27_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R27_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=R28_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R28_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R28_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=R29_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R29_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R29_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=R30_PowerModuleCell_M2(RESC1005X40X25LL05T05)
+Added Component: Designator=R30_PowerModuleCell_M3(RESC1005X40X25LL05T05)
+Added Component: Designator=R30_PowerModuleCell_M4(RESC1005X40X25LL05T05)
+Added Component: Designator=R31_PowerModuleCell_M2(FP-ERJ2RK-IPC_A)
+Added Component: Designator=R31_PowerModuleCell_M3(FP-ERJ2RK-IPC_A)
+Added Component: Designator=R31_PowerModuleCell_M4(FP-ERJ2RK-IPC_A)
+Added Component: Designator=R32_PowerModuleCell_M2(RESC1005X40X25NL05T05)
+Added Component: Designator=R32_PowerModuleCell_M3(RESC1005X40X25NL05T05)
+Added Component: Designator=R32_PowerModuleCell_M4(RESC1005X40X25NL05T05)
+Added Component: Designator=U1_PowerModuleCell_M2(ONSC-SOIC-14-751A-03_V)
+Added Component: Designator=U1_PowerModuleCell_M3(ONSC-SOIC-14-751A-03_V)
+Added Component: Designator=U1_PowerModuleCell_M4(ONSC-SOIC-14-751A-03_V)
+Added Component: Designator=U2_PowerModuleCell_M1(FP-YBG0006-MFG)
+Added Component: Designator=U2_PowerModuleCell_M2(FP-YBG0006-MFG)
+Added Component: Designator=U2_PowerModuleCell_M3(FP-YBG0006-MFG)
+Added Component: Designator=U2_PowerModuleCell_M4(FP-YBG0006-MFG)
+Add Pin To Net: Unknown Pin: Pin C16_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin C16_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin C16_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin C16_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin C16_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin C16_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin C17_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin C17_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin C17_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin C17_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin C17_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin C17_PowerModuleCell_M4-2
+Added Pin To Net: NetName=GND_2 Pin=C18_PowerModuleCell_M2-1
+Added Pin To Net: NetName=20V_F Pin=C18_PowerModuleCell_M2-2
+Added Pin To Net: NetName=GND_2 Pin=C18_PowerModuleCell_M3-1
+Added Pin To Net: NetName=20V_F Pin=C18_PowerModuleCell_M3-2
+Added Pin To Net: NetName=GND_2 Pin=C18_PowerModuleCell_M4-1
+Added Pin To Net: NetName=20V_F Pin=C18_PowerModuleCell_M4-2
+Added Pin To Net: NetName=GND_2 Pin=C19_PowerModuleCell_M2-1
+Added Pin To Net: NetName=CurrentSignal_M2 Pin=C19_PowerModuleCell_M2-2
+Added Pin To Net: NetName=GND_2 Pin=C19_PowerModuleCell_M3-1
+Added Pin To Net: NetName=CurrentSignal_M3 Pin=C19_PowerModuleCell_M3-2
+Added Pin To Net: NetName=GND_2 Pin=C19_PowerModuleCell_M4-1
+Added Pin To Net: NetName=CurrentSignal_M4 Pin=C19_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin C20_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin C20_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin C20_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin C20_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin C20_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin C20_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin C21_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin C21_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin C21_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin C21_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin C21_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin C21_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin D10_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin D10_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin D10_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin D10_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin D10_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin D10_PowerModuleCell_M4-2
+Added Pin To Net: NetName=Gate_PowerModuleCell_M2 Pin=J32_PowerModuleCell_M2-1
+Added Pin To Net: NetName=Gate_PowerModuleCell_M3 Pin=J32_PowerModuleCell_M3-1
+Added Pin To Net: NetName=Gate_PowerModuleCell_M4 Pin=J32_PowerModuleCell_M4-1
+Added Pin To Net: NetName=CurrentSignal_M2 Pin=J33_PowerModuleCell_M2-1
+Added Pin To Net: NetName=CurrentSignal_M3 Pin=J33_PowerModuleCell_M3-1
+Added Pin To Net: NetName=CurrentSignal_M4 Pin=J33_PowerModuleCell_M4-1
+Added Pin To Net: NetName=ProcessedParam_M3 Pin=J34_PowerModuleCell_M2-1
+Added Pin To Net: NetName=ProcessedParam_M2 Pin=J34_PowerModuleCell_M3-1
+Added Pin To Net: NetName=ProcessedParam_M4 Pin=J34_PowerModuleCell_M4-1
+Added Pin To Net: NetName=NetJ35_PowerModuleCell_M2_1 Pin=J35_PowerModuleCell_M2-1
+Added Pin To Net: NetName=NetJ35_PowerModuleCell_M3_1 Pin=J35_PowerModuleCell_M3-1
+Added Pin To Net: NetName=NetJ35_PowerModuleCell_M4_1 Pin=J35_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-3
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-4
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-5
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-6
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-7
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-8
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-9
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-10
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-11
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-12
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-13
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-14
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M2-15
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-3
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-4
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-5
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-6
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-7
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-8
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-9
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-10
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-11
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-12
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-13
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-14
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M3-15
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-3
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-4
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-5
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-6
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-7
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-8
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-9
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-10
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-11
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-12
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-13
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-14
+Add Pin To Net: Unknown Pin: Pin Q1_PowerModuleCell_M4-15
+Add Pin To Net: Unknown Pin: Pin R17_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R17_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R17_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R17_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R17_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R17_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R18_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R18_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R18_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R18_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R18_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R18_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R19_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R19_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R19_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R19_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R19_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R19_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R20_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R20_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R20_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R20_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R20_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R20_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R21_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R21_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R21_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R21_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R21_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R21_PowerModuleCell_M4-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M2 Pin=R22_PowerModuleCell_M2-1
+Added Pin To Net: NetName=GND_2 Pin=R22_PowerModuleCell_M2-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M3 Pin=R22_PowerModuleCell_M3-1
+Added Pin To Net: NetName=GND_2 Pin=R22_PowerModuleCell_M3-2
+Added Pin To Net: NetName=Shunt_H_PowerModuleCell_M4 Pin=R22_PowerModuleCell_M4-1
+Added Pin To Net: NetName=GND_2 Pin=R22_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R23_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R23_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R23_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R23_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R23_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R23_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R24_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R24_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R24_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R24_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R24_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R24_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R25_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R25_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R25_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R25_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R25_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R25_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R26_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R26_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R26_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R26_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R26_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R26_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R27_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R27_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R27_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R27_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R27_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R27_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R28_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R28_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R28_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R28_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R28_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R28_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R29_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R29_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R29_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R29_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R29_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R29_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R30_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R30_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R30_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R30_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R30_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R30_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R31_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R31_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R31_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R31_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R31_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R31_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin R32_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin R32_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin R32_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin R32_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin R32_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin R32_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-1
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-2
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-3
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-4
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-5
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-6
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-7
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-8
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-9
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-10
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-11
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-12
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-13
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M2-14
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-1
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-2
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-3
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-4
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-5
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-6
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-7
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-8
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-9
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-10
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-11
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-12
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-13
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M3-14
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-1
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-2
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-3
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-4
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-5
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-6
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-7
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-8
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-9
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-10
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-11
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-12
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-13
+Add Pin To Net: Unknown Pin: Pin U1_PowerModuleCell_M4-14
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M1-A1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M1-A2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M1-B1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M1-B2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M1-C1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M1-C2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M2-A1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M2-A2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M2-B1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M2-B2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M2-C1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M2-C2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M3-A1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M3-A2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M3-B1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M3-B2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M3-C1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M3-C2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M4-A1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M4-A2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M4-B1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M4-B2
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M4-C1
+Add Pin To Net: Unknown Pin: Pin U2_PowerModuleCell_M4-C2
+Add Class Member: Failed to add class member : Component C16_PowerModuleCell_M2 (C16) 100nF, 25v, X5R, 0402
+Add Class Member: Failed to add class member : Component C16_PowerModuleCell_M3 (C16) 100nF, 25v, X5R, 0402
+Add Class Member: Failed to add class member : Component C16_PowerModuleCell_M4 (C16) 100nF, 25v, X5R, 0402
+Add Class Member: Failed to add class member : Component C17_PowerModuleCell_M2 (C17) 100nF, 25v, X5R, 0402
+Add Class Member: Failed to add class member : Component C17_PowerModuleCell_M3 (C17) 100nF, 25v, X5R, 0402
+Add Class Member: Failed to add class member : Component C17_PowerModuleCell_M4 (C17) 100nF, 25v, X5R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component C18_PowerModuleCell_M2 (C18) 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C18_PowerModuleCell_M3 (C18) 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C18_PowerModuleCell_M4 (C18) 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component C19_PowerModuleCell_M2 (C19) 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component C19_PowerModuleCell_M3 (C19) 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component C19_PowerModuleCell_M4 (C19) 100nF, 50v, X7R, 0402
+Added Member To Class: ClassName=PowerModuleCell_M1 Member=Component C20_PowerModuleCell_M1 (C20) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component C20_PowerModuleCell_M2 (C20) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component C20_PowerModuleCell_M3 (C20) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component C20_PowerModuleCell_M4 (C20) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component C21_PowerModuleCell_M2 (C21) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component C21_PowerModuleCell_M3 (C21) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component C21_PowerModuleCell_M4 (C21) 470nF, 50v, X7R, 0603
+Add Class Member: Failed to add class member : Component D10_PowerModuleCell_M2 (D10) 150060RS75000
+Add Class Member: Failed to add class member : Component D10_PowerModuleCell_M3 (D10) 150060RS75000
+Add Class Member: Failed to add class member : Component D10_PowerModuleCell_M4 (D10) 150060RS75000
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J32_PowerModuleCell_M2 (J32) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J32_PowerModuleCell_M3 (J32) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J32_PowerModuleCell_M4 (J32) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J33_PowerModuleCell_M2 (J33) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J33_PowerModuleCell_M3 (J33) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J33_PowerModuleCell_M4 (J33) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J34_PowerModuleCell_M2 (J34) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J34_PowerModuleCell_M3 (J34) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J34_PowerModuleCell_M4 (J34) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component J35_PowerModuleCell_M2 (J35) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component J35_PowerModuleCell_M3 (J35) TestPad
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component J35_PowerModuleCell_M4 (J35) TestPad
+Add Class Member: Failed to add class member : Component Q1_PowerModuleCell_M2 (Q1) IRF7779L2TRPBF
+Add Class Member: Failed to add class member : Component Q1_PowerModuleCell_M3 (Q1) IRF7779L2TRPBF
+Add Class Member: Failed to add class member : Component Q1_PowerModuleCell_M4 (Q1) IRF7779L2TRPBF
+Add Class Member: Failed to add class member : Component R17_PowerModuleCell_M2 (R17) 10K 1%, 0402
+Add Class Member: Failed to add class member : Component R17_PowerModuleCell_M3 (R17) 10K 1%, 0402
+Add Class Member: Failed to add class member : Component R17_PowerModuleCell_M4 (R17) 10K 1%, 0402
+Add Class Member: Failed to add class member : Component R18_PowerModuleCell_M2 (R18) 47 1%, 0402
+Add Class Member: Failed to add class member : Component R18_PowerModuleCell_M3 (R18) 47 1%, 0402
+Add Class Member: Failed to add class member : Component R18_PowerModuleCell_M4 (R18) 47 1%, 0402
+Add Class Member: Failed to add class member : Component R19_PowerModuleCell_M2 (R19) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R19_PowerModuleCell_M3 (R19) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R19_PowerModuleCell_M4 (R19) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R20_PowerModuleCell_M2 (R20) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component R20_PowerModuleCell_M3 (R20) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component R20_PowerModuleCell_M4 (R20) 4K7 1%, 0402
+Add Class Member: Failed to add class member : Component R21_PowerModuleCell_M2 (R21) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R21_PowerModuleCell_M3 (R21) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R21_PowerModuleCell_M4 (R21) 1K 1%, 0402
+Added Member To Class: ClassName=PowerModuleCell_M2 Member=Component R22_PowerModuleCell_M2 (R22) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M3 Member=Component R22_PowerModuleCell_M3 (R22) 10m 1%, 2818
+Added Member To Class: ClassName=PowerModuleCell_M4 Member=Component R22_PowerModuleCell_M4 (R22) 10m 1%, 2818
+Add Class Member: Failed to add class member : Component R23_PowerModuleCell_M2 (R23) 300 1%, 0402
+Add Class Member: Failed to add class member : Component R23_PowerModuleCell_M3 (R23) 300 1%, 0402
+Add Class Member: Failed to add class member : Component R23_PowerModuleCell_M4 (R23) 300 1%, 0402
+Add Class Member: Failed to add class member : Component R24_PowerModuleCell_M2 (R24) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R24_PowerModuleCell_M3 (R24) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R24_PowerModuleCell_M4 (R24) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R25_PowerModuleCell_M2 (R25) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R25_PowerModuleCell_M3 (R25) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R25_PowerModuleCell_M4 (R25) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R26_PowerModuleCell_M2 (R26) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R26_PowerModuleCell_M3 (R26) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R26_PowerModuleCell_M4 (R26) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R27_PowerModuleCell_M2 (R27) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R27_PowerModuleCell_M3 (R27) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R27_PowerModuleCell_M4 (R27) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R28_PowerModuleCell_M2 (R28) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R28_PowerModuleCell_M3 (R28) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R28_PowerModuleCell_M4 (R28) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R29_PowerModuleCell_M2 (R29) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R29_PowerModuleCell_M3 (R29) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R29_PowerModuleCell_M4 (R29) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R30_PowerModuleCell_M2 (R30) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R30_PowerModuleCell_M3 (R30) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R30_PowerModuleCell_M4 (R30) 100 1%, 0402
+Add Class Member: Failed to add class member : Component R31_PowerModuleCell_M2 (R31) 300 1%, 0402
+Add Class Member: Failed to add class member : Component R31_PowerModuleCell_M3 (R31) 300 1%, 0402
+Add Class Member: Failed to add class member : Component R31_PowerModuleCell_M4 (R31) 300 1%, 0402
+Add Class Member: Failed to add class member : Component R32_PowerModuleCell_M2 (R32) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R32_PowerModuleCell_M3 (R32) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component R32_PowerModuleCell_M4 (R32) 1K 1%, 0402
+Add Class Member: Failed to add class member : Component U1_PowerModuleCell_M2 (U1A) LM324DR2G
+Add Class Member: Failed to add class member : Component U1_PowerModuleCell_M3 (U1A) LM324DR2G
+Add Class Member: Failed to add class member : Component U1_PowerModuleCell_M4 (U1A) LM324DR2G
+Add Class Member: Failed to add class member : Component U2_PowerModuleCell_M1 (U2) TMP117MAIYBGR
+Add Class Member: Failed to add class member : Component U2_PowerModuleCell_M2 (U2) TMP117MAIYBGR
+Add Class Member: Failed to add class member : Component U2_PowerModuleCell_M3 (U2) TMP117MAIYBGR
+Add Class Member: Failed to add class member : Component U2_PowerModuleCell_M4 (U2) TMP117MAIYBGR
+Added Room: Name=20V_Isolator
+Added Room: Name=FanDriver
+Added Room: Name=LDO_3V3
+Added Room: Name=PowerModule
+Added Room: Name=PowerModuleCell_M1
+Added Room: Name=PowerModuleCell_M2
+Added Room: Name=PowerModuleCell_M3
+Added Room: Name=PowerModuleCell_M4
+Added Room: Name=Vref-2v5
