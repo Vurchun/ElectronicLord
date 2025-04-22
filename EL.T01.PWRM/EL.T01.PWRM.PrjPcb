@@ -168,23 +168,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MJTKPTSS
 
 [Document8]
-DocumentPath=OpAmp_K-5.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OWVFCUFX
-
-[Document9]
 DocumentPath=PowerModule.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDQGLBEQ
 
-[Document10]
+[Document9]
 DocumentPath=Reference_2V5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEDJDYDW
 
-[Document11]
+[Document10]
 DocumentPath=FanControl.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
