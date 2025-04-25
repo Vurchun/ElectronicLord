@@ -218,6 +218,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWMIWKUG
 
+[Document11]
+DocumentPath=..\EL.T01.MSHM\CellVoltageControl2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDEJMBBT
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EL.T01.CVCM\Design Rule Check - CellVoltageControl.html
 DItemRevisionGUID=
