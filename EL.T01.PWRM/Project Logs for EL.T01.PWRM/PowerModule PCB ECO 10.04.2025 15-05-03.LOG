@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=Vcc Pin=U3_PowerModuleCell_M1-B1
-Removed Pin From Net: NetName=Vcc Pin=U3_PowerModuleCell_M2-B1
-Removed Pin From Net: NetName=Vcc Pin=U3_PowerModuleCell_M3-B1
-Removed Pin From Net: NetName=Vcc Pin=U3_PowerModuleCell_M4-B1
-Added Pin To Net: NetName=Vcc_2 Pin=U3_PowerModuleCell_M1-B1
-Added Pin To Net: NetName=Vcc_2 Pin=U3_PowerModuleCell_M2-B1
-Added Pin To Net: NetName=Vcc_2 Pin=U3_PowerModuleCell_M3-B1
-Added Pin To Net: NetName=Vcc_2 Pin=U3_PowerModuleCell_M4-B1

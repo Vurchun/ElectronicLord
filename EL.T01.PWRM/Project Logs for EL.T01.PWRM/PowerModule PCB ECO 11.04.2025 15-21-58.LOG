@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=USB_DP Pin=J5-1
-Removed Pin From Net: NetName=Vcc Pin=J5-2
-Removed Pin From Net: NetName=USB_DM Pin=J5-3
-Removed Pin From Net: NetName=GND_2 Pin=J5-4
-Added Pin To Net: NetName=GND_2 Pin=J5-1
-Added Pin To Net: NetName=USB_DM Pin=J5-2
-Added Pin To Net: NetName=Vcc Pin=J5-3
-Added Pin To Net: NetName=USB_DP Pin=J5-4
