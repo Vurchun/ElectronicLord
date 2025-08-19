@@ -86,6 +86,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.MBRD.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document3]
 DocumentPath=EL.CVCM.T01\EL.CVCM.T01.PrjPcb
@@ -107,6 +109,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.CVCM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document4]
 DocumentPath=EL.MSHM.T01\EL.MSHM.T01.PrjPcb
@@ -128,9 +132,11 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.MSHM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document5]
-DocumentPath=EL.MSHM.T02\EL.MSHM.T02.PrjPcb
+DocumentPath=EL.MSHM.T02\EL.DFLT.T01.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,6 +155,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.MSHM.T02.PrjPcb
+VaultURL=
+VaultName=
 
 [Document6]
 DocumentPath=EL.MSHM.T04\EL.MSHM.T04.PrjPcb
@@ -170,6 +178,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.MSHM.T04.PrjPcb
+VaultURL=
+VaultName=
 
 [Document7]
 DocumentPath=EL.PDU.T01\EL.PDU.T01.PrjPcb
@@ -191,6 +201,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.PDU.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document8]
 DocumentPath=EL.PWRM.T01\EL.PWRM.T01.PrjPcb
@@ -212,6 +224,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.PWRM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document9]
 DocumentPath=EL.UIM.T01\EL.UIM.T01.PrjPcb
@@ -233,6 +247,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.UIM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document10]
 DocumentPath=EL.UPS.T01\EL.UPS.T01.PrjPcb
@@ -254,6 +270,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.UPS.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document11]
 DocumentPath=EL.XXX.T01.MbsDoc
@@ -271,6 +289,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=24202eac-7f14-4bb6-9925-95bbbb05070d
+
+[Document12]
+DocumentPath=EL.DFLT.T01\EL.DFLT.T01.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+VaultGUID=
+ManagedProjectGUID=
+RevisionGUID=
+ProjectName=EL.DFLT.T01.PrjPcb
 
 [OutputGroup1]
 Name=Netlist Outputs
