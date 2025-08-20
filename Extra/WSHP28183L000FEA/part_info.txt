@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=WSHP28183L000FEA
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2021-10-18 11:55:58
+Downloaded=2025-08-20 13:21:23
+3D=Y

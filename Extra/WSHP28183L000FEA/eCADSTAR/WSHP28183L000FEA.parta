@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_996045"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-10-18-11:55:58)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "WSHP28183L000FEA")
+)
+
+
+(pinAssign "ECS_996045"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-10-18-11:55:58)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_996045")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "WSHP28183L000FEA")
+)
+
+
+(part "WSHP28183L000FEA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-10-18-11:55:58)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "WSHP28183L000FEA")
+    (pinAssignRef "ECS_996045")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Current Sense Resistors - SMD 10W .003ohms 1%")
+    (property "Mouser_Part_Number" "71-WSHP28183L000FEA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP28183L000FEA?qs=u4fy%2FsgLU9PGDWS9IKHQYw%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "WSHP28183L000FEA")
+    (property "Datasheet_Link" "https://www.vishay.com/doc?30347")
+    (property "compAreaTopHeight" 1.75)
+)
+
+

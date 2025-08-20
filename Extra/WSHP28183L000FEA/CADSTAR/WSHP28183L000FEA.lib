@@ -1,0 +1,16 @@
+.WSHP28183L000FEA :1 ;Current Sense Resistors - SMD 10W .003ohms 1%
+WSHP28183L000FEA
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN WSHP28183L000FEA
+~!Mouser Part Number (71-WSHP28183L000FEA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP28183L000FEA?qs=u4fy%2FsgLU9PGDWS9IKHQYw%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (WSHP28183L000FEA)
+~!Link Datasheet (https://www.vishay.com/doc?30347)
+~!Height (1.75mm)
+~!3D_Model (WSHP28183L000FEA)
+WSHP28183L000FEA
+1.1!U 2.1!U 

@@ -1,0 +1,94 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "WSHP28183L000FEA"
+   (description "Current Sense Resistors - SMD 10W .003ohms 1%")
+   (family "RES")
+   (package "WSHP28183L000FEA")
+   (attribute "Datasheet Link" "https://www.vishay.com/doc?30347")
+   (attribute "Geometry.Height" "1.75mm")
+   (attribute "Mouser Part Number" "71-WSHP28183L000FEA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/WSHP28183L000FEA?qs=u4fy%2FsgLU9PGDWS9IKHQYw%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "WSHP28183L000FEA")
+   (gate
+    (symbol "WSHP28183L000FEA")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "WSHP28183L000FEA"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "WSHP28183L000FEA"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.55 2.3)
+      (pt 3.55 2.3)
+      (pt 3.55 -2.3)
+      (pt -3.55 -2.3)
+      (pt -3.55 2.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.805 3.55)
+      (pt 4.805 3.55)
+      (pt 4.805 -3.55)
+      (pt -4.805 -3.55)
+      (pt -4.805 3.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.4 0)
+      (arc (pt -4.400 0.000) (pt -4.400 -0.050) (pt -4.300 0.050) (start 180.0) (sweep 180.0))
+      (pt -4.3 0)
+      (arc (pt -4.300 0.000) (pt -4.400 -0.050) (pt -4.300 0.050) (start 180.0) (sweep .0))
+      (pt -4.4 0))))
+   (leg 1 (pt -2.055 0.000) (padstack 0))
+   (leg 2 (pt 2.055 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 3.500 5.100 0 0 90.000))
+   )
+   (model "WSHP28183L000FEA.stp"
+    (euler 0 0 0)
+    (offset 0 -2.299999952316284 0.15000000596046448)
+   )
+  )
+ )
+)

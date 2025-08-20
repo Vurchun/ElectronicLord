@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ACS772ECB_250B_PFF_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Allegro Microsystems", "ACS772ECB-250B-PFF-T" (!) = "", "ACS772ECB200BPFFT", "Other", "250-CS772ECB250BPFFT", "https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/ACS772ECB-250B-PFF-T?qs=vvQtp7zwQdP8xltXzDATeA%3D%3D", "200kHz, 1.5% Max Tolerance, 100  Internal Resistance Module-alternative Current Sensor for High Current and High Voltage Applications", "https://www.allegromicro.com/en/products/sense/current-sensor-ics/fifty-to-two-hundred-amp-integrated-conductor-sensor-ics/acs772", "7.1 mm"
+END_PART
+
+END.

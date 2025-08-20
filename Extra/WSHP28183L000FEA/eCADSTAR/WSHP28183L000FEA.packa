@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "WSHP28183L000FEA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-10-18-11:55:58)
+    (mountForm default
+        (footprintRef "WSHP28183L000FEA")
+        (spec "System")
+    )
+)

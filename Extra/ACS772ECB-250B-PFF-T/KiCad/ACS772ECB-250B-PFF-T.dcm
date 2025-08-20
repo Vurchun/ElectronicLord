@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS772ECB-250B-PFF-T
+D 200kHz, 1.5% Max Tolerance, 100  Internal Resistance Module-alternative Current Sensor for High Current and High Voltage Applications
+K
+F https://www.allegromicro.com/en/products/sense/current-sensor-ics/fifty-to-two-hundred-amp-integrated-conductor-sensor-ics/acs772
+$ENDCMP
+#
+#End Doc Library
