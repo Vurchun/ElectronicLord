@@ -33,9 +33,18 @@ Supported modes: constant power, resistance, voltage, and current.
 
 /------------------------------------------------------------------------------------------------------------------------------
 
+EL.T01.DFLT 	- defailt module
 EL.T01.MBRD 	- main board module
-EL.T01.PWRM 	- load module
+EL.T01.PLAM 	- power load adjustable module
+EL.T01.PLSM 	- power load stable module
+EL.T01.MSCH 	- shunt module
+EL.T01.KVMM 	- kelvin voltage measure module
+EL.T01.CVCM 	- cell voltage control module
+EL.T01.WLRT 	- wireless receiver transmitter
 EL.T01.UIM 		- User interfacer module
+EL.T01.UPSM 	- uninterruptible power supply module
+
+EL.T01.MSCH 	- Montage scheme
 
 /------------------------------------------------------------------------------------------------------------------------------
 Feature

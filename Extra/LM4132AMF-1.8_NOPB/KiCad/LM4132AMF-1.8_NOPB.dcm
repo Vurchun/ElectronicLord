@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM4132AMF-1.8_NOPB
+D 0.05% 20ppm/C Drift Precision Series Voltage Reference with Shutdown Enable
+K
+F http://www.ti.com/lit/ds/symlink/lm4132.pdf
+$ENDCMP
+#
+#End Doc Library

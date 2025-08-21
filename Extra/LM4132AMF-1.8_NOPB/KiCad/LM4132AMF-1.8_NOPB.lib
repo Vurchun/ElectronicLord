@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LM4132AMF-1.8_NOPB
+#/156000/1627512/2.50/5/3/Integrated Circuit
+DEF LM4132AMF-1.8_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "LM4132AMF-1.8_NOPB" 950 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/lm4132.pdf" 950 0 50 H I L CNN
+F4 "0.05% 20ppm/C Drift Precision Series Voltage Reference with Shutdown Enable" 950 -100 50 H I L CNN "Description"
+F5 "1.45" 950 -200 50 H I L CNN "Height"
+F6 "926-LM4132AMF18NOPB" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM4132AMF-18-NOPB?qs=QbsRYf82W3HnSfMLOwla5A%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM4132AMF-1.8/NOPB" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X N/C 1 0 0 200 R 50 50 0 0 N
+X GND 2 0 -100 200 R 50 50 0 0 P
+X EN 3 0 -200 200 R 50 50 0 0 P
+X VIN 4 1100 0 200 L 50 50 0 0 P
+X VREF 5 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

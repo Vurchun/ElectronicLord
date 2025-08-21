@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PXBEHTIP
 
 [Document3]
-DocumentPath=DC-DC_5V0_To_3V3.SchDoc
+DocumentPath=..\Extra\Templates\DC-DC_5V0_To_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=THDQMQEP
 
 [Document4]
-DocumentPath=DC-DC_24V_To_5V0.SchDoc
+DocumentPath=..\Extra\Templates\DC-DC_24V_To_5V0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PHKDJGSL
 
 [Document5]
-DocumentPath=ISO_I2C_ISO1540DR.SchDoc
+DocumentPath=..\Extra\Templates\ISO_I2C_ISO1540DR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GAAFMWOB
 
 [Document6]
-DocumentPath=ISO_PWR_UCC12040DVER.SchDoc
+DocumentPath=..\Extra\Templates\ISO_PWR_UCC12040DVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FCNUKIKB
 
 [Document7]
-DocumentPath=MCU_STM32L010K4T6.SchDoc
+DocumentPath=..\Extra\Templates\MCU_STM32L010K4T6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VDONLJDM
 
 [Document8]
-DocumentPath=Opto_AQY280SX.SchDoc
+DocumentPath=..\Extra\Templates\Opto_AQY280SX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XDAFTIYO
 
 [Document9]
-DocumentPath=Ref_2V5_LM4132AMF.SchDoc
+DocumentPath=..\Extra\Templates\Ref_2V5_LM4132AMF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XEDJDYDW
 
 [Document10]
-DocumentPath=RS-485_SN65HVD72DRBR.SchDoc
+DocumentPath=..\Extra\Templates\RS-485_SN65HVD72DRBR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SLGWNOKD
 
 [Document11]
-DocumentPath=Single-ADC_ADS1252U.SchDoc
+DocumentPath=..\Extra\Templates\Single-ADC_ADS1252U.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,12 +236,55 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKRWCASH
 
+[Document12]
+DocumentPath=..\Extra\Templates\Ref_4V096_LM4132AMF.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=10
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NIBIVSPT
+
 [ProjectVariant1]
 UniqueId=f01995cb-70a5-4d48-99f4-d3aecd0eb5ca
 Description=Shunt_10A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=26
+Variation1=Designator=B1|UniqueId=\QPYYDRHZ|Kind=1|AlternatePart=
+Variation2=Designator=B4|UniqueId=\IUFXKOHE|Kind=1|AlternatePart=
+Variation3=Designator=B2|UniqueId=\WCKOMECY|Kind=1|AlternatePart=
+Variation4=Designator=B3|UniqueId=\YSNQQGKP|Kind=1|AlternatePart=
+Variation5=Designator=R10|UniqueId=\EFGLRGZS|Kind=1|AlternatePart=
+Variation6=Designator=R11|UniqueId=\NEDHUDRW|Kind=1|AlternatePart=
+Variation7=Designator=R12|UniqueId=\UOSYPOKV|Kind=1|AlternatePart=
+Variation8=Designator=R13|UniqueId=\FXPCZSOY|Kind=1|AlternatePart=
+Variation9=Designator=C3|UniqueId=\QVKGBZTS|Kind=1|AlternatePart=
+Variation10=Designator=C5|UniqueId=\LTRVJCEH|Kind=1|AlternatePart=
+Variation11=Designator=C6|UniqueId=\SCZHAHGG|Kind=1|AlternatePart=
+Variation12=Designator=C4|UniqueId=\WLBJAHDO|Kind=1|AlternatePart=
+Variation13=Designator=MP6|UniqueId=\IUJJNQYM|Kind=1|AlternatePart=
+Variation14=Designator=MP5|UniqueId=\LKJCLLMY|Kind=1|AlternatePart=
+Variation15=Designator=MP3|UniqueId=\URTXRGVH|Kind=1|AlternatePart=
+Variation16=Designator=MP4|UniqueId=\SBRORKSY|Kind=1|AlternatePart=
+Variation17=Designator=C42|UniqueId=\QJVPDIVD\GPAETQNS|Kind=1|AlternatePart=
+Variation18=Designator=C43|UniqueId=\QJVPDIVD\SLDNSWZU|Kind=1|AlternatePart=
+Variation19=Designator=C44|UniqueId=\QJVPDIVD\QXXGQLCC|Kind=1|AlternatePart=
+Variation20=Designator=C45|UniqueId=\QJVPDIVD\YVNLKASA|Kind=1|AlternatePart=
+Variation21=Designator=C46|UniqueId=\QJVPDIVD\PGJPGDTR|Kind=1|AlternatePart=
+Variation22=Designator=TP65|UniqueId=\QJVPDIVD\VBHPACWE|Kind=1|AlternatePart=
+Variation23=Designator=TP67|UniqueId=\QJVPDIVD\BPRKOKIV|Kind=1|AlternatePart=
+Variation24=Designator=TP66|UniqueId=\QJVPDIVD\BSQISSRJ|Kind=1|AlternatePart=
+Variation25=Designator=U6|UniqueId=\QJVPDIVD\QHLDIOCY|Kind=1|AlternatePart=
+Variation26=Designator=U7|UniqueId=\QJVPDIVD\XYLDRQJL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -249,7 +292,33 @@ UniqueId=68491d08-c103-4046-8b93-4a36516bedf4
 Description=Shunt_50A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=26
+Variation1=Designator=B1|UniqueId=\QPYYDRHZ|Kind=1|AlternatePart=
+Variation2=Designator=B4|UniqueId=\IUFXKOHE|Kind=1|AlternatePart=
+Variation3=Designator=B2|UniqueId=\WCKOMECY|Kind=1|AlternatePart=
+Variation4=Designator=B3|UniqueId=\YSNQQGKP|Kind=1|AlternatePart=
+Variation5=Designator=R10|UniqueId=\EFGLRGZS|Kind=1|AlternatePart=
+Variation6=Designator=R11|UniqueId=\NEDHUDRW|Kind=1|AlternatePart=
+Variation7=Designator=R12|UniqueId=\UOSYPOKV|Kind=1|AlternatePart=
+Variation8=Designator=R13|UniqueId=\FXPCZSOY|Kind=1|AlternatePart=
+Variation9=Designator=C3|UniqueId=\QVKGBZTS|Kind=1|AlternatePart=
+Variation10=Designator=C5|UniqueId=\LTRVJCEH|Kind=1|AlternatePart=
+Variation11=Designator=C6|UniqueId=\SCZHAHGG|Kind=1|AlternatePart=
+Variation12=Designator=C4|UniqueId=\WLBJAHDO|Kind=1|AlternatePart=
+Variation13=Designator=MP6|UniqueId=\IUJJNQYM|Kind=1|AlternatePart=
+Variation14=Designator=MP5|UniqueId=\LKJCLLMY|Kind=1|AlternatePart=
+Variation15=Designator=MP3|UniqueId=\URTXRGVH|Kind=1|AlternatePart=
+Variation16=Designator=MP4|UniqueId=\SBRORKSY|Kind=1|AlternatePart=
+Variation17=Designator=C42|UniqueId=\QJVPDIVD\GPAETQNS|Kind=1|AlternatePart=
+Variation18=Designator=C43|UniqueId=\QJVPDIVD\SLDNSWZU|Kind=1|AlternatePart=
+Variation19=Designator=C44|UniqueId=\QJVPDIVD\QXXGQLCC|Kind=1|AlternatePart=
+Variation20=Designator=C45|UniqueId=\QJVPDIVD\YVNLKASA|Kind=1|AlternatePart=
+Variation21=Designator=C46|UniqueId=\QJVPDIVD\PGJPGDTR|Kind=1|AlternatePart=
+Variation22=Designator=TP65|UniqueId=\QJVPDIVD\VBHPACWE|Kind=1|AlternatePart=
+Variation23=Designator=TP67|UniqueId=\QJVPDIVD\BPRKOKIV|Kind=1|AlternatePart=
+Variation24=Designator=TP66|UniqueId=\QJVPDIVD\BSQISSRJ|Kind=1|AlternatePart=
+Variation25=Designator=U6|UniqueId=\QJVPDIVD\QHLDIOCY|Kind=1|AlternatePart=
+Variation26=Designator=U7|UniqueId=\QJVPDIVD\XYLDRQJL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -257,7 +326,33 @@ UniqueId=64a40335-9f4c-4d52-b278-555c32ff4b4e
 Description=Shunt_100A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=26
+Variation1=Designator=B1|UniqueId=\QPYYDRHZ|Kind=1|AlternatePart=
+Variation2=Designator=B4|UniqueId=\IUFXKOHE|Kind=1|AlternatePart=
+Variation3=Designator=B2|UniqueId=\WCKOMECY|Kind=1|AlternatePart=
+Variation4=Designator=B3|UniqueId=\YSNQQGKP|Kind=1|AlternatePart=
+Variation5=Designator=R10|UniqueId=\EFGLRGZS|Kind=1|AlternatePart=
+Variation6=Designator=R11|UniqueId=\NEDHUDRW|Kind=1|AlternatePart=
+Variation7=Designator=R12|UniqueId=\UOSYPOKV|Kind=1|AlternatePart=
+Variation8=Designator=R13|UniqueId=\FXPCZSOY|Kind=1|AlternatePart=
+Variation9=Designator=C3|UniqueId=\QVKGBZTS|Kind=1|AlternatePart=
+Variation10=Designator=C5|UniqueId=\LTRVJCEH|Kind=1|AlternatePart=
+Variation11=Designator=C6|UniqueId=\SCZHAHGG|Kind=1|AlternatePart=
+Variation12=Designator=C4|UniqueId=\WLBJAHDO|Kind=1|AlternatePart=
+Variation13=Designator=MP6|UniqueId=\IUJJNQYM|Kind=1|AlternatePart=
+Variation14=Designator=MP5|UniqueId=\LKJCLLMY|Kind=1|AlternatePart=
+Variation15=Designator=MP3|UniqueId=\URTXRGVH|Kind=1|AlternatePart=
+Variation16=Designator=MP4|UniqueId=\SBRORKSY|Kind=1|AlternatePart=
+Variation17=Designator=C42|UniqueId=\QJVPDIVD\GPAETQNS|Kind=1|AlternatePart=
+Variation18=Designator=C43|UniqueId=\QJVPDIVD\SLDNSWZU|Kind=1|AlternatePart=
+Variation19=Designator=C44|UniqueId=\QJVPDIVD\QXXGQLCC|Kind=1|AlternatePart=
+Variation20=Designator=C45|UniqueId=\QJVPDIVD\YVNLKASA|Kind=1|AlternatePart=
+Variation21=Designator=C46|UniqueId=\QJVPDIVD\PGJPGDTR|Kind=1|AlternatePart=
+Variation22=Designator=TP65|UniqueId=\QJVPDIVD\VBHPACWE|Kind=1|AlternatePart=
+Variation23=Designator=TP67|UniqueId=\QJVPDIVD\BPRKOKIV|Kind=1|AlternatePart=
+Variation24=Designator=TP66|UniqueId=\QJVPDIVD\BSQISSRJ|Kind=1|AlternatePart=
+Variation25=Designator=U6|UniqueId=\QJVPDIVD\QHLDIOCY|Kind=1|AlternatePart=
+Variation26=Designator=U7|UniqueId=\QJVPDIVD\XYLDRQJL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant4]
@@ -265,7 +360,35 @@ UniqueId=662bc617-cb23-45d6-8207-509a6e28e74d
 Description=Hall_50A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=28
+Variation1=Designator=B4|UniqueId=\IUFXKOHE|Kind=1|AlternatePart=
+Variation2=Designator=B2|UniqueId=\WCKOMECY|Kind=1|AlternatePart=
+Variation3=Designator=B3|UniqueId=\YSNQQGKP|Kind=1|AlternatePart=
+Variation4=Designator=R4|UniqueId=\RDNQHZWP|Kind=1|AlternatePart=
+Variation5=Designator=R5|UniqueId=\BPUMSZJO|Kind=1|AlternatePart=
+Variation6=Designator=R6|UniqueId=\WNIYCYFK|Kind=1|AlternatePart=
+Variation7=Designator=R8|UniqueId=\WPTVWPWO|Kind=1|AlternatePart=
+Variation8=Designator=R7|UniqueId=\FYYDGQUN|Kind=1|AlternatePart=
+Variation9=Designator=R11|UniqueId=\NEDHUDRW|Kind=1|AlternatePart=
+Variation10=Designator=R12|UniqueId=\UOSYPOKV|Kind=1|AlternatePart=
+Variation11=Designator=R13|UniqueId=\FXPCZSOY|Kind=1|AlternatePart=
+Variation12=Designator=C5|UniqueId=\LTRVJCEH|Kind=1|AlternatePart=
+Variation13=Designator=C6|UniqueId=\SCZHAHGG|Kind=1|AlternatePart=
+Variation14=Designator=C4|UniqueId=\WLBJAHDO|Kind=1|AlternatePart=
+Variation15=Designator=MP6|UniqueId=\IUJJNQYM|Kind=1|AlternatePart=
+Variation16=Designator=MP5|UniqueId=\LKJCLLMY|Kind=1|AlternatePart=
+Variation17=Designator=MP3|UniqueId=\URTXRGVH|Kind=1|AlternatePart=
+Variation18=Designator=MP4|UniqueId=\SBRORKSY|Kind=1|AlternatePart=
+Variation19=Designator=C35|UniqueId=\MYCSTQYC\XRXFVPDI|Kind=1|AlternatePart=
+Variation20=Designator=C33|UniqueId=\MYCSTQYC\RATHNGAZ|Kind=1|AlternatePart=
+Variation21=Designator=C36|UniqueId=\MYCSTQYC\LJGFZKNG|Kind=1|AlternatePart=
+Variation22=Designator=C34|UniqueId=\MYCSTQYC\IFVJPNWW|Kind=1|AlternatePart=
+Variation23=Designator=C37|UniqueId=\MYCSTQYC\AOVTEKQH|Kind=1|AlternatePart=
+Variation24=Designator=TP62|UniqueId=\MYCSTQYC\EELFNVML|Kind=1|AlternatePart=
+Variation25=Designator=TP64|UniqueId=\MYCSTQYC\ZWOCGPUG|Kind=1|AlternatePart=
+Variation26=Designator=TP63|UniqueId=\MYCSTQYC\BIBRQZEM|Kind=1|AlternatePart=
+Variation27=Designator=U4|UniqueId=\MYCSTQYC\XZUCLEGM|Kind=1|AlternatePart=
+Variation28=Designator=U3|UniqueId=\MYCSTQYC\EFAMCWBL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant5]
@@ -273,7 +396,35 @@ UniqueId=da1ad989-040a-4bab-89a8-ebddafccc72c
 Description=Hall_100A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=28
+Variation1=Designator=B1|UniqueId=\QPYYDRHZ|Kind=1|AlternatePart=
+Variation2=Designator=B4|UniqueId=\IUFXKOHE|Kind=1|AlternatePart=
+Variation3=Designator=B3|UniqueId=\YSNQQGKP|Kind=1|AlternatePart=
+Variation4=Designator=R4|UniqueId=\RDNQHZWP|Kind=1|AlternatePart=
+Variation5=Designator=R5|UniqueId=\BPUMSZJO|Kind=1|AlternatePart=
+Variation6=Designator=R6|UniqueId=\WNIYCYFK|Kind=1|AlternatePart=
+Variation7=Designator=R8|UniqueId=\WPTVWPWO|Kind=1|AlternatePart=
+Variation8=Designator=R7|UniqueId=\FYYDGQUN|Kind=1|AlternatePart=
+Variation9=Designator=R10|UniqueId=\EFGLRGZS|Kind=1|AlternatePart=
+Variation10=Designator=R12|UniqueId=\UOSYPOKV|Kind=1|AlternatePart=
+Variation11=Designator=R13|UniqueId=\FXPCZSOY|Kind=1|AlternatePart=
+Variation12=Designator=C3|UniqueId=\QVKGBZTS|Kind=1|AlternatePart=
+Variation13=Designator=C5|UniqueId=\LTRVJCEH|Kind=1|AlternatePart=
+Variation14=Designator=C6|UniqueId=\SCZHAHGG|Kind=1|AlternatePart=
+Variation15=Designator=MP6|UniqueId=\IUJJNQYM|Kind=1|AlternatePart=
+Variation16=Designator=MP5|UniqueId=\LKJCLLMY|Kind=1|AlternatePart=
+Variation17=Designator=MP3|UniqueId=\URTXRGVH|Kind=1|AlternatePart=
+Variation18=Designator=MP4|UniqueId=\SBRORKSY|Kind=1|AlternatePart=
+Variation19=Designator=C35|UniqueId=\MYCSTQYC\XRXFVPDI|Kind=1|AlternatePart=
+Variation20=Designator=C33|UniqueId=\MYCSTQYC\RATHNGAZ|Kind=1|AlternatePart=
+Variation21=Designator=C36|UniqueId=\MYCSTQYC\LJGFZKNG|Kind=1|AlternatePart=
+Variation22=Designator=C34|UniqueId=\MYCSTQYC\IFVJPNWW|Kind=1|AlternatePart=
+Variation23=Designator=C37|UniqueId=\MYCSTQYC\AOVTEKQH|Kind=1|AlternatePart=
+Variation24=Designator=TP62|UniqueId=\MYCSTQYC\EELFNVML|Kind=1|AlternatePart=
+Variation25=Designator=TP64|UniqueId=\MYCSTQYC\ZWOCGPUG|Kind=1|AlternatePart=
+Variation26=Designator=TP63|UniqueId=\MYCSTQYC\BIBRQZEM|Kind=1|AlternatePart=
+Variation27=Designator=U4|UniqueId=\MYCSTQYC\XZUCLEGM|Kind=1|AlternatePart=
+Variation28=Designator=U3|UniqueId=\MYCSTQYC\EFAMCWBL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant6]
@@ -281,7 +432,65 @@ UniqueId=b4c5af71-8489-4ede-ad2c-f53e414eed25
 Description=Hall_200A
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=26
+Variation1=Designator=B1|UniqueId=\QPYYDRHZ|Kind=1|AlternatePart=
+Variation2=Designator=B4|UniqueId=\IUFXKOHE|Kind=1|AlternatePart=
+Variation3=Designator=B2|UniqueId=\WCKOMECY|Kind=1|AlternatePart=
+Variation4=Designator=R4|UniqueId=\RDNQHZWP|Kind=1|AlternatePart=
+Variation5=Designator=R5|UniqueId=\BPUMSZJO|Kind=1|AlternatePart=
+Variation6=Designator=R6|UniqueId=\WNIYCYFK|Kind=1|AlternatePart=
+Variation7=Designator=R8|UniqueId=\WPTVWPWO|Kind=1|AlternatePart=
+Variation8=Designator=R7|UniqueId=\FYYDGQUN|Kind=1|AlternatePart=
+Variation9=Designator=R10|UniqueId=\EFGLRGZS|Kind=1|AlternatePart=
+Variation10=Designator=R11|UniqueId=\NEDHUDRW|Kind=1|AlternatePart=
+Variation11=Designator=R13|UniqueId=\FXPCZSOY|Kind=1|AlternatePart=
+Variation12=Designator=C3|UniqueId=\QVKGBZTS|Kind=1|AlternatePart=
+Variation13=Designator=C6|UniqueId=\SCZHAHGG|Kind=1|AlternatePart=
+Variation14=Designator=C4|UniqueId=\WLBJAHDO|Kind=1|AlternatePart=
+Variation15=Designator=MP6|UniqueId=\IUJJNQYM|Kind=1|AlternatePart=
+Variation16=Designator=MP5|UniqueId=\LKJCLLMY|Kind=1|AlternatePart=
+Variation17=Designator=C35|UniqueId=\MYCSTQYC\XRXFVPDI|Kind=1|AlternatePart=
+Variation18=Designator=C33|UniqueId=\MYCSTQYC\RATHNGAZ|Kind=1|AlternatePart=
+Variation19=Designator=C36|UniqueId=\MYCSTQYC\LJGFZKNG|Kind=1|AlternatePart=
+Variation20=Designator=C34|UniqueId=\MYCSTQYC\IFVJPNWW|Kind=1|AlternatePart=
+Variation21=Designator=C37|UniqueId=\MYCSTQYC\AOVTEKQH|Kind=1|AlternatePart=
+Variation22=Designator=TP62|UniqueId=\MYCSTQYC\EELFNVML|Kind=1|AlternatePart=
+Variation23=Designator=TP64|UniqueId=\MYCSTQYC\ZWOCGPUG|Kind=1|AlternatePart=
+Variation24=Designator=TP63|UniqueId=\MYCSTQYC\BIBRQZEM|Kind=1|AlternatePart=
+Variation25=Designator=U4|UniqueId=\MYCSTQYC\XZUCLEGM|Kind=1|AlternatePart=
+Variation26=Designator=U3|UniqueId=\MYCSTQYC\EFAMCWBL|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant7]
+UniqueId=bdf09900-b7e0-41d2-8918-fd9af240e591
+Description=Hall_400A
+AllowFabrication=0
+ParameterCount=0
+VariationCount=24
+Variation1=Designator=B1|UniqueId=\QPYYDRHZ|Kind=1|AlternatePart=
+Variation2=Designator=B2|UniqueId=\WCKOMECY|Kind=1|AlternatePart=
+Variation3=Designator=B3|UniqueId=\YSNQQGKP|Kind=1|AlternatePart=
+Variation4=Designator=R4|UniqueId=\RDNQHZWP|Kind=1|AlternatePart=
+Variation5=Designator=R5|UniqueId=\BPUMSZJO|Kind=1|AlternatePart=
+Variation6=Designator=R6|UniqueId=\WNIYCYFK|Kind=1|AlternatePart=
+Variation7=Designator=R8|UniqueId=\WPTVWPWO|Kind=1|AlternatePart=
+Variation8=Designator=R7|UniqueId=\FYYDGQUN|Kind=1|AlternatePart=
+Variation9=Designator=R10|UniqueId=\EFGLRGZS|Kind=1|AlternatePart=
+Variation10=Designator=R11|UniqueId=\NEDHUDRW|Kind=1|AlternatePart=
+Variation11=Designator=R12|UniqueId=\UOSYPOKV|Kind=1|AlternatePart=
+Variation12=Designator=C3|UniqueId=\QVKGBZTS|Kind=1|AlternatePart=
+Variation13=Designator=C5|UniqueId=\LTRVJCEH|Kind=1|AlternatePart=
+Variation14=Designator=C4|UniqueId=\WLBJAHDO|Kind=1|AlternatePart=
+Variation15=Designator=C35|UniqueId=\MYCSTQYC\XRXFVPDI|Kind=1|AlternatePart=
+Variation16=Designator=C33|UniqueId=\MYCSTQYC\RATHNGAZ|Kind=1|AlternatePart=
+Variation17=Designator=C36|UniqueId=\MYCSTQYC\LJGFZKNG|Kind=1|AlternatePart=
+Variation18=Designator=C34|UniqueId=\MYCSTQYC\IFVJPNWW|Kind=1|AlternatePart=
+Variation19=Designator=C37|UniqueId=\MYCSTQYC\AOVTEKQH|Kind=1|AlternatePart=
+Variation20=Designator=TP62|UniqueId=\MYCSTQYC\EELFNVML|Kind=1|AlternatePart=
+Variation21=Designator=TP64|UniqueId=\MYCSTQYC\ZWOCGPUG|Kind=1|AlternatePart=
+Variation22=Designator=TP63|UniqueId=\MYCSTQYC\BIBRQZEM|Kind=1|AlternatePart=
+Variation23=Designator=U4|UniqueId=\MYCSTQYC\XZUCLEGM|Kind=1|AlternatePart=
+Variation24=Designator=U3|UniqueId=\MYCSTQYC\EFAMCWBL|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Configuration1]
@@ -1265,226 +1474,214 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=EL.XXX.T01.IntLib
-ComponentDesignItemID0=
+ComponentDesignItemID0=1029c3af85768c4190bb7ad29bc67b5
 ComponentSymbolReference0=1029c3af85768c4190bb7ad29bc67b5
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=EL.XXX.T01.IntLib
-ComponentDesignItemID1=
+ComponentDesignItemID1=43860-0004
 ComponentSymbolReference1=43860-0004
 ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=EL.XXX.T01.IntLib
-ComponentDesignItemID2=
-ComponentSymbolReference2=Capacitor-NonPolar
+ComponentDesignItemID2=83a8c20666b8818ecf60699c622df6d
+ComponentSymbolReference2=83a8c20666b8818ecf60699c622df6d
 ComponentUpdate2=1
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=EL.XXX.T01.IntLib
-ComponentDesignItemID3=
-ComponentSymbolReference3=cf9dcfd4a8b3775ff5e4cba6f3e7206
+ComponentDesignItemID3=AUIRF7799L2
+ComponentSymbolReference3=AUIRF7799L2
 ComponentUpdate3=1
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=EL.XXX.T01.IntLib
-ComponentDesignItemID4=
-ComponentSymbolReference4=Diode-Schottky
+ComponentDesignItemID4=BLM15AX102SN1D
+ComponentSymbolReference4=Ferrite-Bead
 ComponentUpdate4=1
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=EL.XXX.T01.IntLib
-ComponentDesignItemID5=
-ComponentSymbolReference5=General-4-Pin-MP
+ComponentDesignItemID5=Capacitor-NonPolar
+ComponentSymbolReference5=Capacitor-NonPolar
 ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=EL.XXX.T01.IntLib
-ComponentDesignItemID6=
-ComponentSymbolReference6=Inductor-Ferrite-Fixed
+ComponentDesignItemID6=cf9dcfd4a8b3775ff5e4cba6f3e7206
+ComponentSymbolReference6=cf9dcfd4a8b3775ff5e4cba6f3e7206
 ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=EL.XXX.T01.IntLib
-ComponentDesignItemID7=
-ComponentSymbolReference7=ISO1540DR
+ComponentDesignItemID7=CL05A104KA5NNNC
+ComponentSymbolReference7=Capacitor-NonPolar
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=EL.XXX.T01.IntLib
-ComponentDesignItemID8=
-ComponentSymbolReference8=NCV551SNxxT1G
+ComponentDesignItemID8=CL05B103KA5NNNC
+ComponentSymbolReference8=Capacitor-NonPolar
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=EL.XXX.T01.IntLib
-ComponentDesignItemID9=
-ComponentSymbolReference9=Pad
+ComponentDesignItemID9=CMP-0003-00072-2
+ComponentSymbolReference9=TI-ADS125XD8
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=EL.XXX.T01.IntLib
-ComponentDesignItemID10=
-ComponentSymbolReference10=Resistor
+ComponentDesignItemID10=CMP-00287-00695349-1
+ComponentSymbolReference10=39108d2c2fe9c6c4263f1aa8ae40286
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=EL.XXX.T01.IntLib
-ComponentDesignItemID11=
-ComponentSymbolReference11=Test-Point-SMD-1
+ComponentDesignItemID11=CMP-12105-000001-1
+ComponentSymbolReference11=5ca08d69d3ff88643ab4764b3ac8b6a
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=EL.XXX.T01.IntLib
-ComponentDesignItemID12=
-ComponentSymbolReference12=TPS54360B
+ComponentDesignItemID12=CMP-25159-260295-1
+ComponentSymbolReference12=3465f1ec27570957a13575eae84d1d8
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=EL.XXX.T01.IntLib
-ComponentDesignItemID13=
-ComponentSymbolReference13=WP-BUTR
+ComponentDesignItemID13=CMP-40224-000008-1
+ComponentSymbolReference13=79411a1daa27f0f3cdd4759ff5fa8e9
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=EL.XXX.T01.IntLib
-ComponentDesignItemID14=83a8c20666b8818ecf60699c622df6d
-ComponentSymbolReference14=83a8c20666b8818ecf60699c622df6d
+ComponentDesignItemID14=Diode-Schottky
+ComponentSymbolReference14=Diode-Schottky
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=EL.XXX.T01.IntLib
-ComponentDesignItemID15=AUIRF7799L2
-ComponentSymbolReference15=AUIRF7799L2
+ComponentDesignItemID15=DS1042-24-2017VBR16005
+ComponentSymbolReference15=Tactile-Switch-2-Pin
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=EL.XXX.T01.IntLib
-ComponentDesignItemID16=BLM15AX102SN1D
-ComponentSymbolReference16=Ferrite-Bead
+ComponentDesignItemID16=General-4-Pin-MP
+ComponentSymbolReference16=General-4-Pin-MP
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=EL.XXX.T01.IntLib
-ComponentDesignItemID17=Capacitor-NonPolar
+ComponentDesignItemID17=GRM155C80J106ME11D
 ComponentSymbolReference17=Capacitor-NonPolar
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=EL.XXX.T01.IntLib
-ComponentDesignItemID18=CL05A104KA5NNNC
-ComponentSymbolReference18=Capacitor-NonPolar
+ComponentDesignItemID18=Inductor-Ferrite-Fixed
+ComponentSymbolReference18=Inductor-Ferrite-Fixed
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=EL.XXX.T01.IntLib
-ComponentDesignItemID19=CL05B103KA5NNNC
-ComponentSymbolReference19=Capacitor-NonPolar
+ComponentDesignItemID19=ISO1540DR
+ComponentSymbolReference19=ISO1540DR
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=EL.XXX.T01.IntLib
-ComponentDesignItemID20=CMP-0003-00072-2
-ComponentSymbolReference20=TI-ADS125XD8
+ComponentDesignItemID20=NCV551SNxxT1G
+ComponentSymbolReference20=NCV551SNxxT1G
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=EL.XXX.T01.IntLib
-ComponentDesignItemID21=CMP-00287-00695349-1
-ComponentSymbolReference21=39108d2c2fe9c6c4263f1aa8ae40286
+ComponentDesignItemID21=Pad
+ComponentSymbolReference21=Pad
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=EL.XXX.T01.IntLib
-ComponentDesignItemID22=CMP-12105-000001-1
-ComponentSymbolReference22=5ca08d69d3ff88643ab4764b3ac8b6a
+ComponentDesignItemID22=RC0402DR-071KL
+ComponentSymbolReference22=Resistor
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=EL.XXX.T01.IntLib
-ComponentDesignItemID23=CMP-25159-260295-1
-ComponentSymbolReference23=3465f1ec27570957a13575eae84d1d8
+ComponentDesignItemID23=RC0402FR-0710KL
+ComponentSymbolReference23=Resistor
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=EL.XXX.T01.IntLib
-ComponentDesignItemID24=CMP-40224-000008-1
-ComponentSymbolReference24=79411a1daa27f0f3cdd4759ff5fa8e9
+ComponentDesignItemID24=RC0402FR-07430RL
+ComponentSymbolReference24=Resistor
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=EL.XXX.T01.IntLib
-ComponentDesignItemID25=DS1042-24-2017VBR16005
-ComponentSymbolReference25=Tactile-Switch-2-Pin
+ComponentDesignItemID25=RC0402JR-070RL
+ComponentSymbolReference25=Resistor-J
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=EL.XXX.T01.IntLib
-ComponentDesignItemID26=GRM155C80J106ME11D
-ComponentSymbolReference26=Capacitor-NonPolar
+ComponentDesignItemID26=RC0603JR-0710RL
+ComponentSymbolReference26=Resistor
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=EL.XXX.T01.IntLib
-ComponentDesignItemID27=RC0402DR-071KL
+ComponentDesignItemID27=Resistor
 ComponentSymbolReference27=Resistor
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=EL.XXX.T01.IntLib
-ComponentDesignItemID28=RC0402FR-0710KL
-ComponentSymbolReference28=Resistor
+ComponentDesignItemID28=SM712.TCT
+ComponentSymbolReference28=SM712.TCT
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=EL.XXX.T01.IntLib
-ComponentDesignItemID29=RC0402FR-07430RL
-ComponentSymbolReference29=Resistor
+ComponentDesignItemID29=SN65HVD72DRBR
+ComponentSymbolReference29=SN65HVD7xDRB
 ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=EL.XXX.T01.IntLib
-ComponentDesignItemID30=RC0402JR-070RL
-ComponentSymbolReference30=Resistor-J
+ComponentDesignItemID30=Test-Point-SMD-1
+ComponentSymbolReference30=Test-Point-SMD-1
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=EL.XXX.T01.IntLib
-ComponentDesignItemID31=RC0603JR-0710RL
-ComponentSymbolReference31=Resistor
+ComponentDesignItemID31=TI-OPA-8_1
+ComponentSymbolReference31=TI-OPA-8_1
 ComponentUpdate31=1
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=EL.XXX.T01.IntLib
-ComponentDesignItemID32=SM712.TCT
-ComponentSymbolReference32=SM712.TCT
+ComponentDesignItemID32=TP-PAD-SMD
+ComponentSymbolReference32=Test-Point-SMD-1
 ComponentUpdate32=1
 ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
 ComponentLibraryIdentifier33=EL.XXX.T01.IntLib
-ComponentDesignItemID33=SN65HVD72DRBR
-ComponentSymbolReference33=SN65HVD7xDRB
+ComponentDesignItemID33=TPS54360B
+ComponentSymbolReference33=TPS54360B
 ComponentUpdate33=1
 ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
 ComponentLibraryIdentifier34=EL.XXX.T01.IntLib
-ComponentDesignItemID34=Test-Point-SMD-1
-ComponentSymbolReference34=Test-Point-SMD-1
+ComponentDesignItemID34=WP-BUTR
+ComponentSymbolReference34=WP-BUTR
 ComponentUpdate34=1
 ComponentIsDeviceSheet34=0
-ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=EL.XXX.T01.IntLib
-ComponentDesignItemID35=TI-OPA-8_1
-ComponentSymbolReference35=TI-OPA-8_1
-ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
-ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=EL.XXX.T01.IntLib
-ComponentDesignItemID36=TP-PAD-SMD
-ComponentSymbolReference36=Test-Point-SMD-1
-ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1

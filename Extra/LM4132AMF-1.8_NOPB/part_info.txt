@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM4132AMF-1.8/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=2.1
+Released=2015-04-13 16:14:52
+Downloaded=2025-08-21 07:04:05
+3D=Y

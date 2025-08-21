@@ -1,0 +1,16 @@
+.LM4132AMF-1.8_NOPB :1 ;0.05% 20ppm/C Drift Precision Series Voltage Reference with Shutdown Enable
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="N/C" 2="GND" 3="EN" 4="VIN" 5="VREF"
+*MXP 5
+*DFN LM4132AMF-1.8_NOPB
+~!Mouser Part Number (926-LM4132AMF18NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM4132AMF-18-NOPB?qs=QbsRYf82W3HnSfMLOwla5A%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM4132AMF-1.8/NOPB)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/lm4132.pdf)
+~!Height (1.45mm)
+~!3D_Model (LM4132AMF-1.8_NOPB)
+LM4132AMF-1.8_NOPB
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
