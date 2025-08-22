@@ -50,91 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=CellVoltageControl.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QJHVSQNS
-
-[Document2]
-DocumentPath=CellVoltageControl.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HPJYSSTS
-
-[Document3]
-DocumentPath=..\Extra\530470460\530470460.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=..\Extra\530470460\530470460.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=..\Extra\530470460\530470460.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=..\Extra\Templates\DC-DC_5V0_To_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,9 +64,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=THDQMQEP
 
-[Document7]
+[Document2]
 DocumentPath=..\Extra\Templates\DC-DC_24V_To_5V0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,9 +81,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PHKDJGSL
 
-[Document8]
+[Document3]
 DocumentPath=..\Extra\Templates\ISO_I2C_ISO1540DR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,9 +98,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GAAFMWOB
 
-[Document9]
+[Document4]
 DocumentPath=..\Extra\Templates\ISO_PWR_UCC12040DVER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,9 +115,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FCNUKIKB
 
-[Document10]
+[Document5]
 DocumentPath=..\Extra\Templates\MCU_STM32L010K4T6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,9 +132,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VDONLJDM
 
-[Document11]
+[Document6]
 DocumentPath=..\Extra\Templates\Opto_AQY280SX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,9 +149,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XDAFTIYO
 
-[Document12]
+[Document7]
 DocumentPath=..\Extra\Templates\Ref_2V5_LM4132AMF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,9 +166,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XEDJDYDW
 
-[Document13]
+[Document8]
 DocumentPath=..\Extra\Templates\RS-485_SN65HVD72DRBR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -268,9 +183,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SLGWNOKD
 
-[Document14]
+[Document9]
 DocumentPath=..\Extra\Templates\Single-ADC_ADS1252U.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,9 +200,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PKRWCASH
 
-[Document15]
+[Document10]
 DocumentPath=KelvinVoltageMeasureModule.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,9 +217,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HPJYSSTS
 
-[Document16]
+[Document11]
 DocumentPath=KelvinVoltageMeasureModule.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -319,7 +234,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QJHVSQNS
 
 [Configuration1]
 Name=Sources
