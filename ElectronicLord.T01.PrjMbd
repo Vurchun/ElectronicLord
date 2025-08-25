@@ -264,6 +264,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.KVMM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document11]
 DocumentPath=EL.PLAM.T01\EL.PLAM.T01.PrjPcb
@@ -285,6 +287,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.PLAM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document12]
 DocumentPath=EL.PLSM.T01\EL.PLSM.T01.PrjPcb
@@ -306,6 +310,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.PLSM.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [Document13]
 DocumentPath=EL.UPSM.T01\EL.UPSM.T01.PrjPcb
@@ -327,27 +333,8 @@ VaultGUID=
 ManagedProjectGUID=
 RevisionGUID=
 ProjectName=EL.UPSM.T01.PrjPcb
-
-[Document14]
-DocumentPath=EL.WLRT.T01\EL.WLRT.T01.PrjPcb
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-VaultGUID=
-ManagedProjectGUID=
-RevisionGUID=
-ProjectName=EL.WLRT.T01.PrjPcb
+VaultURL=
+VaultName=
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -1,51 +1,78 @@
-# ElectronicLord
-Smart Electronic Load
+# ElectronicLord  
+**Smart Electronic Load**
 
-Device Description
+---
 
-The Smart Electronic Load is a high-precision testing instrument designed for evaluating the performance of power supplies, rechargeable batteries, wiring, and other electronic components. By simulating various load scenarios, the device enables accurate measurements and assessment of real-world operating conditions.
+## 📘 Device Description
 
-At its core, the device features a high-precision measurement system combined with adaptive control, ensuring stable and reliable operation in the following modes:
+The **Smart Electronic Load** is a high-precision testing instrument designed for evaluating the performance of:
 
-Constant Current (CC);
-Constant Voltage (CV);
-Constant Resistance (CR);
-Constant Power (CP).
+- Power supplies  
+- Rechargeable batteries  
+- Wiring  
+- Other electronic components  
 
-Integration with a microcontroller enables both local control via a display and buttons, as well as remote monitoring and configuration through a computer or mobile device.
+By simulating various load scenarios, the device enables accurate measurements and assessment of real-world operating conditions.
 
-Architecture & Implementation Details
+### Supported Modes
 
-Key Components:
+- **Constant Current (CC)**  
+- **Constant Voltage (CV)**  
+- **Constant Resistance (CR)**  
+- **Constant Power (CP)**  
 
-Dedicated control board (with display and buttons, optional touchscreen planned for future versions);
-Modular load system for scalable power handling;
-Four-wire voltage measurement for increased accuracy;
-Interfaces for data communication (OTG/UART, future Wi-Fi support).
+Integration with a microcontroller enables:
 
-Software Features:
+- Local control via display and buttons  
+- Remote monitoring and configuration via computer or mobile device  
 
-Power limit control to ensure safe operation;
-Expandable load module support without requiring firmware modifications;
-Visualization of statistical data in graphical format (planned feature);
-Data transmission to a computer via wired connection (OTG/UART), with future wireless (Wi-Fi) support;
-Supported modes: constant power, resistance, voltage, and current.
+---
 
-/------------------------------------------------------------------------------------------------------------------------------
+## 🛠 Architecture & Implementation Details
 
-EL.T01.DFLT 	- defailt module
-EL.T01.MBRD 	- main board module
-EL.T01.PLAM 	- power load adjustable module
-EL.T01.PLSM 	- power load stable module
-EL.T01.MSCH 	- shunt module
-EL.T01.KVMM 	- kelvin voltage measure module
-EL.T01.CVCM 	- cell voltage control module
-EL.T01.WLRT 	- wireless receiver transmitter
-EL.T01.UIM 		- User interfacer module
-EL.T01.UPSM 	- uninterruptible power supply module
+### Key Components
 
-EL.T01.MSCH 	- Montage scheme
+- Dedicated control board (with display and buttons; optional touchscreen in future versions)  
+- Modular load system for scalable power handling  
+- Four-wire voltage measurement for increased accuracy  
+- Interfaces for data communication: OTG/UART (Wi-Fi support planned)  
 
-/------------------------------------------------------------------------------------------------------------------------------
-Feature
-In addition to setting the maximum power to the load module, the life of the MOSFET transistors should be checked. The voltage required to open the transistors to a given level should also be assessed. It is important to recognise that a transistor showing signs of thermal damage (‘burnt’) will have an increased resistance, necessitating a higher voltage to fully open to the same level.
+### Software Features
+
+- Power limit control for safe operation  
+- Expandable load module support (no firmware changes required)  
+- Visualization of statistical data in graphical format *(planned)*  
+- Data transmission via OTG/UART *(Wi-Fi support planned)*  
+- Supported modes: constant power, resistance, voltage, and current  
+
+---
+
+## 📦 Module Reference Table
+
+| Module Code     | Description                          |
+|-----------------|--------------------------------------|
+| EL.T01.DFLT     | Default module                       |
+| EL.T01.MBRD     | Main board module                    |
+| EL.T01.PLAM     | Power load adjustable module         |
+| EL.T01.PLSM     | Power load stable module             |
+| EL.T01.MSCH     | Shunt module                         |
+| EL.T01.KVMM     | Kelvin voltage measure module        |
+| EL.T01.CVCM     | Cell voltage control module          |
+| EL.T01.UIM      | User interfacer module               |
+| EL.T01.UPSM     | Uninterruptible power supply module  |
+| EL.T01.CHGM     | Battary charge module                |
+| EL.T01.MSCH     | Montage scheme                       |
+
+---
+
+## ⚙️ Feature Note
+
+In addition to setting the maximum power to the load module, the following should be assessed:
+
+- **MOSFET transistor health**  
+- **Voltage required to open transistors to a given level**  
+
+> A transistor showing signs of thermal damage ("burnt") will have increased resistance, requiring a higher voltage to fully open to the same level.
+
+---
+
