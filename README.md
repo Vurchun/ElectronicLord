@@ -49,19 +49,19 @@ Integration with a microcontroller enables:
 
 ## 📦 Module Reference Table
 
-| Module Code     | Description                          |
-|-----------------|--------------------------------------|
-| EL.T01.DFLT     | Default module                       |
-| EL.T01.MBRD     | Main board module                    |
-| EL.T01.PLAM     | Power load adjustable module         |
-| EL.T01.PLSM     | Power load stable module             |
-| EL.T01.MSCH     | Shunt module                         |
-| EL.T01.KVMM     | Kelvin voltage measure module        |
-| EL.T01.CVCM     | Cell voltage control module          |
-| EL.T01.UIM      | User interfacer module               |
-| EL.T01.UPSM     | Uninterruptible power supply module  |
-| EL.T01.CHGM     | Battary charge module                |
-| EL.T01.MSCH     | Montage scheme                       |
+| Module Code     | Description                               |
+|-----------------|-------------------------------------------|
+| EL.T01.DFLT     | Default module                            |
+| EL.T01.MBRD     | Main board module                         |
+| EL.T01.PLAM     | Power load adjustable module              |
+| EL.T01.PLSM     | Power load stable module (aka EL.T01.MSCH)|
+| EL.T01.MSCH     | Shunt module                              |
+| EL.T01.KVMM     | Kelvin voltage measure module             |
+| EL.T01.CVCM     | Cell voltage control module               |
+| EL.T01.UIM      | User interfacer module                    |
+| EL.T01.UPSM     | Uninterruptible power supply module       |
+| EL.T01.CHGM     | Battary charge module                     |
+| EL.T01.MSCH     | Montage scheme                            |
 
 ---
 
@@ -71,8 +71,5 @@ In addition to setting the maximum power to the load module, the following shoul
 
 - **MOSFET transistor health**  
 - **Voltage required to open transistors to a given level**  
-
-> A transistor showing signs of thermal damage ("burnt") will have increased resistance, requiring a higher voltage to fully open to the same level.
-
 ---
 
